@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-doctrine-sociale",
+  "namespace_id": "pastorale.demo:doctrine-sociale",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-doctrine-sociale",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "eb145f339b8ab6e8b5638ccb051cc3d3e58f7d1085c076b06b793f2745dee268"
+        }
+      ]
+    }
+  ]
+}

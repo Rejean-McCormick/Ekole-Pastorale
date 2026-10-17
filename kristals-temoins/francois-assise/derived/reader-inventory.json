@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:francois-assise-temoin",
+  "source_fingerprint": "sha256:fdbc78a86e5fb72011547007ba283392537d7fabcc5076f3f2b08b4587828396",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 14965,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 2400,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-temoins-francois-cross-73c3c7ca47.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 565,
+      "sha256": "sha256:b0f40dfb01202f1a72be343a6a54a63dce52ee5f57f6d22cb3a11fb027103eb9"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-temoins-francois-dict-ae1a5a3ef0.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 975,
+      "sha256": "sha256:94163105e0db14e1c0c432e137ec1668fa19d33cf71f27f50181456198042c9f"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-temoins-francois-graph-40ce65048a.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1770,
+      "sha256": "sha256:a5da2f5a003ee9a113baeca6866a2de2354b40bd6050716ecabb56fae6e188be"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-temoins-francois-natif-ecae04be47.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 2400,
+      "sha256": "sha256:c98ed6d9890729f8563c8df8ddb4be8dd5934151b5687395861355c7e921f531"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-temoins-francois-reg-39f722360b.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1925,
+      "sha256": "sha256:981a5c63f674767137c920d60dc145a57526c988978a8f6af91f3905ca62a47d"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2191,
+      "sha256": "sha256:c7b7eca1ee1f06212c9103af0832c2f4c8ab291fc9c13b6b84e103d300303a7b"
+    },
+    {
+      "path": "canon/domain/temoignages/temoin.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1870,
+      "sha256": "sha256:33f51a7bc66a52a198fbfe85e7554d7038cb8e191e99f10c4a9768155e5257f6"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 145,
+      "sha256": "sha256:a4a4cc0bd39cb098eddac01e59c50f5ce932da4c2ee8756f496c16bd875dae57"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 526,
+      "sha256": "sha256:dab94a8bf208798317cbb974581cc5f278eb2ab74b60ae0b91da685cc88f6afb"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1224,
+      "sha256": "sha256:f3684cf77742d06dd6bbe56b8c4785e15752c482577d470acb031c6b5bbd8a3f"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1374,
+      "sha256": "sha256:ad350d52716f2990e1ad53770b7980a1f5e3fe897a586c1a102358b550773806"
+    }
+  ],
+  "segments": []
+}

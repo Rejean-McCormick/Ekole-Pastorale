@@ -1,0 +1,26 @@
+{
+  "format": "kristal.discovery/1.0",
+  "state_ref": "urn:kristal:state:cana",
+  "classification": {
+    "arketype": "unite-formation-federee",
+    "archetype_library": "1.5.0+extension-prototype"
+  },
+  "data_layout": {
+    "state_architecture": "kristal.state/9.0",
+    "native_kind": "unite_pedagogique_federee",
+    "organization": "unknown",
+    "materialization_profiles": [],
+    "inventory_ref": "derived/reader-inventory.json"
+  },
+  "reader": {
+    "profile": "kristal.reader/generic-v1",
+    "hints_ref": "derived/reader-profile.json"
+  },
+  "size": {
+    "class": "tiny",
+    "tracked_local_bytes": 29177,
+    "completeness": "measured_referenced_local_files"
+  },
+  "source_fingerprint": "sha256:d36a13a83f1635945db6c653a46e099b80e9f32307a975c04b51669d15d0ff4d",
+  "authority": "noncanonical_derived_metadata_not_access_or_publication_authority"
+}

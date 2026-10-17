@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:paul-charite",
+  "source_fingerprint": "sha256:1cb58d89b3f570cbad65651dd94883607319cc04a38ecbff05054a0069b4deec",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 29229,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10151,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-paul-charite-catalog-f3b571a928.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 976,
+      "sha256": "sha256:1659e95f605a39bdb91f58b2f0dd61b8257a381e3116ea50f2defb6cc0652d1a"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-paul-charite-crosswalk-038bdaab78.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 567,
+      "sha256": "sha256:86fc0feb211231b8c69f7d7abe4bb13c824a318d94609a985c2f2b96fb9a9bdc"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-paul-charite-graph-6b33736d08.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1515,
+      "sha256": "sha256:7c57be892ae53b17525e01cf92a77022d7e1606df6dbab747c826c4ec5c7a120"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-paul-charite-native-unit-146e6c2216.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10151,
+      "sha256": "sha256:3bd19fdfcbbf2b890c71d6f359468c0d597e7a5254f3acbd625e2091ad9de985"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-paul-charite-registry-d47acbcec2.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1723,
+      "sha256": "sha256:34bc40f918500d59b012d90fdd9477750d1b2eeb46dfcf774934f7d5d87c4104"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2203,
+      "sha256": "sha256:516872adf08bce83ffd8ce58d8ff4966856d81b5f75496a1836269aacf359a74"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9249,
+      "sha256": "sha256:d7f39b342d5b365fec4d96b48ae9562754a8d5cdba04ba9420cc5b4a0dfd180a"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 142,
+      "sha256": "sha256:6b681509e7aa5ed516e8e4860832c372245c387d187d255670d97a137ca10b1a"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 523,
+      "sha256": "sha256:5c42dde30cc90faa97a266a814bbf8cf8c1f828be066427eb7d3aec0ee3cd5ca"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 994,
+      "sha256": "sha256:07dffae7a2488dc1eaf86790f187febf62d67301c57214a75298980a7f8e040e"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1186,
+      "sha256": "sha256:67b941cf87e72df13887fc32e4edf63461c486beb1c065c1ca544d030aca589f"
+    }
+  ],
+  "segments": []
+}

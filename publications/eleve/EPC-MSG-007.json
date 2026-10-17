@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-007",
+  "titre": "Prière, silence et discernement",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Étudier le Notre Père et la critique de la prière comme spectacle. Distinguer demande, louange, gratitude, contemplation et silence."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Présenter les formes catholiques de prière sans confondre pratique spirituelle avec traitement médical ou technique de contrôle émotionnel."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Que répondre à un participant qui se sent coupable de ne pas ressentir la présence de Dieu?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Préparer une courte proposition de prière avec option d’observation silencieuse respectueuse des consciences."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Que répondre à un participant qui se sent coupable de ne pas ressentir la présence de Dieu?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

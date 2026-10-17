@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-sacrements-mystere",
+  "namespace_id": "pastorale.demo:sacrements-mystere",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-sacrements-mystere",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "31f62d102315c774ce3574bb00726ba3e4c8fd0227eb2b9a7ccc8f90d411f354"
+        }
+      ]
+    }
+  ]
+}

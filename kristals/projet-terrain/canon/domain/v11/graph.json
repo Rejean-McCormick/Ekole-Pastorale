@@ -1,0 +1,58 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_semantic_graph",
+  "namespace_id": "pastorale.demo:projet-terrain",
+  "graph_id": "curriculum-projet-terrain",
+  "entities": [
+    "KQ1001",
+    "KQ1002",
+    "KQ1003",
+    "KQ1004"
+  ],
+  "properties": [
+    "KP2001",
+    "KP2002",
+    "KP2003"
+  ],
+  "sources": [
+    "KS4001"
+  ],
+  "assertions": [
+    {
+      "id": "KA3001",
+      "subject": "KQ1001",
+      "predicate": "KP2001",
+      "object": {
+        "kind": "entity",
+        "id": "KQ1002"
+      },
+      "sources": [
+        "KS4001"
+      ]
+    },
+    {
+      "id": "KA3002",
+      "subject": "KQ1001",
+      "predicate": "KP2002",
+      "object": {
+        "kind": "entity",
+        "id": "KQ1003"
+      },
+      "sources": [
+        "KS4001"
+      ]
+    },
+    {
+      "id": "KA3003",
+      "subject": "KQ1001",
+      "predicate": "KP2003",
+      "object": {
+        "kind": "entity",
+        "id": "KQ1004"
+      },
+      "sources": [
+        "KS4001"
+      ]
+    }
+  ]
+}

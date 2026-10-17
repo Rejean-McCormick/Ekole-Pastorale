@@ -1,0 +1,245 @@
+{
+  "format": "pastorale.unite-native/1.1-draft",
+  "namespace_id": "pastorale.demo:accompagnement",
+  "unite_id": "KQ1001",
+  "branche_id": "KQ1002",
+  "theme_id": "KQ1003",
+  "reference_id": "KQ1004",
+  "curriculum_id": "EPC-MSG-018",
+  "langue": "fr-CA",
+  "statut": "proposition_non_validee",
+  "objectif": "Être capable de analyser et transmettre : éthique et protection en distinguant textes, tradition catholique et responsabilité pastorale.",
+  "preuve": "Checklist de protection et de refus des abus spirituels.",
+  "prerequis": [
+    "EPC-MSG-001"
+  ],
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Observer comment le récit d’Emmaüs donne place à la marche, aux questions et à l’explication; ne pas en déduire un protocole psychologique automatique."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Étudier consentement, confidentialité limitée, conflits d’intérêts, orientation, et distinction entre accompagnement spirituel, psychothérapie et direction sacramentelle."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Un bénévole reçoit une révélation de violence envers un mineur. Quelles règles de protection et de signalement locales doivent primer?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Simuler une orientation vers le responsable de sauvegarde et les organismes compétents selon les procédures du Québec."
+    }
+  ],
+  "references": [
+    {
+      "id": "KS4001",
+      "citation": "Luc 24, 13-35; principes de sauvegarde",
+      "verification": "source_a_verifier_avant_publication"
+    }
+  ],
+  "epistemologie": {
+    "registre": "message",
+    "politique": "ne pas confondre source, récit, croyance, tradition et interprétation"
+  },
+  "validation": {
+    "pedagogical": false,
+    "theological": false,
+    "safeguarding": false
+  },
+  "publication_autorisee": false,
+  "niveau": "application",
+  "duree_minutes": 180,
+  "competences": [
+    "interpréter les sources sans confondre les registres",
+    "expliquer loyalement la perspective catholique",
+    "agir ou accompagner avec responsabilité"
+  ],
+  "questions_difficiles": [
+    "Un bénévole reçoit une révélation de violence envers un mineur. Quelles règles de protection et de signalement locales doivent primer?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "activites": [
+    {
+      "id": "atelier-situation",
+      "type": "etude_de_cas",
+      "consigne": "Simuler une orientation vers le responsable de sauvegarde et les organismes compétents selon les procédures du Québec.",
+      "livrable": "Checklist de protection et de refus des abus spirituels.",
+      "travail_terrain_requis": false
+    }
+  ],
+  "evaluation": {
+    "production": "Checklist de protection et de refus des abus spirituels.",
+    "criteres": [
+      {
+        "id": "ancrage",
+        "description": "S’appuyer sur une référence nommée avec distinction du contexte",
+        "poids": 30
+      },
+      {
+        "id": "fidelite",
+        "description": "Présenter sans déformer le point de vue catholique et ses limites",
+        "poids": 25
+      },
+      {
+        "id": "respect",
+        "description": "Respecter les consciences, les personnes et les limites de rôle",
+        "poids": 25
+      },
+      {
+        "id": "action",
+        "description": "Proposer un exercice ou une action concrète et évaluable",
+        "poids": 20
+      }
+    ],
+    "retroaction": "Commentaire formatif privé remis par la personne formatrice; jamais exposé dans la vue élève."
+  },
+  "sauvegarde": {
+    "ne_pas_promettre_de_miracles": true,
+    "aucune_adhesion_forcee": true,
+    "respect_des_soins": true,
+    "signaler_selon_droit_applicable": true,
+    "ne_pas_imposer_reconciliation": true,
+    "directives": [
+      "Aucune activité ne peut exiger un témoignage intime ou une divulgation traumatique.",
+      "Les cas d’abus requièrent les dispositifs de protection et le droit applicable, non une médiation improvisée."
+    ]
+  },
+  "registres_documentaires": [
+    "texte_biblique",
+    "enseignement_catholique",
+    "interpretation_commentaire",
+    "pratique_pastorale"
+  ],
+  "bibliographie_cible": [
+    {
+      "reference": "Luc 24, 13-35; principes de sauvegarde",
+      "nature": "bibliographie_a_verifier",
+      "commentaire": "Citation à contrôler sur l’édition et la traduction avant publication."
+    }
+  ],
+  "diffusion": {
+    "projection": "ekole.content-pack/0.1",
+    "vue_enseignant": "modules+activites+evaluation",
+    "vue_apprenant": "modules+questions_sans_correction",
+    "publication": "bloquee_jusqua_validation_humaine"
+  },
+  "approbations": {
+    "exegese": false,
+    "doctrine": false,
+    "pedagogie": false,
+    "protection": false,
+    "licences": false,
+    "autorite_ecclesiale": false
+  },
+  "branche_code": "message",
+  "predicat_appartenance_branche": "KP2001",
+  "guide_enseignant": {
+    "publics": [
+      "adultes en formation pastorale catholique",
+      "bénévoles en communauté",
+      "personnes en démarche de découverte"
+    ],
+    "conditions": [
+      "L’adhésion personnelle aux récits miraculeux ne conditionne pas l’accès à la branche message.",
+      "La lecture du miracle ne devient ni un test de crédulité ni une métaphore imposée."
+    ],
+    "plan_de_seances": [
+      {
+        "id": "module-1",
+        "minutes": 45,
+        "sequence": [
+          {
+            "minutes": 10,
+            "etape": "Question de départ et connaissance préalable",
+            "consigne": "Quels mots du passage Luc 24, 13-35; principes de sauvegarde demandent une clarification?"
+          },
+          {
+            "minutes": 15,
+            "etape": "Lecture et observation",
+            "consigne": "Identifier texte, auteur ou attribution, genre et destinataires; prendre note des versets exacts."
+          },
+          {
+            "minutes": 20,
+            "etape": "Analyse des sources",
+            "consigne": "Classer un énoncé en citation textuelle, contexte historique ou hypothèse interprétative."
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "minutes": 45,
+        "sequence": [
+          {
+            "minutes": 10,
+            "etape": "Retour à la source",
+            "consigne": "Quels mots viennent du texte et lesquels de sa réception dans la tradition?"
+          },
+          {
+            "minutes": 20,
+            "etape": "Éclairage catholique",
+            "consigne": "Présenter avec attribution les doctrines, auteurs et nuances, puis solliciter une objection loyale."
+          },
+          {
+            "minutes": 15,
+            "etape": "Distinctions et bilan",
+            "consigne": "Faire verbaliser la différence entre enseignement catholique, lecture spirituelle et opinion du formateur."
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "minutes": 45,
+        "sequence": [
+          {
+            "minutes": 10,
+            "etape": "Énoncer le cas",
+            "consigne": "Un bénévole reçoit une révélation de violence envers un mineur. Quelles règles de protection et de signalement locales doivent primer?"
+          },
+          {
+            "minutes": 20,
+            "etape": "Discussion ou jeu de rôles",
+            "consigne": "Relever les risques pour la dignité, le consentement, les personnes vulnérables et les limites de rôle."
+          },
+          {
+            "minutes": 15,
+            "etape": "Retours guidés",
+            "consigne": "Identifier ce qui est documenté, ce qui reste incertain et ce qui demande une orientation professionnelle."
+          }
+        ]
+      },
+      {
+        "id": "module-4",
+        "minutes": 45,
+        "sequence": [
+          {
+            "minutes": 10,
+            "etape": "Définir le livrable",
+            "consigne": "Checklist de protection et de refus des abus spirituels."
+          },
+          {
+            "minutes": 25,
+            "etape": "Travail en petits groupes",
+            "consigne": "Simuler une orientation vers le responsable de sauvegarde et les organismes compétents selon les procédures du Québec."
+          },
+          {
+            "minutes": 10,
+            "etape": "Présentation et rétroaction",
+            "consigne": "Évaluer ancrage, fidélité catholique, respect des personnes et action avec la rubrique de quatre critères."
+          }
+        ]
+      }
+    ],
+    "discussion_pour_personne_sceptique": "Qu’apporte le texte ou ce témoignage, indépendamment de l’adhésion personnelle au surnaturel, tout en précisant ce que l’Église en croit?",
+    "discussion_pour_personne_croyante": "Comment cette foi se traduit-elle en justice, discernement, pratique ou responsabilité sans instrumentaliser la croyance?",
+    "points_d_attention": [
+      "La charité ne remplace pas tout le contenu doctrinal et sacramentel du catholicisme.",
+      "La sainteté d’une personne n’authentifie pas toutes les anecdotes qui circulent à son sujet."
+    ],
+    "traitement_des_sources": "Noter les références à collationner; ne pas attribuer à une autorité ecclésiale ce qu’un formateur a seulement proposé."
+  }
+}

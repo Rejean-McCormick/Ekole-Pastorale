@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:augustin",
+  "source_fingerprint": "sha256:cfe7c0bfe35ee20d37fe144e302cafdbec8388e40ccc4a7b433e8134a392a75b",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 31229,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10667,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-augustin-catalog-fd4a7ef496.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 960,
+      "sha256": "sha256:644f9ddefbda5beeda87535a7924b80f1aa32e1abe74e2402de5b984a5a143fd"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-augustin-crosswalk-a3c3eae7c9.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 559,
+      "sha256": "sha256:d0a0df721d23b2cfb81732f35ca7efb0f7c45ef8b632b7a8ae300e79564ceddd"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-augustin-graph-eb11b1fc98.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1770,
+      "sha256": "sha256:051fcfa51c379048669cf87d27584622a564a9cc65606359a1e3c7b382654f7f"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-augustin-native-unit-dda68cba9d.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10667,
+      "sha256": "sha256:4c7eb6da02795ecfa6b4b11c0d4c0f324ad3556cb85671ffbcffeb37b4a2e5fc"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-augustin-registry-207087d8f8.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 2013,
+      "sha256": "sha256:746d41702616c09b3dc23d9f9eef602760b149a3fc4af6f7bde1b52c907ab136"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2179,
+      "sha256": "sha256:7972f23f23a99430566c2c2c3664d518c84f4170c22ba9f5dc0c1540ed4bf93c"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9757,
+      "sha256": "sha256:ef009ae5fe48f6b474a5b06210ef385a62daa30f4dac7f8887758c96cf2d485c"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 138,
+      "sha256": "sha256:6212b3dc35ae29f7daf147bd70b3976918dc84c47f31f776d41c64ad5e6697c2"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 511,
+      "sha256": "sha256:896b50d1f2f529ce2e89a251ee7d78c1f08129ef18612bf270d86aabbcf31750"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1225,
+      "sha256": "sha256:ad6311ba071911023e614d3e89d459bf7581d8f700c18caf511b0026bfc07652"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1450,
+      "sha256": "sha256:782d045a624196258cf405ea966730f6c3d90a51a19480f7e75d3f717205108a"
+    }
+  ],
+  "segments": []
+}

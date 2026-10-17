@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-richesse-conversion",
+  "namespace_id": "pastorale.demo:richesse-conversion",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-richesse-conversion",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "8461cc1141115e358c0a4fc1b2d6caecb2116ec25b4f32ca13627005a40da906"
+        }
+      ]
+    }
+  ]
+}

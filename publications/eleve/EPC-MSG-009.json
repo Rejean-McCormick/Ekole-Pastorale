@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-009",
+  "titre": "Saint Augustin : liberté, grâce et amour",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Situer Augustin dans l’Antiquité tardive et examiner le récit d’une conversion qui cherche la vérité à travers mémoire, désir et conscience."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Présenter la relation entre grâce divine, liberté humaine et conversion comme une réflexion théologique articulée, non comme une explication psychologique universelle."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment enseigner la notion de faute et de grâce sans favoriser la honte ou nier la responsabilité personnelle?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Étudier un extrait identifié des Confessions et rédiger une lecture distinguant autobiographie, enseignement et actualisation."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment enseigner la notion de faute et de grâce sans favoriser la honte ou nier la responsabilité personnelle?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

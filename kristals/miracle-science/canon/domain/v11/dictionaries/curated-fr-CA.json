@@ -1,0 +1,71 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_curated_dictionary",
+  "namespace_id": "pastorale.demo:miracle-science",
+  "language": "fr-CA",
+  "entries": [
+    {
+      "semantic_id": "KQ1001",
+      "preferred_term": "Miracles, sciences et limites des méthodes",
+      "review": {
+        "decision_id": "maquette-miracle-science-KQ1001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1002",
+      "preferred_term": "Miracles et mystères de la foi",
+      "review": {
+        "decision_id": "maquette-miracle-science-KQ1002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1003",
+      "preferred_term": "Épistémologie et foi",
+      "review": {
+        "decision_id": "maquette-miracle-science-KQ1003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1004",
+      "preferred_term": "Dei Verbum 12; Catéchisme de l’Église catholique, nos 547-550",
+      "review": {
+        "decision_id": "maquette-miracle-science-KQ1004",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2001",
+      "preferred_term": "appartient à la branche",
+      "review": {
+        "decision_id": "maquette-miracle-science-KP2001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2002",
+      "preferred_term": "étudie le thème",
+      "review": {
+        "decision_id": "maquette-miracle-science-KP2002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2003",
+      "preferred_term": "s’appuie sur la référence",
+      "review": {
+        "decision_id": "maquette-miracle-science-KP2003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    }
+  ]
+}

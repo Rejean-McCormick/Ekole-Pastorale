@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-naissance-virginale",
+  "namespace_id": "pastorale.demo:naissance-virginale",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-naissance-virginale",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "f28bfeb3f28540d3063bdc7891a87630e97b35fd15b0d852bf64b986b840489e"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_curated_dictionary",
+  "namespace_id": "pastorale.demo:francois-sales",
+  "language": "fr-CA",
+  "entries": [
+    {
+      "semantic_id": "KQ1001",
+      "preferred_term": "François de Sales : douceur et accompagnement",
+      "review": {
+        "decision_id": "maquette-francois-sales-KQ1001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1002",
+      "preferred_term": "Message et tradition vivante",
+      "review": {
+        "decision_id": "maquette-francois-sales-KQ1002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1003",
+      "preferred_term": "Direction spirituelle",
+      "review": {
+        "decision_id": "maquette-francois-sales-KQ1003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1004",
+      "preferred_term": "Introduction à la vie dévote",
+      "review": {
+        "decision_id": "maquette-francois-sales-KQ1004",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2001",
+      "preferred_term": "appartient à la branche",
+      "review": {
+        "decision_id": "maquette-francois-sales-KP2001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2002",
+      "preferred_term": "étudie le thème",
+      "review": {
+        "decision_id": "maquette-francois-sales-KP2002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2003",
+      "preferred_term": "s’appuie sur la référence",
+      "review": {
+        "decision_id": "maquette-francois-sales-KP2003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1005",
+      "preferred_term": "François de Sales",
+      "review": {
+        "decision_id": "maquette-francois-sales-KQ1005",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2004",
+      "preferred_term": "étudie le témoignage de",
+      "review": {
+        "decision_id": "maquette-francois-sales-KP2004",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    }
+  ]
+}

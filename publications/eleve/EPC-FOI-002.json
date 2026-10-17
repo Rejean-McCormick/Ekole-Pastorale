@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-002",
+  "titre": "Marcher sur l’eau et traverser la peur",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Examiner le récit de la barque, de Pierre et de Jésus, en notant l’emplacement narratif et les expressions de crainte et de foi."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Expliquer la signification christologique du signe dans la tradition chrétienne. La lecture sur la confiance est une actualisation, non un remplacement du récit de miracle."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment enseigner l’espérance sans promettre que Dieu empêchera toute catastrophe aux personnes qui ont la foi?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Analyser deux homélies fictives : l’une humilie les personnes anxieuses, l’autre accompagne sans faire de promesse surnaturelle individuelle."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment enseigner l’espérance sans promettre que Dieu empêchera toute catastrophe aux personnes qui ont la foi?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

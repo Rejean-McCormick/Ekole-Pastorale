@@ -1,0 +1,359 @@
+{
+  "format": "pastorale.temoins-candidats/1.0",
+  "statut": "non_canonique_non_certifie",
+  "destination_future": "Kristal autonome des témoins, éventuellement un archétype distinct de ARK-20",
+  "fiches": [
+    {
+      "id": "temoin-candidat-001",
+      "nom": "François d’Assise",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "pauvreté volontaire",
+        "fraternité",
+        "sollicitude envers la création"
+      ],
+      "corpus_pistes": "Testament; Règles; Cantique des créatures",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Textes attribués au saint à distinguer des biographies hagiographiques postérieures",
+      "usage_pastoral": "Pauvreté vécue librement ≠ misère subie",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-002",
+      "nom": "Vincent de Paul",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "service des pauvres",
+        "organisation de la charité",
+        "prudence"
+      ],
+      "corpus_pistes": "Correspondance; conférences conservées",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Distinguer parole transcrite, organisation historique et réinterprétations modernes",
+      "usage_pastoral": "Aide sans condition de pratique religieuse",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-003",
+      "nom": "Marie de l’Incarnation",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "persévérance",
+        "vie intérieure",
+        "éducation"
+      ],
+      "corpus_pistes": "Correspondance; Relations",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Lire avec sources autochtones et étude de la colonisation",
+      "usage_pastoral": "Ne pas idéaliser la mission coloniale",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-004",
+      "nom": "Kateri Tekakwitha",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "fidélité de conscience",
+        "courage",
+        "vie de prière"
+      ],
+      "corpus_pistes": "Biographies anciennes et traditions ecclésiales",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Étudier les récits coloniaux et la voix des communautés autochtones",
+      "usage_pastoral": "Ne pas parler au nom des peuples autochtones",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-005",
+      "nom": "Marguerite Bourgeoys",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "éducation",
+        "solidarité",
+        "vie communautaire"
+      ],
+      "corpus_pistes": "Archives historiques de la Congrégation de Notre-Dame",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Distinguer actes documentés et idéalisation postérieure",
+      "usage_pastoral": "Éducation et rapports coloniaux au Québec",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-006",
+      "nom": "Marguerite d’Youville",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "service des personnes vulnérables",
+        "gestion responsable",
+        "résilience"
+      ],
+      "corpus_pistes": "Archives et biographies des Sœurs grises",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Vérifier les actes institutionnels et leurs interprétations",
+      "usage_pastoral": "Hébergement et dignité des personnes aidées",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-007",
+      "nom": "André Bessette",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "humilité",
+        "accueil",
+        "persévérance"
+      ],
+      "corpus_pistes": "Témoignages et archives liées à l’Oratoire Saint-Joseph",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Distinguer témoignages de guérison, dévotion et reconnaissance ecclésiale",
+      "usage_pastoral": "Ne jamais promettre de guérison aux malades",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-008",
+      "nom": "Thérèse de Lisieux",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "confiance",
+        "charité quotidienne",
+        "persévérance"
+      ],
+      "corpus_pistes": "Manuscrits autobiographiques, correspondance",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Écrits directs et éditions postérieures à contextualiser",
+      "usage_pastoral": "Ne pas instrumentaliser l’humilité pour obtenir du travail gratuit",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-009",
+      "nom": "Thérèse d’Avila",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "discernement",
+        "courage",
+        "vie intérieure"
+      ],
+      "corpus_pistes": "Livre de la vie; Château intérieur",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Étudier le genre autobiographique mystique et sa réception",
+      "usage_pastoral": "L’accompagnement spirituel n’est pas un diagnostic clinique",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-010",
+      "nom": "Catherine de Sienne",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "franchise",
+        "courage",
+        "souci de l’unité"
+      ],
+      "corpus_pistes": "Lettres; Dialogue",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Lettres attribuées, éditions et hagiographies distinctes",
+      "usage_pastoral": "Critiquer sans couvrir les dysfonctionnements",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-011",
+      "nom": "Ignace de Loyola",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "discernement",
+        "service",
+        "examen de conscience"
+      ],
+      "corpus_pistes": "Exercices spirituels; récit du pèlerin",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Distinguer textes fondateurs et usages modernes des exercices",
+      "usage_pastoral": "Pas de coercition dans les retraites",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-012",
+      "nom": "Joséphine Bakhita",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "espérance",
+        "dignité humaine",
+        "résilience"
+      ],
+      "corpus_pistes": "Témoignages et biographies à documenter",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Ne jamais convertir les traumatismes en spectacle édifiant",
+      "usage_pastoral": "Consentement et prudence dans les récits de violence",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-013",
+      "nom": "Martin de Porrès",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "soin des malades",
+        "service",
+        "humilité"
+      ],
+      "corpus_pistes": "Biographies historiques à documenter",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Enquêter sur le contexte social colonial et les sources de miracle",
+      "usage_pastoral": "Respect des pratiques médicales",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-014",
+      "nom": "Oscar Romero",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "courage public",
+        "justice",
+        "solidarité"
+      ],
+      "corpus_pistes": "Homélies, lettres pastorales, archives contemporaines",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Distinguer actes documentés, prises de position politiques et récits ultérieurs",
+      "usage_pastoral": "Charité et justice sans parti pris imposé",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-015",
+      "nom": "Charles de Foucauld",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "fraternité",
+        "présence",
+        "simplicité"
+      ],
+      "corpus_pistes": "Correspondance et écrits spirituels",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Lire les rapports interculturels du contexte colonial",
+      "usage_pastoral": "Écouter les communautés locales plutôt que projeter sur elles",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    },
+    {
+      "id": "temoin-candidat-016",
+      "nom": "François de Sales",
+      "statut_documentaire": "candidat_a_documenter_et_revoir",
+      "reconnaissance_ecclesiale": "a_verifier_sur_source_officielle_avant_publication",
+      "vertus_attribuees_pour_etude": [
+        "douceur",
+        "patience",
+        "accompagnement"
+      ],
+      "corpus_pistes": "Introduction à la vie dévote; correspondance",
+      "gradation_sources": [
+        "ecrits_directs",
+        "documents_contemporains",
+        "biographies_ulterieures",
+        "traditions_de_devotion"
+      ],
+      "point_de_vigilance": "Distinguer direction spirituelle ancienne et bonnes pratiques contemporaines",
+      "usage_pastoral": "Bannir l’emprise spirituelle",
+      "miracles_attribues": "hors_de_la_fiche_des_vertus; consulter séparément la branche miracles avec statut des sources",
+      "regle": "Ce projet de fiche ne certifie ni un miracle ni un fait biographique non sourcé."
+    }
+  ]
+}

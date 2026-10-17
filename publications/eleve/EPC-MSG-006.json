@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-006",
+  "titre": "Jésus : artisans de paix et conflits de valeurs",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Confronter les Béatitudes sur les artisans de paix à la parole du glaive dans le discours missionnaire. Examiner les formes de discours et le contexte de divisions familiales."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Ne pas utiliser « je ne suis pas venu apporter la paix » pour autoriser la violence. Étudier le conflit provoqué par une conviction, la recherche du bien commun et la responsabilité de refuser l’injustice."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une communauté préfère taire une situation d’abus « pour garder la paix ». Cette paix apparente est-elle fidèle à l’Évangile?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Rédiger une démarche de parole vraie et de résolution de conflit avec protections appropriées."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une communauté préfère taire une situation d’abus « pour garder la paix ». Cette paix apparente est-elle fidèle à l’Évangile?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

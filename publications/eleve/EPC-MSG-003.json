@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-003",
+  "titre": "Aimer son prochain, y compris l’étranger",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Lire la parabole du bon Samaritain dans un contexte de frontières identitaires et la mettre en regard du commandement nouveau chez Jean."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Distinguer sentiment affectif, charité théologale, solidarité pratique et respect inconditionnel de la dignité. La charité ne se limite pas aux personnes du même milieu ou de la même religion."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Dans un service paroissial, une personne se présente sans partager la foi catholique. Comment accueillir sans condition religieuse ni instrumentalisation?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Simuler un accueil avec écoute active et analyse des obstacles invisibles : langue, mobilité, préjugés, statut social."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Dans un service paroissial, une personne se présente sans partager la foi catholique. Comment accueillir sans condition religieuse ni instrumentalisation?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

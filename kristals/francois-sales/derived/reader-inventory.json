@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:francois-sales",
+  "source_fingerprint": "sha256:68d2ea6f1af6148c332a9996267401536a27508bd77e26a24c6326e353fd394e",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 30775,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10365,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-francois-sales-catalog-63a93ba6fa.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 984,
+      "sha256": "sha256:a2c285471f75c7d7699b8efa9448bf585a05ba4c6fa1f2f76f928049af7b30aa"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-francois-sales-crosswalk-a9c44f3480.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 571,
+      "sha256": "sha256:cf3f7f08439b76b436fd852dafd2f0737478f70f379e018383f14aac7e6cff33"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-francois-sales-graph-56a37aac55.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1788,
+      "sha256": "sha256:4c7bc1095eebf8261a33ee61cb473514b8a6eb46777892b743334cae3c3e386d"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-francois-sales-native-unit-dff17ac1a0.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10365,
+      "sha256": "sha256:b494149d8e1c4c397a48dc4631be17d182aeaa9043850cfa76881854d11e7f8e"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-francois-sales-registry-d661753880.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 2031,
+      "sha256": "sha256:75d9a5d3a643910be43c80d641f805921b9344192324229a128fc8651f819c94"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2215,
+      "sha256": "sha256:efed9df95e0737063719e0151e5f076bbe0023e9c048bcda419f1f9e767624a5"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9449,
+      "sha256": "sha256:798d4d17f35d8c3a77fb8881a87f4f81fea7687c83a3acccc875cfbb7966847a"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 144,
+      "sha256": "sha256:cec629b2d2fd8be1c141267d27f73d042d9b6f5cc8e2ae09e888ef68d3a6db96"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 529,
+      "sha256": "sha256:6b1e96f2fefff6e4a699523d7b654707e6d51314a1a22f785d0624cf2e2ecb3f"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1237,
+      "sha256": "sha256:1eed6f2b5f842f70c74951ecbcf29fd60681fd42da918bebd8be0eca6891ddbe"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1462,
+      "sha256": "sha256:52f49f3ab72473266dd74180f814454b620db94716726dbef7e3e1151a62c311"
+    }
+  ],
+  "segments": []
+}

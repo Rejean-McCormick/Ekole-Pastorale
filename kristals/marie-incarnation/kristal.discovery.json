@@ -1,0 +1,26 @@
+{
+  "format": "kristal.discovery/1.0",
+  "state_ref": "urn:kristal:state:marie-incarnation",
+  "classification": {
+    "arketype": "unite-formation-federee",
+    "archetype_library": "1.5.0+extension-prototype"
+  },
+  "data_layout": {
+    "state_architecture": "kristal.state/9.0",
+    "native_kind": "unite_pedagogique_federee",
+    "organization": "unknown",
+    "materialization_profiles": [],
+    "inventory_ref": "derived/reader-inventory.json"
+  },
+  "reader": {
+    "profile": "kristal.reader/generic-v1",
+    "hints_ref": "derived/reader-profile.json"
+  },
+  "size": {
+    "class": "tiny",
+    "tracked_local_bytes": 29664,
+    "completeness": "measured_referenced_local_files"
+  },
+  "source_fingerprint": "sha256:1cc230908f07cd6bc2fcaf2f431730715b58c4d020c2bd2df8f959c732f9481f",
+  "authority": "noncanonical_derived_metadata_not_access_or_publication_authority"
+}

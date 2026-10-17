@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-007",
+  "titre": "Résurrection du Christ : centre de la foi",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Comparer le témoignage paulinien et deux récits évangéliques en notant leurs genres, éléments communs et différences de présentation."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Dans la foi catholique, la résurrection de Jésus est constitutive de la proclamation chrétienne et ne doit pas être réduite à la survie d’une idée généreuse."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Un élève demande comment se situe l’historien face à une affirmation surnaturelle. Quelle réponse distingue la méthode historique et l’acte de foi?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Créer une matrice « témoignage / doctrine / méthode / question critique » avec sources exactes."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 240,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Un élève demande comment se situe l’historien face à une affirmation surnaturelle. Quelle réponse distingue la méthode historique et l’acte de foi?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

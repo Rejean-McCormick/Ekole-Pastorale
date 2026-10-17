@@ -1,0 +1,164 @@
+{
+  "format": "kristal.reader-profile/1.0",
+  "state_ref": "urn:kristal:state:lazare",
+  "source_fingerprint": "sha256:9747ccbd5b2c2d57601af65b147660e3e54c8bf9bc3cd567c1f5a4e43071b88d",
+  "specialization": "kristal.reader/generic-v1",
+  "configuration_status": "advisory_only",
+  "access_pattern": "generic",
+  "materialization_profiles": [],
+  "artifact_strategies": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-lazare-catalog-514d8feed7.logical-artifact.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 952,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:a92bd4890a0d37383b0edcba1b83038eefe049aeb0d119e668d6330eabe8b9ef",
+      "authorization_required": true
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-lazare-crosswalk-11490dfe7a.logical-artifact.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 555,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:2b7f39a8a8cfd08fa86f855667609f82e0b14112ab8e21100984ab2e48d31a34",
+      "authorization_required": true
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-lazare-graph-843030a04d.logical-artifact.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 1497,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:cf53d7cd8866e2bb3d89c0cd0fcc0608448f7801bb9a4a96203038f53e937cb5",
+      "authorization_required": true
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-lazare-native-unit-0e23f7d619.logical-artifact.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 10107,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:fb5dec7c0d7cc32a712dbddff7e0466af9956f4601685c6b2ac1674b42fafe5c",
+      "authorization_required": true
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-lazare-registry-093982c57c.logical-artifact.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 1705,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:1fce9c81bc0a316278c8ceb169f9ec1b465da668c70b9395615d9d08370d352e",
+      "authorization_required": true
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 2167,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:91d295848747fe40db1376ea79e07bb515c462bcbb8da37897f228e1372e708c",
+      "authorization_required": true
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 9211,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:053bb24bfdec073500c40c1e3924f89eada86272f7c4c19540e3a22af78bdff6",
+      "authorization_required": true
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 136,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:c33a7acad5dc059252795239af1bda3b7c7800d1103f28c5e24d7cb5a3716d5f",
+      "authorization_required": true
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 505,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:16d2abe4cf2a3b6e072def0e315b63b7b77f645e60ffa6ebb9912868d4ea00bd",
+      "authorization_required": true
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 982,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:4a686f477391f9076247b54476245bb65b2b60d8f1d1812653e9472e863c144c",
+      "authorization_required": true
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "media_type_observed": "application/json",
+      "media_type_declared": null,
+      "compression_declared": null,
+      "encrypted_declared": false,
+      "size_bytes_measured": 1174,
+      "suggested_parser_family": "simdjson",
+      "suggested_mode": "on_demand_or_dom",
+      "must_verify_digest": "sha256:42efbd4a394bdca57e758bc61bf8a568c0ca335c23d65c2b428353a0c2d5536e",
+      "authorization_required": true
+    }
+  ],
+  "parser_candidates": [
+    {
+      "kind": "jsonl",
+      "engine_family": "simdjson",
+      "mode": "document_stream",
+      "condition": "validated JSONL/NDJSON segments only",
+      "segment_count": 0
+    },
+    {
+      "kind": "json",
+      "engine_family": "simdjson",
+      "mode": "on_demand_or_dom",
+      "condition": "JSON files within parser capacity and memory limits"
+    }
+  ],
+  "constraints": [
+    "Verify actual media type, digest, size and local availability before selecting a parser.",
+    "Enforce memory, decompression and per-record bounds independently of metadata.",
+    "The reader must authorize all file/network access; this profile grants none.",
+    "Unrecognized profiles and missing discoveries must fall back to generic guarded parsing."
+  ]
+}

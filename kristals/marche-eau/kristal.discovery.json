@@ -1,0 +1,26 @@
+{
+  "format": "kristal.discovery/1.0",
+  "state_ref": "urn:kristal:state:marche-eau",
+  "classification": {
+    "arketype": "unite-formation-federee",
+    "archetype_library": "1.5.0+extension-prototype"
+  },
+  "data_layout": {
+    "state_architecture": "kristal.state/9.0",
+    "native_kind": "unite_pedagogique_federee",
+    "organization": "unknown",
+    "materialization_profiles": [],
+    "inventory_ref": "derived/reader-inventory.json"
+  },
+  "reader": {
+    "profile": "kristal.reader/generic-v1",
+    "hints_ref": "derived/reader-profile.json"
+  },
+  "size": {
+    "class": "tiny",
+    "tracked_local_bytes": 29317,
+    "completeness": "measured_referenced_local_files"
+  },
+  "source_fingerprint": "sha256:c75eac343b491b69002f03fdd6b3e78ff7f7f0c5670ec4da296773af146e6e0c",
+  "authority": "noncanonical_derived_metadata_not_access_or_publication_authority"
+}

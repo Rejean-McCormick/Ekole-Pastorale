@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-013",
+  "titre": "Catherine de Sienne : vérité et courage",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Situer la figure de Catherine dans les crises ecclésiales du XIVe siècle. Distinguer sa correspondance conservée des reconstructions hagiographiques."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Étudier la parole libre, le souci de l’unité et la réforme morale : l’obéissance ne supprime pas la responsabilité de dire la vérité."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment signaler une mauvaise pratique dans une communauté sans confondre critique institutionnelle et attaque des personnes?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Composer une lettre pastorale de correction fraternelle avec faits, respect et demandes vérifiables."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment signaler une mauvaise pratique dans une communauté sans confondre critique institutionnelle et attaque des personnes?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_curated_dictionary",
+  "namespace_id": "pastorale.temoins:francois-assise",
+  "language": "fr-CA",
+  "entries": [
+    {
+      "semantic_id": "KQ1001",
+      "preferred_term": "François d’Assise",
+      "review": {
+        "decision_id": "candidat-KQ1001",
+        "reviewer": "édition de démonstration non homologuée",
+        "reason": "Dossier de départ, à documenter sur édition critique et sources ecclésiales"
+      }
+    },
+    {
+      "semantic_id": "KQ1002",
+      "preferred_term": "Pauvreté volontaire",
+      "review": {
+        "decision_id": "candidat-KQ1002",
+        "reviewer": "édition de démonstration non homologuée",
+        "reason": "Dossier de départ, à documenter sur édition critique et sources ecclésiales"
+      }
+    },
+    {
+      "semantic_id": "KQ1003",
+      "preferred_term": "Fraternité",
+      "review": {
+        "decision_id": "candidat-KQ1003",
+        "reviewer": "édition de démonstration non homologuée",
+        "reason": "Dossier de départ, à documenter sur édition critique et sources ecclésiales"
+      }
+    },
+    {
+      "semantic_id": "KQ1004",
+      "preferred_term": "Testament de François",
+      "review": {
+        "decision_id": "candidat-KQ1004",
+        "reviewer": "édition de démonstration non homologuée",
+        "reason": "Dossier de départ, à documenter sur édition critique et sources ecclésiales"
+      }
+    },
+    {
+      "semantic_id": "KQ1005",
+      "preferred_term": "Cantique des créatures",
+      "review": {
+        "decision_id": "candidat-KQ1005",
+        "reviewer": "édition de démonstration non homologuée",
+        "reason": "Dossier de départ, à documenter sur édition critique et sources ecclésiales"
+      }
+    },
+    {
+      "semantic_id": "KP2001",
+      "preferred_term": "illustre une vertu",
+      "review": {
+        "decision_id": "candidat-KP2001",
+        "reviewer": "édition de démonstration non homologuée",
+        "reason": "Dossier de départ, à documenter sur édition critique et sources ecclésiales"
+      }
+    },
+    {
+      "semantic_id": "KP2002",
+      "preferred_term": "a pour œuvre candidate",
+      "review": {
+        "decision_id": "candidat-KP2002",
+        "reviewer": "édition de démonstration non homologuée",
+        "reason": "Dossier de départ, à documenter sur édition critique et sources ecclésiales"
+      }
+    }
+  ]
+}

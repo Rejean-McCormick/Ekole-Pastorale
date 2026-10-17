@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-004",
+  "titre": "Le partage et le choix des pauvres",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Comparer l’annonce de la Bonne Nouvelle aux pauvres chez Luc et le jugement sur les gestes envers les plus petits chez Matthieu."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Discerner charité immédiate, justice sociale, droits et participation des personnes concernées. Ne jamais présenter la pauvreté subie comme une vertu exigée des pauvres."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une distribution de denrées soulage-t-elle la faim tout en créant une dépendance humiliante? Quels indicateurs de dignité et de pouvoir d’agir suivre?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Co-construire un projet fictif avec des personnes concernées plutôt que pour elles seulement."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une distribution de denrées soulage-t-elle la faim tout en créant une dépendance humiliante? Quels indicateurs de dignité et de pouvoir d’agir suivre?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

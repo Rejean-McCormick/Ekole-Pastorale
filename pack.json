@@ -1,0 +1,506 @@
+{
+  "format": "ekole.content-pack/0.1",
+  "id": "ecole-pastorale",
+  "nom": "École catholique pastorale — deux branches et témoins",
+  "langue": "fr-CA",
+  "statut": "projet_non_publie",
+  "description": "Deux branches distinctes; docteurs, saints et action pastorale; curriculum v11 dérivé.",
+  "politique_publication": "vues_separees",
+  "cours": [
+    {
+      "id": "EPC-FOI-001",
+      "titre": "Cana : signe, fête et foi",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : miracles évangéliques en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Fiche de lecture de Cana avec registres explicitement séparés.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-001.json",
+      "prerequis": []
+    },
+    {
+      "id": "EPC-FOI-002",
+      "titre": "Marcher sur l’eau et traverser la peur",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : signes et foi en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Présentation orale de cinq minutes avec limites de l’analogie.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-002.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-003",
+      "titre": "Multiplication des pains : signe et partage",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : signe d’abondance en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Double fiche « signification du signe / solidarité contemporaine ».",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-003.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-004",
+      "titre": "Guérisons et dignité des malades",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : miracles et soin en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Guide de langage pastoral respectueux des malades et de la médecine.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-004.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-005",
+      "titre": "Lazare : résurrection racontée et espérance",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : signes sur la vie et la mort en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Réponse au deuil sans fausse promesse ni explication culpabilisante.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-005.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-006",
+      "titre": "Conception virginale : récit et doctrine",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : incarnation et tradition en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Carte de notions doctrinales et questions ouvertes à vérifier.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-006.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-007",
+      "titre": "Résurrection du Christ : centre de la foi",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : mystère pascal en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Exposé structuré respectant les quatre plans.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-007.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-008",
+      "titre": "Apparitions du Ressuscité et témoignages",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : témoignage pascal en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Guide d’animation sur foi, doute et témoignage.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-008.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-009",
+      "titre": "Récits miraculeux attribués aux saints",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : hagiographie et discernement en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Fiche de provenance graduée « dévotion — récit — enquête — décision ».",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-009.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-010",
+      "titre": "Miracles, sciences et limites des méthodes",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : épistémologie et foi en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Charte épistémique en six distinctions.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-010.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-011",
+      "titre": "Révélations privées et discernement ecclésial",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : discernement des récits en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Note d’information pastorale avec niveau de certitude explicité.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-011.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-FOI-012",
+      "titre": "Sacramentel et surnaturel : signes de la grâce",
+      "discipline": "Miracles et mystères de la foi",
+      "objectif": "Être capable de situer et expliquer : mystères de la foi en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Lexique de six notions et présentation inclusive.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-FOI-012.json",
+      "prerequis": [
+        "EPC-FOI-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-001",
+      "titre": "Lire la Bible dans son contexte",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : exégèse catholique en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Fiche d’exégèse avec citations précises, contexte et deux questions de discussion.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-001.json",
+      "prerequis": []
+    },
+    {
+      "id": "EPC-MSG-002",
+      "titre": "Le pardon sans effacer la justice",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : pardon et miséricorde en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Arbre décisionnel : écouter, protéger, orienter, sans imposer la réconciliation.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-002.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-003",
+      "titre": "Aimer son prochain, y compris l’étranger",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : charité fraternelle en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Protocole d’accueil inclusif de deux pages.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-003.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-004",
+      "titre": "Le partage et le choix des pauvres",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : partage et justice en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Plan d’intervention, partenaires, consentement et indicateurs de dignité.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-004.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-005",
+      "titre": "Richesse, conversion et liberté intérieure",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : conversion et possessions en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Grille de discernement entre partage, justice et devoir de prudence.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-005.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-006",
+      "titre": "Jésus : artisans de paix et conflits de valeurs",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : paix et conflit en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Argumentaire de deux lectures contextualisées et plan de résolution.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-006.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-007",
+      "titre": "Prière, silence et discernement",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : spiritualité vécue en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Animation écrite avec alternatives et posture de non-pression.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-007.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-008",
+      "titre": "Paul : la charité comme critère",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : charité paulinienne en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Grille de discernement communautaire non sensationnaliste.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-008.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-009",
+      "titre": "Saint Augustin : liberté, grâce et amour",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : docteurs de l’église en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Mini-commentaire documenté assorti d’un avertissement sur les anachronismes.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-009.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-010",
+      "titre": "Thomas d’Aquin : vertu et bien commun",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : vertus théologales en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Analyse morale avec objections, réponses et limites du cas.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-010.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-011",
+      "titre": "Thérèse de Lisieux : la petite voie",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : sainteté ordinaire en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Journal réflexif de pratiques modestes, libres et responsables.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-011.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-012",
+      "titre": "François d’Assise : les vertus d’une vie",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : témoignage et pauvreté volontaire en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Dossier « texte — geste — vertu — limite — application québécoise ».",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-012.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-013",
+      "titre": "Catherine de Sienne : vérité et courage",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : témoignage et réforme en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Lettre commentée et grille de responsabilité institutionnelle.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-013.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-014",
+      "titre": "François de Sales : douceur et accompagnement",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : direction spirituelle en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Scénario d’entretien et critères anti-emprise.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-014.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-015",
+      "titre": "Vincent de Paul : servir sans dominer",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : charité organisée en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Charte de service et de gouvernance respectueuse.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-015.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-016",
+      "titre": "Marie de l’Incarnation : témoignage en Nouvelle-France",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : mémoire québécoise en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Plan de cours à sources pluralisées et vocabulaire prudent.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-016.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-017",
+      "titre": "Doctrine sociale : solidarité et subsidiarité",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : doctrine sociale catholique en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Note d’intervention non partisane, ancrée dans les principes sociaux.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-017.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-018",
+      "titre": "Accompagner sans pression ni emprise",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : éthique et protection en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Checklist de protection et de refus des abus spirituels.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-018.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-019",
+      "titre": "Liturgie et sacrements : gestes de l’Église",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : vie sacramentelle en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Petit guide d’initiation liturgique, validable par un responsable compétent.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-019.json",
+      "prerequis": [
+        "EPC-MSG-001"
+      ]
+    },
+    {
+      "id": "EPC-MSG-020",
+      "titre": "Projet pastoral : écoute, service et évaluation",
+      "discipline": "Message et tradition vivante",
+      "objectif": "Être capable de analyser et transmettre : intervention communautaire en distinguant textes, tradition catholique et responsabilité pastorale.",
+      "preuve": "Dossier complet de projet avec budget, limites et plan d’évaluation.",
+      "statut": "maquette_non_approuvee",
+      "fichier": "cours/EPC-MSG-020.json",
+      "prerequis": [
+        "EPC-MSG-001",
+        "EPC-MSG-018",
+        "EPC-MSG-004"
+      ]
+    }
+  ],
+  "parcours": [
+    {
+      "id": "EPC-MESSAGE",
+      "titre": "Branche I — Message, docteurs et saints",
+      "description": "Le message chrétien, la tradition des docteurs, les saints et les responsabilités sociales.",
+      "cours_ids": [
+        "EPC-MSG-001",
+        "EPC-MSG-002",
+        "EPC-MSG-003",
+        "EPC-MSG-004",
+        "EPC-MSG-005",
+        "EPC-MSG-006",
+        "EPC-MSG-007",
+        "EPC-MSG-008",
+        "EPC-MSG-009",
+        "EPC-MSG-010",
+        "EPC-MSG-011",
+        "EPC-MSG-012",
+        "EPC-MSG-013",
+        "EPC-MSG-014",
+        "EPC-MSG-015",
+        "EPC-MSG-016",
+        "EPC-MSG-017",
+        "EPC-MSG-018",
+        "EPC-MSG-019",
+        "EPC-MSG-020"
+      ]
+    },
+    {
+      "id": "EPC-MIRACLES",
+      "titre": "Branche II — Miracles et mystères",
+      "description": "Récits, signes, dogmes, méthodes historiques et dialogue sur la foi.",
+      "cours_ids": [
+        "EPC-FOI-001",
+        "EPC-FOI-002",
+        "EPC-FOI-003",
+        "EPC-FOI-004",
+        "EPC-FOI-005",
+        "EPC-FOI-006",
+        "EPC-FOI-007",
+        "EPC-FOI-008",
+        "EPC-FOI-009",
+        "EPC-FOI-010",
+        "EPC-FOI-011",
+        "EPC-FOI-012"
+      ]
+    },
+    {
+      "id": "EPC-DOCTEURS",
+      "titre": "Voie des docteurs et du discernement",
+      "description": "Une tradition de pensée et de vie, à partir d’auteurs identifiés.",
+      "cours_ids": [
+        "EPC-MSG-009",
+        "EPC-MSG-010",
+        "EPC-MSG-011",
+        "EPC-MSG-013",
+        "EPC-MSG-014"
+      ]
+    },
+    {
+      "id": "EPC-SAINTS",
+      "titre": "Voie des saints : les vertus en actes",
+      "description": "Témoignages documentés, vertus, difficultés et contexte historique.",
+      "cours_ids": [
+        "EPC-MSG-012",
+        "EPC-MSG-015",
+        "EPC-MSG-016",
+        "EPC-MSG-011"
+      ]
+    },
+    {
+      "id": "EPC-SOCIAL",
+      "titre": "Voie sociale et intervention",
+      "description": "Solidarité, justice, pauvreté et gouvernance de l’aide.",
+      "cours_ids": [
+        "EPC-MSG-003",
+        "EPC-MSG-004",
+        "EPC-MSG-005",
+        "EPC-MSG-017",
+        "EPC-MSG-018",
+        "EPC-MSG-020"
+      ]
+    },
+    {
+      "id": "EPC-FOI-APPRO",
+      "titre": "Approfondir la foi sans esquiver les questions",
+      "description": "Lecture catholique et examen respectueux des différents degrés de certitude.",
+      "cours_ids": [
+        "EPC-FOI-007",
+        "EPC-FOI-010",
+        "EPC-FOI-011",
+        "EPC-FOI-009",
+        "EPC-FOI-012"
+      ]
+    },
+    {
+      "id": "EPC-DECOUVERTE",
+      "titre": "Découverte libre, deux portes distinctes",
+      "description": "Orientation facultative entre deux branches; les miracles ne sont pas des préalables au message.",
+      "cours_ids": [
+        "EPC-MSG-001",
+        "EPC-MSG-002",
+        "EPC-MSG-003",
+        "EPC-FOI-001",
+        "EPC-FOI-002"
+      ]
+    }
+  ],
+  "parcours_mis_en_avant": "EPC-MESSAGE",
+  "cours_a_decouvrir": [
+    "EPC-MSG-001",
+    "EPC-FOI-001"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:marie-incarnation",
+  "source_fingerprint": "sha256:1cc230908f07cd6bc2fcaf2f431730715b58c4d020c2bd2df8f959c732f9481f",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 29664,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10306,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-marie-incarnation-catalog-d63e869ec8.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 996,
+      "sha256": "sha256:b13a97632ed768ab270215a97703479eec2fbfee945f4e704dd61f37a1e06edd"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-marie-incarnation-crosswalk-1ff261f605.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 577,
+      "sha256": "sha256:6b9a048e1bcf8e437a5d7c1b914fbd137034a78ab052b34dbe24e4967a10d201"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-marie-incarnation-graph-961945ab8e.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1530,
+      "sha256": "sha256:17d080b2a8992f306fed6758e4657b98030c125e274bcb019047cd935f225f58"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-marie-incarnation-native-unit-2c3e0421e9.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10306,
+      "sha256": "sha256:4a4721baf290e82d08e0ea6a045bd9c81b778de9f806a6205ebe2c14505c8ebe"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-marie-incarnation-registry-f9a137788b.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1738,
+      "sha256": "sha256:7946641fd2bd6236fba9d31d600c95bdfb61343f5d3be1c96ced9611ac6534e4"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2233,
+      "sha256": "sha256:5270c47e44cd8104e69f03c1133c09405e1f53feb0fa48052e9b8d5c8d66b29d"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9399,
+      "sha256": "sha256:b805a063573316f7ecbc2ca65398127065672510cdb69da15b46e6f9561118b3"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 147,
+      "sha256": "sha256:4bd66add8bd9d181c2aa51d00e79b635840cc9a917c695c33f0f991c2cb476d4"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 538,
+      "sha256": "sha256:a34aa8cdae88706fa5ed7a11c9e4bee6455125008e1db2dd02bd85c384a1b7b6"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1004,
+      "sha256": "sha256:d6acee990785c714da9c4fffd9acb0cf36a6c1f249a2f71e5a71af83acf4ce64"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1196,
+      "sha256": "sha256:691fdab11848c5479fdd29699b03bd06531126765f6ae0d32af6302d03deac2c"
+    }
+  ],
+  "segments": []
+}

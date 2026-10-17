@@ -1,0 +1,71 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_curated_dictionary",
+  "namespace_id": "pastorale.demo:accompagnement",
+  "language": "fr-CA",
+  "entries": [
+    {
+      "semantic_id": "KQ1001",
+      "preferred_term": "Accompagner sans pression ni emprise",
+      "review": {
+        "decision_id": "maquette-accompagnement-KQ1001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1002",
+      "preferred_term": "Message et tradition vivante",
+      "review": {
+        "decision_id": "maquette-accompagnement-KQ1002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1003",
+      "preferred_term": "Éthique et protection",
+      "review": {
+        "decision_id": "maquette-accompagnement-KQ1003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1004",
+      "preferred_term": "Luc 24, 13-35; principes de sauvegarde",
+      "review": {
+        "decision_id": "maquette-accompagnement-KQ1004",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2001",
+      "preferred_term": "appartient à la branche",
+      "review": {
+        "decision_id": "maquette-accompagnement-KP2001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2002",
+      "preferred_term": "étudie le thème",
+      "review": {
+        "decision_id": "maquette-accompagnement-KP2002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2003",
+      "preferred_term": "s’appuie sur la référence",
+      "review": {
+        "decision_id": "maquette-accompagnement-KP2003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    }
+  ]
+}

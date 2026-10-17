@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:catherine-sienne",
+  "source_fingerprint": "sha256:ad3d955694982214d6e409ad67a37d6eaad9fe11607b2b48d62caffd8a1af471",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 31101,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10503,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-catherine-sienne-catalog-b90bb7d465.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 992,
+      "sha256": "sha256:262287c8f793faff852d2b92f507527c60c58fbd374e19f95189ececf28fc5e7"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-catherine-sienne-crosswalk-dea43194b2.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 575,
+      "sha256": "sha256:226c8c91ba0e9d097ebfb69c2da92d874706c0934a13cdf5ed937de20145e7a9"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-catherine-sienne-graph-e55de6af54.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1794,
+      "sha256": "sha256:4d473f5f26e607e2a44c1010c429c855eb9e9d078b893343f35ac8205f98a690"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-catherine-sienne-native-unit-3d8205a35e.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10503,
+      "sha256": "sha256:534037778cee257299954bb0a11e57c9752347854415d73b15a9a79cd586dd34"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-catherine-sienne-registry-4032dbb567.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 2037,
+      "sha256": "sha256:b30ec2887f2aedca96a21455aa62635e0eadb309d67294c14b451a8686d9359e"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2227,
+      "sha256": "sha256:9980799610db64fa3f3ababa811553da9a607b906f95b01ef70f56f12d0407fb"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9585,
+      "sha256": "sha256:94ab94e60af130c0e4f508d6a1cc962d61be8c458aef668afe6cc532d9a89398"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 146,
+      "sha256": "sha256:0ddf7f0f7166a38827580970c1fbc4d5c4fef19c0984860d1c8f431312f29b5f"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 535,
+      "sha256": "sha256:80ab6d9de199075a8d9675d21423176e4485c818ef57da442b47fdcb28a39cb4"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1241,
+      "sha256": "sha256:f646da82f8b738f7d7e08b575ee0853e802daaf30622c8f43604d977d07a72cb"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1466,
+      "sha256": "sha256:f3ccaeb0fc2817056b7c1ce8fd5ce58cd6e2f98efa93220426a71ea8a89685ac"
+    }
+  ],
+  "segments": []
+}

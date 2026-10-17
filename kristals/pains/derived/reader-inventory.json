@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:pains",
+  "source_fingerprint": "sha256:af2059db6be41aafcd34132817d2f298212bdafb9418e91b62d69829665034ad",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 29048,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10148,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-pains-catalog-e964aa4709.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 948,
+      "sha256": "sha256:54a766230b1a69ec7f3c99495c9afaa70a9a5153eaa5407792873b9b803dcbbe"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-pains-crosswalk-d591a1cb48.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 553,
+      "sha256": "sha256:db41e47d0ad91faf1fc632b4eb12ac3848b1b2e2930fc37210911467b6540d94"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-pains-graph-2eae358aae.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1494,
+      "sha256": "sha256:40b8907ffaee72c4eb7aeda409d5cc3de68b27ef88b781b8dfbc37b4e5c687ee"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-pains-native-unit-9777b3f2b7.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10148,
+      "sha256": "sha256:4d38582b8a4ae92f4c5e6a30b729d6041aea3172b0425ca9b08f9fde10f44939"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-pains-registry-b664de2a37.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1702,
+      "sha256": "sha256:719ba3b0c2882fe793beae0766cfdfcd25828c796ac263b8e646eea62ce52e8d"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2161,
+      "sha256": "sha256:1dd0edd3b171b6e926eaa09435e6c57c8f15cd5fbcbd1146fb1b84ad1cf06e67"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9253,
+      "sha256": "sha256:ad8b5efb5195e36cdc739a99a13db20f4af80937a8f7a030350075b7072fe5e1"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 135,
+      "sha256": "sha256:3443e6ab0f8dce462ad179f11e8be20353658db711b15c60a0fbf0d8c7dc0cfc"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 502,
+      "sha256": "sha256:1d65c09bb85fa090a3738965812315d087b36674195e5ca8a5809656d4bbecd6"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 980,
+      "sha256": "sha256:c4a6d1d3962faab0251bbe4674cdca45fa5ce4e2280cea9b1a030e8ca8a98bb5"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1172,
+      "sha256": "sha256:8a38466a81673e0e49c0cf04a3f16f48c96e164e4980a2e3e0e1e5fdf6ca0fcb"
+    }
+  ],
+  "segments": []
+}

@@ -1,0 +1,21 @@
+{
+  "format": "pastorale.candidate-links/1.1",
+  "statut": "non_resolu",
+  "catho_artifacts": {
+    "people": {
+      "relative_path": "canon/domain/personnes-reconnaissances.json",
+      "sha256": "2358d00ce88140aa303c4dbe3e9a56e043157d9ca9442675928523d15668ccab",
+      "schema_version": "kristal.catho.personnes-reconnaissances/1.0"
+    },
+    "corpus": {
+      "relative_path": "knowledge-base/corpus/corpus-chretien.semantic.json",
+      "sha256": "58b3f6070e87f35f57fdfe6a28d9a389616ad4720ff01eaaacdfad1eb5be0729",
+      "state_id": "sha256:dd95ba31b53abf1b5a6abf088c256675ef1f1a5efc4034d21009851488fd7050"
+    }
+  },
+  "sources_cibles": [
+    "Vincent de Paul, Conférences et correspondance"
+  ],
+  "personne_repertoire_historique": null,
+  "interdiction": "Ne pas prétendre à une équivalence KQ sans registre de migration revu."
+}

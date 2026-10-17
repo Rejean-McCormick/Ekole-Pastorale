@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-004",
+  "titre": "Guérisons et dignité des malades",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Distinguer plusieurs récits de guérison et leurs situations : paralysie, exclusion sociale, gratitude et controverses religieuses."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Reconnaître que la tradition catholique reçoit les guérisons miraculeuses, sans donner à croire qu’une maladie prouve l’absence de foi ou le péché de la personne."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment réagir à quelqu’un qui veut abandonner ses soins médicaux après une prière de guérison?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Simuler une conversation encourageant accompagnement spirituel et continuité des soins professionnels."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment réagir à quelqu’un qui veut abandonner ses soins médicaux après une prière de guérison?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

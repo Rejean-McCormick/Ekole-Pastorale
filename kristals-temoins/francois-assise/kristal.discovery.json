@@ -1,0 +1,26 @@
+{
+  "format": "kristal.discovery/1.0",
+  "state_ref": "urn:kristal:state:francois-assise-temoin",
+  "classification": {
+    "arketype": "temoin-vertus-sources",
+    "archetype_library": "1.5.0+candidate-extension"
+  },
+  "data_layout": {
+    "state_architecture": "kristal.state/9.0",
+    "native_kind": "temoin_vertus_attestations",
+    "organization": "unknown",
+    "materialization_profiles": [],
+    "inventory_ref": "derived/reader-inventory.json"
+  },
+  "reader": {
+    "profile": "kristal.reader/generic-v1",
+    "hints_ref": "derived/reader-profile.json"
+  },
+  "size": {
+    "class": "tiny",
+    "tracked_local_bytes": 14965,
+    "completeness": "measured_referenced_local_files"
+  },
+  "source_fingerprint": "sha256:fdbc78a86e5fb72011547007ba283392537d7fabcc5076f3f2b08b4587828396",
+  "authority": "noncanonical_derived_metadata_not_access_or_publication_authority"
+}

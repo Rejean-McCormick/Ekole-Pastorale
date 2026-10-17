@@ -1,0 +1,71 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_curated_dictionary",
+  "namespace_id": "pastorale.demo:francois-assise",
+  "language": "fr-CA",
+  "entries": [
+    {
+      "semantic_id": "KQ1001",
+      "preferred_term": "François d’Assise : les vertus d’une vie",
+      "review": {
+        "decision_id": "maquette-francois-assise-KQ1001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1002",
+      "preferred_term": "Message et tradition vivante",
+      "review": {
+        "decision_id": "maquette-francois-assise-KQ1002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1003",
+      "preferred_term": "Témoignage et pauvreté volontaire",
+      "review": {
+        "decision_id": "maquette-francois-assise-KQ1003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KQ1004",
+      "preferred_term": "François d’Assise, Testament; Règle; Cantique des créatures",
+      "review": {
+        "decision_id": "maquette-francois-assise-KQ1004",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2001",
+      "preferred_term": "appartient à la branche",
+      "review": {
+        "decision_id": "maquette-francois-assise-KP2001",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2002",
+      "preferred_term": "étudie le thème",
+      "review": {
+        "decision_id": "maquette-francois-assise-KP2002",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    },
+    {
+      "semantic_id": "KP2003",
+      "preferred_term": "s’appuie sur la référence",
+      "review": {
+        "decision_id": "maquette-francois-assise-KP2003",
+        "reviewer": "rédaction de démonstration, non homologuée",
+        "reason": "Libellé pédagogique candidat en français canadien; ni homologation ecclésiale ni crosswalk externe"
+      }
+    }
+  ]
+}

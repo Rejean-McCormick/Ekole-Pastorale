@@ -1,0 +1,16 @@
+{
+  "type": "ARK-21",
+  "template_only": true,
+  "structural_fields": [
+    "personne",
+    "sources_primaires",
+    "témoignages_anciens",
+    "vertus_attribuées",
+    "enseignements_pratiques",
+    "traditions_hagiographiques",
+    "miracles_rapportés",
+    "réception_ecclésiale",
+    "état_verification"
+  ],
+  "no_canonical_ids": true
+}

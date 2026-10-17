@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-011",
+  "titre": "Thérèse de Lisieux : la petite voie",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Présenter la vie carmélitaine de Thérèse et les limites du genre autobiographique; situer l’écriture, la mémoire et la réception ultérieure."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Explorer la « petite voie » de confiance et d’amour sans la caricaturer en infantilisation ou en dévalorisation de l’effort."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment valoriser de petits actes de service sans utiliser le modèle de sainteté pour exiger l’épuisement bénévole?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Analyser une situation de soin quotidien et proposer des limites durables au service."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment valoriser de petits actes de service sans utiliser le modèle de sainteté pour exiger l’épuisement bénévole?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

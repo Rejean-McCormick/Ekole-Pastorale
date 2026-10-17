@@ -1,0 +1,74 @@
+{
+  "format": "kristal.local-workspace/3.2.0",
+  "slug": "partage-pauvres",
+  "title": "Le partage et le choix des pauvres",
+  "status": "stub",
+  "state_ref": "urn:kristal:state:partage-pauvres",
+  "subject": {
+    "id": null,
+    "label": "Le partage et le choix des pauvres"
+  },
+  "target": {
+    "portable_contract": "kristal_state/6.0",
+    "semantic_baseline": "kristall/7.0",
+    "query_baseline": "kristall/8.0",
+    "state_architecture": "kristal.state/9.0",
+    "hosted_network_baseline": "kristal.hosting/10.0",
+    "logical_commitment_profile": "kristal.logical/jcs-sha256-v1",
+    "state_commitment_profile": "kristal.state-commitment/jcs-sha256-v1"
+  },
+  "semantic_ownership": {
+    "owns": [
+      "Unit pedagogical objectives, organization, activities and assessment"
+    ],
+    "does_not_own": [
+      "Scriptural texts, Catholic doctrine, saints biographies and historical evidence owned by their source Kristals"
+    ]
+  },
+  "native_model": {
+    "kind": "unite_pedagogique_federee",
+    "description": "Learning unit with v11 namespaced semantic graph, source references, a native unit payload and a derived Ekole projection.",
+    "canonical_paths": [
+      "canon/domain"
+    ]
+  },
+  "epistemic_model": {
+    "assertion_layer": "optional_cross_cutting",
+    "ai_output_policy": "proposal_only"
+  },
+  "projection_policy": {
+    "portable_projection": {
+      "primary_orientation_axis": 1,
+      "max_secondary_orientation_axes": 1
+    }
+  },
+  "release_policy": {
+    "build_publish_activate_separated": true,
+    "qualification_before_publication": true,
+    "exact_commit_publication": true,
+    "activation_required": false
+  },
+  "derived_paths": [
+    "derived",
+    "projections/materialized",
+    "materializations",
+    "runtime",
+    "build",
+    "ai",
+    "state"
+  ],
+  "profile": "open",
+  "portable_ai": {
+    "profile": "kristal.portable-ai/1.0",
+    "entrypoint": "AI_START_HERE.md",
+    "manifest": "AI_MANIFEST.json",
+    "offline_first": true,
+    "github_required_for_reading": false,
+    "languages": [],
+    "enabled": false
+  },
+  "classification": {
+    "arketype": "unite-formation-federee",
+    "archetype_library": "1.5.0+extension-prototype"
+  }
+}

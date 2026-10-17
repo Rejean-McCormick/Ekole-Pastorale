@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-pains",
+  "namespace_id": "pastorale.demo:pains",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-pains",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "e50ed90dae0403e9985e091e15baa3cd2288bbd907a16e7d99f50723f2c4d3c0"
+        }
+      ]
+    }
+  ]
+}

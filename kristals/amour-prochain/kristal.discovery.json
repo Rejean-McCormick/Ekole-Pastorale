@@ -1,0 +1,26 @@
+{
+  "format": "kristal.discovery/1.0",
+  "state_ref": "urn:kristal:state:amour-prochain",
+  "classification": {
+    "arketype": "unite-formation-federee",
+    "archetype_library": "1.5.0+extension-prototype"
+  },
+  "data_layout": {
+    "state_architecture": "kristal.state/9.0",
+    "native_kind": "unite_pedagogique_federee",
+    "organization": "unknown",
+    "materialization_profiles": [],
+    "inventory_ref": "derived/reader-inventory.json"
+  },
+  "reader": {
+    "profile": "kristal.reader/generic-v1",
+    "hints_ref": "derived/reader-profile.json"
+  },
+  "size": {
+    "class": "tiny",
+    "tracked_local_bytes": 29537,
+    "completeness": "measured_referenced_local_files"
+  },
+  "source_fingerprint": "sha256:10c5ba814492f8a3ba1244e4e787dd64d4b01a739410e246f2ada6d833d3d402",
+  "authority": "noncanonical_derived_metadata_not_access_or_publication_authority"
+}

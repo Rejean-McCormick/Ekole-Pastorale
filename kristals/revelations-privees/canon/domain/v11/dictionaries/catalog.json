@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-revelations-privees",
+  "namespace_id": "pastorale.demo:revelations-privees",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-revelations-privees",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "0d18ae2679705234a86425a3461e5918f88314db6f2bd13d2305961531fb08a8"
+        }
+      ]
+    }
+  ]
+}

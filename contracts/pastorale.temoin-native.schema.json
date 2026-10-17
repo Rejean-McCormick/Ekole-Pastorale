@@ -1,0 +1,17 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "$id":"urn:pastorale:temoin-native:0.1-draft",
+  "title":"Témoin et vertus - forme d'auteur candidate ARK-21 non normative Kristal Framework",
+  "type":"object",
+  "required":["format","namespace_id","temoin_id","statut","nom","sources_primaires_a_collationner","vertus_et_actes","narrations_hagiographiques","miracles_attribues","statut_ecclesial","liens_vers_ekole","publication_autorisee","validations"],
+  "properties":{
+    "format":{"const":"pastorale.temoin-native/0.1-draft"},
+    "namespace_id":{"type":"string","minLength":3},"temoin_id":{"type":"string","pattern":"^KQ[1-9][0-9]*$"},
+    "statut":{"type":"string"},"nom":{"type":"string","minLength":3},
+    "sources_primaires_a_collationner":{"type":"array","minItems":1,"items":{"type":"object","required":["id","titre","type","edition","status"],"properties":{"id":{"type":"string","pattern":"^KS[1-9][0-9]*$"},"titre":{"type":"string"},"type":{"type":"string"},"edition":{"type":"string"},"status":{"type":"string"}}}},
+    "vertus_et_actes":{"type":"array","minItems":1,"items":{"type":"object","required":["id","vertu","precision","preuve"],"properties":{"id":{"type":"string","pattern":"^KQ[1-9][0-9]*$"},"vertu":{"type":"string"},"precision":{"type":"string"},"preuve":{"type":"string"}}}},
+    "narrations_hagiographiques":{"type":"object"},"miracles_attribues":{"type":"object","required":["statut","route"],"properties":{"statut":{"const":"hors_champ_du_dossier_des_vertus"},"route":{"type":"string"}}},
+    "statut_ecclesial":{"type":"object"},"liens_vers_ekole":{"type":"array","items":{"type":"object","required":["cours_id","type"],"properties":{"cours_id":{"type":"string"},"type":{"const":"candidat_non_pinne"}}}},
+    "publication_autorisee":{"const":false},"validations":{"type":"object","required":["historique","theologique","traductions","licences"],"properties":{"historique":{"const":false},"theologique":{"const":false},"traductions":{"const":false},"licences":{"const":false}}}
+  }
+}

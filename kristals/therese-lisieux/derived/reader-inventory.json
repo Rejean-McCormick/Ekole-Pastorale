@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:therese-lisieux",
+  "source_fingerprint": "sha256:80793a015604430ea2a2818c2a0e3f768c7d85e2da84325ccb516bb94b8de23b",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 30990,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10460,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-therese-lisieux-catalog-62373bfc4f.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 988,
+      "sha256": "sha256:c03ec34841989ed30db45de808c30f5b24d6f3878c204ade9e95093a8b6365ed"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-therese-lisieux-crosswalk-f24d842871.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 573,
+      "sha256": "sha256:527bd9ccdeebbae3d44cf3658bfa1aa5fac1a88a3b6aebe59c624c02c79bc83f"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-therese-lisieux-graph-2801cc511c.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1791,
+      "sha256": "sha256:18801492ca4928d4cb0ca0f3d84382b98ecf92464af1a99c2d81cf84c37d17cc"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-therese-lisieux-native-unit-8091c0cf03.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10460,
+      "sha256": "sha256:6aaceed9e74708efad1f0fc2bbb70dbd89719092601b0a1941201cfecca7a21d"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-therese-lisieux-registry-4b7c0f0a58.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 2034,
+      "sha256": "sha256:59b85dec8aa76d7d9dbaedafe061b4c92e1175a8e6cacc2a76234b51c2dbf6ea"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2221,
+      "sha256": "sha256:28d50aff161911e553af9707953d18432be1ffac290e9703e56511e72fca64ed"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9543,
+      "sha256": "sha256:da5a27884542e9f04eae00848add1f47770a5b7d75dbb0c855522386b0a30d2d"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 145,
+      "sha256": "sha256:25a78505fe4e23c452ec6d2aad4352dbcfc528768d917f65e2c0858272c113da"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 532,
+      "sha256": "sha256:2d35e32063d4616c23af2c41151960ebcd2b1d7fd6b482caec8cbe0fce2f250c"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1239,
+      "sha256": "sha256:c7fb7cf6a07feb8c094c75efdf1455d177fa25218dbf3592d7804e3bedf9ddac"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1464,
+      "sha256": "sha256:3cf03d39404fa4ff92de94aa68eb4c892d4562ccd0281a254654a69624bbd3d9"
+    }
+  ],
+  "segments": []
+}

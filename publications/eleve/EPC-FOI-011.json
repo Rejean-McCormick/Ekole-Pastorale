@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-011",
+  "titre": "Révélations privées et discernement ecclésial",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Comparer la Révélation publique accomplie dans le Christ et les témoignages ultérieurs de visions, messages ou apparitions."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Présenter la prudence de l’Église : une révélation privée, même reconnue, n’appartient pas au dépôt de foi et ne lie pas tous les croyants comme un dogme."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Un groupe veut imposer des messages provenant d’une apparition privée à tous les élèves. Comment rétablir la hiérarchie des autorités?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Construire une note d’information distinguant fait allégué, jugement ecclésial et liberté de réception."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Un groupe veut imposer des messages provenant d’une apparition privée à tous les élèves. Comment rétablir la hiérarchie des autorités?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

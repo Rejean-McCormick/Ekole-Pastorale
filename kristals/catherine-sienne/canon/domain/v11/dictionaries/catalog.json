@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-catherine-sienne",
+  "namespace_id": "pastorale.demo:catherine-sienne",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-catherine-sienne",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "da7371d807126a07f75cb06429dfb53bbba211c7ffd4e4e123d88a95a169825c"
+        }
+      ]
+    }
+  ]
+}

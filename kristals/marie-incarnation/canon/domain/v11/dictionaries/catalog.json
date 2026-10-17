@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-marie-incarnation",
+  "namespace_id": "pastorale.demo:marie-incarnation",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-marie-incarnation",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "ab6a51fcd7bb1a06cc087c8ca2d2c2a5cd0a81b0809ca03d59480b57bcdcf9ea"
+        }
+      ]
+    }
+  ]
+}

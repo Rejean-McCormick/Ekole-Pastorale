@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-priere-interiorite",
+  "namespace_id": "pastorale.demo:priere-interiorite",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-priere-interiorite",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "4a1372c9d0157e7b6955c576569afce22ba393e98c14f4b64916d11cae88c40a"
+        }
+      ]
+    }
+  ]
+}

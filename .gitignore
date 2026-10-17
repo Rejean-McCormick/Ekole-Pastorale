@@ -1,0 +1,11 @@
+# Dépôt source : conserver les engagements v9, les sources et la projection Ekole.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak

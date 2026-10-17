@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-008",
+  "titre": "Paul : la charité comme critère",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Lire l’hymne à la charité au sein des conflits d’une communauté et rapprocher les fruits de l’Esprit de la vie fraternelle."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Débattre des dons spectaculaires et de la priorité de la charité : le chapitre 13 place l’amour au centre de l’évaluation des dons, sans annuler la foi."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une personne affirme que son charisme lui donne le droit d’imposer son autorité. Quels critères communautaires opposer?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Comparer deux situations : service humble et prestige spirituel, en explicitant des critères concrets."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une personne affirme que son charisme lui donne le droit d’imposer son autorité. Quels critères communautaires opposer?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

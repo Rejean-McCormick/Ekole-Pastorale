@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-019",
+  "titre": "Liturgie et sacrements : gestes de l’Église",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Décrire le calendrier liturgique, la messe, les sacrements et leurs signes sans les réduire à une simple mise en scène sociale."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Distinguer doctrine sacramentelle, participation communautaire et liberté des personnes en démarche de découverte. L’admission sacramentelle relève des règles de l’Église."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment expliquer l’Eucharistie à une personne non pratiquante en respectant à la fois sa curiosité et la croyance catholique?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Préparer une visite explicative d’une église avec espace de questions et termes clarifiés."
+    }
+  ],
+  "niveau": "application",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment expliquer l’Eucharistie à une personne non pratiquante en respectant à la fois sa curiosité et la croyance catholique?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

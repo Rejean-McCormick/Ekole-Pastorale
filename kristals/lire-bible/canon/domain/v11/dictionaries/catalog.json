@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-lire-bible",
+  "namespace_id": "pastorale.demo:lire-bible",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-lire-bible",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "b354a8481b2376e29052cf9bea29fb394f02ec3a47d300f8e97dcc7f8e9b82d5"
+        }
+      ]
+    }
+  ]
+}

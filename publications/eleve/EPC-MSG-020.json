@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-020",
+  "titre": "Projet pastoral : écoute, service et évaluation",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Partir d’une enquête de besoins et d’un partenariat communautaire explicite. Définir qui parle et qui décide dans un projet pastoral."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Relier service, proclamation libre de la foi et respect des autres. Une action sociale ne doit jamais exiger une participation religieuse en échange de l’aide."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Un projet semble populaire mais les bénéficiaires disent ne pas avoir été consultés. Quels éléments doivent être revus?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Préparer une action pilote fictive ou encadrée, préciser les permissions, dangers, rétroactions et indicateurs."
+    }
+  ],
+  "niveau": "application",
+  "duree_minutes": 300,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Un projet semble populaire mais les bénéficiaires disent ne pas avoir été consultés. Quels éléments doivent être revus?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

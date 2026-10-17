@@ -1,0 +1,72 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_semantic_graph",
+  "namespace_id": "pastorale.demo:francois-sales",
+  "graph_id": "curriculum-francois-sales",
+  "entities": [
+    "KQ1001",
+    "KQ1002",
+    "KQ1003",
+    "KQ1004",
+    "KQ1005"
+  ],
+  "properties": [
+    "KP2001",
+    "KP2002",
+    "KP2003",
+    "KP2004"
+  ],
+  "sources": [
+    "KS4001"
+  ],
+  "assertions": [
+    {
+      "id": "KA3001",
+      "subject": "KQ1001",
+      "predicate": "KP2001",
+      "object": {
+        "kind": "entity",
+        "id": "KQ1002"
+      },
+      "sources": [
+        "KS4001"
+      ]
+    },
+    {
+      "id": "KA3002",
+      "subject": "KQ1001",
+      "predicate": "KP2002",
+      "object": {
+        "kind": "entity",
+        "id": "KQ1003"
+      },
+      "sources": [
+        "KS4001"
+      ]
+    },
+    {
+      "id": "KA3003",
+      "subject": "KQ1001",
+      "predicate": "KP2003",
+      "object": {
+        "kind": "entity",
+        "id": "KQ1004"
+      },
+      "sources": [
+        "KS4001"
+      ]
+    },
+    {
+      "id": "KA3004",
+      "subject": "KQ1001",
+      "predicate": "KP2004",
+      "object": {
+        "kind": "entity",
+        "id": "KQ1005"
+      },
+      "sources": [
+        "KS4001"
+      ]
+    }
+  ]
+}

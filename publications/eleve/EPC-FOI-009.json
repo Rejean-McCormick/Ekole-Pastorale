@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-009",
+  "titre": "Récits miraculeux attribués aux saints",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Présenter les différences entre écrits authentifiés, biographies anciennes, légendes, témoignages de dévotion et enquêtes formelles contemporaines."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Ne pas transformer une tradition populaire en fait historiquement démontré ni suggérer que tout récit extraordinaire est officiellement reconnu."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une histoire virale attribue une guérison à un saint sans provenance. Comment évaluer la source avant de l’utiliser en classe?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Appliquer une grille : date, auteur, témoins, documents, statut ecclésial, informations médicales accessibles et limites."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une histoire virale attribue une guérison à un saint sans provenance. Comment évaluer la source avant de l’utiliser en classe?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

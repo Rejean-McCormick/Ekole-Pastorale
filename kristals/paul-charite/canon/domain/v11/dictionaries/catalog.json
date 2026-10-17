@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-paul-charite",
+  "namespace_id": "pastorale.demo:paul-charite",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-paul-charite",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "49d07923ff3a2f094859742865b145fce18223f27e4d694cdf2f5960936f1ba0"
+        }
+      ]
+    }
+  ]
+}

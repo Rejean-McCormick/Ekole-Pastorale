@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-cana",
+  "namespace_id": "pastorale.demo:cana",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-cana",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "2df38f18cffea970d8b90b251701a5b7a2e037f7dbea79df02fe42432d1857f1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "format": "pastorale.release-record/1.1",
+  "release": "v0.3-prototype-local",
+  "date": "2026-10-16",
+  "branches": {
+    "message": 20,
+    "miracles": 12
+  },
+  "courses": 32,
+  "paths": 7,
+  "witness_kristals": 1,
+  "saints_candidate_profiles": 16,
+  "teacher_guides": 32,
+  "catho_legacy_doctors": 38,
+  "catho_legacy_source_refs": 138,
+  "approved_for_publication": false,
+  "technical_validation": [
+    "unittest 10 checks",
+    "32 lesson Framework v11 profiles + one witness",
+    "sample Framework v11 and integration-pack qualifications",
+    "Ekole Core 0.1 pack validation",
+    "ARK20+ARK21 installed and ARK21 instantiated in test clone"
+  ],
+  "limitations": [
+    "All teaching content remains editorial draft",
+    "Catho historic bridge is documentary, not v11 semantic migration",
+    "Arketype whole-project validation blocked by preexisting defects in supplied baseline",
+    "Miracles and doctrinal claims require qualified human review"
+  ],
+  "critical_sha256": {
+    "export-ekole/pack.json": "c6032f3a69ea2b87e804f367d14c89fdbd8c2d0d3d7c597e71c03d6136f0901c",
+    "contracts/pastorale.unite-native.schema.json": "e519552c7763feb7a7208f459ecbad8b49840a53b10fe7822f43fcf62757e525",
+    "contracts/pastorale.temoin-native.schema.json": "8d2a50c375b0eca6f6daeadb72492dee865e79fd39a40dc461a344004657bfeb",
+    "federation/catho-legacy-bridge.json": "52dd53b7c0b88bc8a89c60dd0416d510c6330041cc03491113d59940388c557b",
+    "kristals-temoins/francois-assise/canon/domain/temoignages/temoin.json": "33f51a7bc66a52a198fbfe85e7554d7038cb8e191e99f10c4a9768155e5257f6",
+    "outils/projeter_ekole.py": "d79c135e9dced95daf41a3ceb0bf580c86b1c8f2620dd8ab244c6ecf0f4c25a8"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-012",
+  "titre": "François d’Assise : les vertus d’une vie",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "François a laissé des écrits; son héritage est aussi un modèle de vie. Distinguer textes anciens, biographies rédigées après sa mort et traditions hagiographiques."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Étudier pauvreté choisie, fraternité, soin des créatures et humilité. Ne pas confondre renoncement volontaire et misère imposée aux populations vulnérables."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Un groupe romantise l’itinérance comme idéal franciscain. Pourquoi est-ce une erreur morale et pastorale?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Élaborer une activité avec un organisme de proximité où les personnes aidées conservent leur voix."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Un groupe romantise l’itinérance comme idéal franciscain. Pourquoi est-ce une erreur morale et pastorale?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

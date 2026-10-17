@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-001",
+  "titre": "Cana : signe, fête et foi",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Lire le récit des noces de Cana dans sa composition johannique : personnages, manque de vin, parole de Marie, serviteurs et conclusion du signe."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Présenter sans l’effacer la foi de l’Église en la puissance du Christ. Distinguer le signe narré, son interprétation théologique et la question historique distincte."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une personne doute de l’événement et veut néanmoins comprendre l’Évangile. Comment éviter de présenter le doute comme une faute morale?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Établir un tableau « récit — sens chrétien — questions de méthode — portée humaine » et présenter les distinctions."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une personne doute de l’événement et veut néanmoins comprendre l’Évangile. Comment éviter de présenter le doute comme une faute morale?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

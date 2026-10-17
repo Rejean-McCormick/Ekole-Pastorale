@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-augustin",
+  "namespace_id": "pastorale.demo:augustin",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-augustin",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "fcdfc96fd6b75007548c6fa7312a505eba5a2ace9c49ba0eafa2a0eb01eb7d55"
+        }
+      ]
+    }
+  ]
+}

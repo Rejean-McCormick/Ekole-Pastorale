@@ -1,0 +1,1045 @@
+{
+  "format": "pastorale.catho-legacy-bridge/1.0",
+  "status": "pinned-historical-artifact-not-v11-crosswalk",
+  "ownership": "A-Kristal-Catho historique",
+  "epistemic_note": "Aucune identité v11 et aucune reconnaissance de source par simple ressemblance de noms. Pointeurs documentaires vers les artefacts réels et leur empreinte exacte.",
+  "artifacts": {
+    "people": {
+      "relative_path": "canon/domain/personnes-reconnaissances.json",
+      "sha256": "2358d00ce88140aa303c4dbe3e9a56e043157d9ca9442675928523d15668ccab",
+      "schema_version": "kristal.catho.personnes-reconnaissances/1.0"
+    },
+    "corpus": {
+      "relative_path": "knowledge-base/corpus/corpus-chretien.semantic.json",
+      "sha256": "58b3f6070e87f35f57fdfe6a28d9a389616ad4720ff01eaaacdfad1eb5be0729",
+      "state_id": "sha256:dd95ba31b53abf1b5a6abf088c256675ef1f1a5efc4034d21009851488fd7050"
+    }
+  },
+  "doctors": [
+    {
+      "id": "urn:kristal:catho:personne:albert-le-grand",
+      "name": "Albert le Grand",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:alphonse-de-liguori",
+      "name": "Alphonse de Liguori",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:ambroise-de-milan",
+      "name": "Ambroise de Milan",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:anselme-de-cantorbery",
+      "name": "Anselme de Cantorbéry",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:antoine-de-padoue",
+      "name": "Antoine de Padoue",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:athanase-d-alexandrie",
+      "name": "Athanase d’Alexandrie",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:augustin-d-hippone",
+      "name": "Augustin d’Hippone",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:basile-le-grand",
+      "name": "Basile le Grand",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:bede-le-venerable",
+      "name": "Bède le Vénérable",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:bernard-de-clairvaux",
+      "name": "Bernard de Clairvaux",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:bonaventure",
+      "name": "Bonaventure",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:catherine-de-sienne",
+      "name": "Catherine de Sienne",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:cyrille-d-alexandrie",
+      "name": "Cyrille d’Alexandrie",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:cyrille-de-jerusalem",
+      "name": "Cyrille de Jérusalem",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:ephrem-le-syrien",
+      "name": "Éphrem le Syrien",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:francois-de-sales",
+      "name": "François de Sales",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:gregoire-de-narek",
+      "name": "Grégoire de Narek",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:gregoire-de-nazianze",
+      "name": "Grégoire de Nazianze",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:gregoire-ier",
+      "name": "Grégoire Ier",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:hilaire-de-poitiers",
+      "name": "Hilaire de Poitiers",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:hildegarde-de-bingen",
+      "name": "Hildegarde de Bingen",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:irenee-de-lyon",
+      "name": "Irénée de Lyon",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:isidore-de-seville",
+      "name": "Isidore de Séville",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:jean-chrysostome",
+      "name": "Jean Chrysostome",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:jean-d-avila",
+      "name": "Jean d’Avila",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:jean-damascene",
+      "name": "Jean Damascène",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:jean-de-la-croix",
+      "name": "Jean de la Croix",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:jerome",
+      "name": "Jérôme",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:john-henry-newman",
+      "name": "John Henry Newman",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:laurent-de-brindes",
+      "name": "Laurent de Brindes",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:leon-ier",
+      "name": "Léon Ier",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:pierre-canisius",
+      "name": "Pierre Canisius",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:pierre-chrysologue",
+      "name": "Pierre Chrysologue",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:pierre-damien",
+      "name": "Pierre Damien",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:robert-bellarmin",
+      "name": "Robert Bellarmin",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:therese-d-avila",
+      "name": "Thérèse d’Avila",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:therese-de-lisieux",
+      "name": "Thérèse de Lisieux",
+      "status": "categorie_source_docteur_eglise"
+    },
+    {
+      "id": "urn:kristal:catho:personne:thomas-d-aquin",
+      "name": "Thomas d’Aquin",
+      "status": "categorie_source_docteur_eglise"
+    }
+  ],
+  "source_refs": [
+    {
+      "source_id": "urn:theophile:source:1co15",
+      "title": "1Co 15 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/1Co/15",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:al",
+      "title": "Amoris laetitia",
+      "source_url": "https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:ambrose",
+      "title": "Des devoirs du clergé I",
+      "source_url": "https://www.newadvent.org/fathers/34011.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:anscombe",
+      "title": "Modern Moral Philosophy",
+      "source_url": "https://sites.pitt.edu/~mthompso/readings/mmp.pdf",
+      "publisher": "sites.pitt.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:anselm",
+      "title": "Proslogion",
+      "source_url": "https://sourcebooks.web.fordham.edu/basis/anselm-proslogium.asp",
+      "publisher": "sourcebooks.web.fordham.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:anselm_reply",
+      "title": "Réponse à Gaunilon — Anselmi apologeticum",
+      "source_url": "https://sourcebooks.web.fordham.edu/basis/anselm-gaunilo.asp",
+      "publisher": "sourcebooks.web.fordham.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:assumption1997",
+      "title": "L’Assomption de Marie, vérité de foi — audience",
+      "source_url": "https://www.vatican.va/content/john-paul-ii/en/audiences/1997/documents/hf_jp-ii_aud_02071997.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_city",
+      "title": "La Cité de Dieu, livre XIX",
+      "source_url": "https://www.newadvent.org/fathers/120119.htm",
+      "publisher": "New Advent"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_city11",
+      "title": "Cité de Dieu XI",
+      "source_url": "https://www.newadvent.org/fathers/120111.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_city14",
+      "title": "Cité de Dieu XIV",
+      "source_url": "https://www.newadvent.org/fathers/120114.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_conf10",
+      "title": "Confessions X",
+      "source_url": "https://www.newadvent.org/fathers/110110.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_conf7",
+      "title": "Confessions VII",
+      "source_url": "https://www.newadvent.org/fathers/110107.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_doctrine",
+      "title": "De la doctrine chrétiennene II",
+      "source_url": "https://www.newadvent.org/fathers/12022.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_grace",
+      "title": "De la grâce et du libre arbitre",
+      "source_url": "https://www.newadvent.org/fathers/1510.htm",
+      "publisher": "New Advent"
+    },
+    {
+      "source_id": "urn:theophile:source:aug_time",
+      "title": "Confessions, livre XI",
+      "source_url": "https://www.newadvent.org/fathers/110111.htm",
+      "publisher": "New Advent"
+    },
+    {
+      "source_id": "urn:theophile:source:basil",
+      "title": "Hexaéméron — Homélie I",
+      "source_url": "https://www.newadvent.org/fathers/32011.htm",
+      "publisher": "www.newadvent.org"
+    },
+    {
+      "source_id": "urn:theophile:source:bellarmine",
+      "title": "Lettre à Foscarini",
+      "source_url": "https://sourcebooks.web.fordham.edu/mod/1615bellarmine-letter.asp",
+      "publisher": "sourcebooks.web.fordham.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:blondel",
+      "title": "L’Action",
+      "source_url": "https://classiques.uqam.ca/classiques/blondel_maurice/action/blondel_action_1893.pdf",
+      "publisher": "classiques.uqam.ca"
+    },
+    {
+      "source_id": "urn:theophile:source:boethius",
+      "title": "Consolation de la philosophie",
+      "source_url": "https://www.gutenberg.org/files/14328/14328-h/14328-h.htm",
+      "publisher": "www.gutenberg.org"
+    },
+    {
+      "source_id": "urn:theophile:source:bonaventure_full",
+      "title": "Itinéraire de l’esprit vers Dieu — texte complet",
+      "source_url": "https://ccel.org/ccel/bonaventure/mindsroad.all.html",
+      "publisher": "ccel.org"
+    },
+    {
+      "source_id": "urn:theophile:source:ccc_christ",
+      "title": "Catéchisme — incarnation",
+      "source_url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:ccc_dogma",
+      "title": "Catéchisme — interprétation du dépôt de la foi",
+      "source_url": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/artcile_2/iii_the_interpretation_of_the_heritage_of_faith.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:ccc_mary",
+      "title": "Catéchisme — conception de Marie et naissance de Jésus",
+      "source_url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3/paragraph_2_conceived_by_the_power_of_the_holy_spirit_and_born_of_the_virgin_mary.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:ccc_trinity",
+      "title": "Catéchisme — le Père",
+      "source_url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:cdf1998",
+      "title": "Commentaire doctrinal de la formule conclusive de la Professio fidei",
+      "source_url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_1998_professio-fidei_en.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:chesterton",
+      "title": "Orthodoxy",
+      "source_url": "https://www.gutenberg.org/cache/epub/130/pg130-images.html",
+      "publisher": "www.gutenberg.org"
+    },
+    {
+      "source_id": "urn:theophile:source:chrysostom",
+      "title": "Homélie 50 sur Matthieu",
+      "source_url": "https://www.newadvent.org/fathers/200150.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:clare3",
+      "title": "Troisième lettre à Agnès de Prague",
+      "source_url": "https://epistolae.ctl.columbia.edu/letter/569.html",
+      "publisher": "Epistolae, Columbia University"
+    },
+    {
+      "source_id": "urn:theophile:source:clare4",
+      "title": "Quatrième lettre à Agnès de Prague",
+      "source_url": "https://epistolae.ctl.columbia.edu/letter/572.html",
+      "publisher": "Epistolae, Columbia University"
+    },
+    {
+      "source_id": "urn:theophile:source:cti1989",
+      "title": "L’interprétation des dogmes",
+      "source_url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_en.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:cusa_text",
+      "title": "De la docte ignorance — texte I",
+      "source_url": "https://shipseducation.net/galileotrial/library/cusa2.pdf",
+      "publisher": "shipseducation.net"
+    },
+    {
+      "source_id": "urn:theophile:source:cv",
+      "title": "Caritas in veritate",
+      "source_url": "https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:day",
+      "title": "We Go on Record: the CW Response to Hiroshima",
+      "source_url": "https://christianworker.org/ddlw-554/",
+      "publisher": "christianworker.org"
+    },
+    {
+      "source_id": "urn:theophile:source:dce",
+      "title": "Deus caritas est",
+      "source_url": "https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:descartes",
+      "title": "Discours de la méthode",
+      "source_url": "https://www.gutenberg.org/cache/epub/59/pg59-images.html",
+      "publisher": "www.gutenberg.org"
+    },
+    {
+      "source_id": "urn:theophile:source:dh",
+      "title": "Dignitatis humanae",
+      "source_url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_fr.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:dv",
+      "title": "Dei Verbum",
+      "source_url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_fr.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:ev",
+      "title": "Evangelium vitae",
+      "source_url": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:evolution1996",
+      "title": "Message à l’Académie pontificale des sciences",
+      "source_url": "https://www.pas.va/en/magisterium/saint-john-paul-ii/1996-22-october.html",
+      "publisher": "Académie pontificale des sciences"
+    },
+    {
+      "source_id": "urn:theophile:source:fr",
+      "title": "Fides et ratio",
+      "source_url": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:francis_testament",
+      "title": "Testament — traduction Paschal Robinson",
+      "source_url": "https://en.wikisource.org/wiki/The_Writings_of_St._Francis_of_Assisi/Testament_of_the_Holy_Father_St._Francis",
+      "publisher": "Wikisource — reproduction de l’édition Robinson 1905"
+    },
+    {
+      "source_id": "urn:theophile:source:ft",
+      "title": "Fratelli tutti",
+      "source_url": "https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:ga5",
+      "title": "Ga 5 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Ga/5",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:galileo1992",
+      "title": "Discours à l’Académie pontificale des sciences",
+      "source_url": "https://www.vatican.va/content/john-paul-ii/fr/speeches/1992/october/documents/hf_jp-ii_spe_19921031_accademia-scienze.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:galileo_letter",
+      "title": "Letter to the Grand Duchess Christina",
+      "source_url": "https://sourcebooks.web.fordham.edu/mod/galileo-tuscany.asp",
+      "publisher": "sourcebooks.web.fordham.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:galileo_sentence",
+      "title": "Sentence de Galilée",
+      "source_url": "https://sourcebooks.web.fordham.edu/mod/1630galileo.asp",
+      "publisher": "sourcebooks.web.fordham.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:gaunilo",
+      "title": "Pour l’insensé ; réponse d’Anselme",
+      "source_url": "https://sourcebooks.web.fordham.edu/basis/anselm-gaunilo.asp",
+      "publisher": "sourcebooks.web.fordham.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:gs",
+      "title": "Gaudium et spes",
+      "source_url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_fr.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:guardini",
+      "title": "L’Esprit de la liturgie",
+      "source_url": "https://www.ewtn.com/christianity/library/spirit-of-the-liturgy-11203",
+      "publisher": "www.ewtn.com"
+    },
+    {
+      "source_id": "urn:theophile:source:irenee38",
+      "title": "Contre les hérésies IV,38",
+      "source_url": "https://www.newadvent.org/fathers/0103438.htm",
+      "publisher": "New Advent ; éditions patristiques anglaises"
+    },
+    {
+      "source_id": "urn:theophile:source:jc2",
+      "title": "Jc 2 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Jc/2",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:jn1",
+      "title": "Jn 1 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Jn/1",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:jn13",
+      "title": "Jn 13 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Jn/13",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:jn20",
+      "title": "Jn 20 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Jn/20",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:john_cross",
+      "title": "La Nuit obscure — traduction E. Allison Peers",
+      "source_url": "https://ccel.org/ccel/john_cross/dark_night.all.html",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "source_id": "urn:theophile:source:justin2",
+      "title": "Seconde Apologie",
+      "source_url": "https://www.newadvent.org/fathers/0127.htm",
+      "publisher": "www.newadvent.org"
+    },
+    {
+      "source_id": "urn:theophile:source:lc10",
+      "title": "Lc 10 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Lc/10",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:lc15",
+      "title": "Lc 15 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Lc/15",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:lc24",
+      "title": "Lc 24 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Lc/24",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:le",
+      "title": "Laborem exercens",
+      "source_url": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:lg",
+      "title": "Lumen gentium",
+      "source_url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:limbo",
+      "title": "The Hope of Salvation for Infants Who Die Without Being Baptised",
+      "source_url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_en.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:ls",
+      "title": "Laudato si’",
+      "source_url": "https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:macintyre",
+      "title": "Entretien par courriel avec Franco Manni",
+      "source_url": "https://www.lovatti.eu/fr/MacIntyre.htm",
+      "publisher": "www.lovatti.eu"
+    },
+    {
+      "source_id": "urn:theophile:source:marcel10",
+      "title": "Le Mystère de l’être I — chapitre X",
+      "source_url": "https://giffordarchives.org/books/mystery-being-reflection-and-mystery/chapter-x-presence-mystery",
+      "publisher": "giffordarchives.org"
+    },
+    {
+      "source_id": "urn:theophile:source:marcel5",
+      "title": "Le Mystère de l’être I — chapitre V",
+      "source_url": "https://giffordarchives.org/books/mystery-being-reflection-and-mystery/chapter-v-primary-and-secondary-reflection%E2%80%94-existential",
+      "publisher": "giffordarchives.org"
+    },
+    {
+      "source_id": "urn:theophile:source:marcel9",
+      "title": "Le Mystère de l’être I — chapitre IX",
+      "source_url": "https://giffordarchives.org/books/mystery-being-reflection-and-mystery/chapter-ix-togetherness%E2%80%94identity-and-depth",
+      "publisher": "giffordarchives.org"
+    },
+    {
+      "source_id": "urn:theophile:source:maritain_art",
+      "title": "Art et scolastique",
+      "source_url": "https://maritain.nd.edu/assets/545270/jacques_maritain_art_and_scholasticism_and_the_frontiers_of_poetry.pdf",
+      "publisher": "maritain.nd.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:maritain_person",
+      "title": "La personne et le bien commun",
+      "source_url": "https://maritain.nd.edu/assets/594322/jacques_maritain_the_person_and_the_common_good.pdf",
+      "publisher": "maritain.nd.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:maritain_philo",
+      "title": "An Essay on Christian Philosophy",
+      "source_url": "https://maritain.nd.edu/assets/570988/jacques_maritain_an_essay_on_christian_philosophy.pdf",
+      "publisher": "maritain.nd.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:mc10",
+      "title": "Mc 10 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Mc/10",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:mc16",
+      "title": "Mc 16 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Mc/16",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:md",
+      "title": "Munificentissimus Deus",
+      "source_url": "https://www.vatican.va/content/pius-xii/en/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:more",
+      "title": "Utopia",
+      "source_url": "https://www.gutenberg.org/cache/epub/2130/pg2130-images.html",
+      "publisher": "www.gutenberg.org"
+    },
+    {
+      "source_id": "urn:theophile:source:mounier",
+      "title": "Le Personnalisme — Introduction familière à l’univers personnel",
+      "source_url": "https://classiques.uqam.ca/classiques/Mounier_Emmanuel/personnalisme/personnalisme_intro.html",
+      "publisher": "classiques.uqam.ca"
+    },
+    {
+      "source_id": "urn:theophile:source:mt25",
+      "title": "Mt 25 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Mt/25",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:mt28",
+      "title": "Mt 28 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Mt/28",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:mt5",
+      "title": "Mt 5 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Mt/5",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:na",
+      "title": "Nostra aetate",
+      "source_url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_fr.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:newman_assent",
+      "title": "Grammaire de l’assentiment IX",
+      "source_url": "https://www.newmanreader.org/works/grammar/chapter9.html",
+      "publisher": "www.newmanreader.org"
+    },
+    {
+      "source_id": "urn:theophile:source:newman_conscience",
+      "title": "Lettre au duc de Norfolk, section 5",
+      "source_url": "https://www.newmanreader.org/works/anglicans/volume2/gladstone/section5.html",
+      "publisher": "Newman Reader / National Institute for Newman Studies"
+    },
+    {
+      "source_id": "urn:theophile:source:newman_development",
+      "title": "Essay on the Development of Christian Doctrine, chapitre V",
+      "source_url": "https://www.newmanreader.org/works/development/chapter5.html",
+      "publisher": "Newman Reader / National Institute for Newman Studies"
+    },
+    {
+      "source_id": "urn:theophile:source:newman_education",
+      "title": "L’Idée d’université — Discours V",
+      "source_url": "https://www.newmanreader.org/works/idea/discourse5.html",
+      "publisher": "www.newmanreader.org"
+    },
+    {
+      "source_id": "urn:theophile:source:newman_inference",
+      "title": "Grammaire de l’assentiment VIII,1",
+      "source_url": "https://www.newmanreader.org/works/grammar/chapter8-1.html",
+      "publisher": "www.newmanreader.org"
+    },
+    {
+      "source_id": "urn:theophile:source:nyssa",
+      "title": "De la création de l’homme",
+      "source_url": "https://www.newadvent.org/fathers/2914.htm",
+      "publisher": "www.newadvent.org"
+    },
+    {
+      "source_id": "urn:theophile:source:ockham",
+      "title": "Somme de logique I,14",
+      "source_url": "https://bartholomew.stanford.edu/onlogicockham/excerpttext.html",
+      "publisher": "bartholomew.stanford.edu"
+    },
+    {
+      "source_id": "urn:theophile:source:pascal",
+      "title": "Pensées — numérotation Brunschvicg",
+      "source_url": "https://www.gutenberg.org/cache/epub/18269/pg18269-images.html",
+      "publisher": "www.gutenberg.org"
+    },
+    {
+      "source_id": "urn:theophile:source:pp",
+      "title": "Populorum progressio",
+      "source_url": "https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:pt",
+      "title": "Pacem in terris",
+      "source_url": "https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:qa",
+      "title": "Quadragesimo anno",
+      "source_url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+      "publisher": "www.vatican.va"
+    },
+    {
+      "source_id": "urn:theophile:source:rm3",
+      "title": "Rm 3 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Rm/3",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:rm8",
+      "title": "Rm 8 — traduction liturgique AELF",
+      "source_url": "https://www.aelf.org/bible/Rm/8",
+      "publisher": "Association épiscopale liturgique pour les pays francophones"
+    },
+    {
+      "source_id": "urn:theophile:source:rn",
+      "title": "Rerum novarum",
+      "source_url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:scotus",
+      "title": "Traité du premier principe",
+      "source_url": "https://www.ewtn.com/christianity/library/treatise-on-god-as-first-principle-10044",
+      "publisher": "www.ewtn.com"
+    },
+    {
+      "source_id": "urn:theophile:source:scotus_mary",
+      "title": "Audience sur Jean Duns Scot",
+      "source_url": "https://www.vatican.va/content/benedict-xvi/fr/audiences/2010/documents/hf_ben-xvi_aud_20100707.html",
+      "publisher": "www.vatican.va"
+    },
+    {
+      "source_id": "urn:theophile:source:ss",
+      "title": "Spe salvi",
+      "source_url": "https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "publisher": "Saint-Siège"
+    },
+    {
+      "source_id": "urn:theophile:source:st1002",
+      "title": "Somme de théologie — Existence de Dieu",
+      "source_url": "https://www.newadvent.org/summa/1002.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1003",
+      "title": "Somme de théologie — Simplicité divine",
+      "source_url": "https://www.newadvent.org/summa/1003.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1005",
+      "title": "Somme de théologie — Le bien",
+      "source_url": "https://www.newadvent.org/summa/1005.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1013",
+      "title": "Somme de théologie — Les noms divins",
+      "source_url": "https://www.newadvent.org/summa/1013.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1016",
+      "title": "Somme de théologie — La vérité",
+      "source_url": "https://www.newadvent.org/summa/1016.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1022",
+      "title": "Somme de théologie — La providence",
+      "source_url": "https://www.newadvent.org/summa/1022.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1044",
+      "title": "Somme de théologie — La création et les causes",
+      "source_url": "https://www.newadvent.org/summa/1044.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1046",
+      "title": "Somme de théologie — Commencement du monde",
+      "source_url": "https://www.newadvent.org/summa/1046.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1048",
+      "title": "Somme de théologie — Le mal",
+      "source_url": "https://www.newadvent.org/summa/1048.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1075",
+      "title": "Somme de théologie — La nature de l’âme",
+      "source_url": "https://www.newadvent.org/summa/1075.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1076",
+      "title": "Somme de théologie — Union de l’âme et du corps",
+      "source_url": "https://www.newadvent.org/summa/1076.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1083",
+      "title": "Somme de théologie — Le libre arbitre",
+      "source_url": "https://www.newadvent.org/summa/1083.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1084",
+      "title": "Somme de théologie — Connaissance intellectuelle",
+      "source_url": "https://www.newadvent.org/summa/1084.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st1085",
+      "title": "Somme de théologie — Abstraction et connaissance",
+      "source_url": "https://www.newadvent.org/summa/1085.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2002",
+      "title": "Somme de théologie — Biens et bonheur",
+      "source_url": "https://www.newadvent.org/summa/2002.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2006",
+      "title": "Somme de théologie — Le volontaire",
+      "source_url": "https://www.newadvent.org/summa/2006.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2013",
+      "title": "Somme de théologie — Le choix",
+      "source_url": "https://www.newadvent.org/summa/2013.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2018",
+      "title": "Somme de théologie — Moralité des actes",
+      "source_url": "https://www.newadvent.org/summa/2018.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2024",
+      "title": "Somme de théologie — Moralité des passions",
+      "source_url": "https://www.newadvent.org/summa/2024.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2055",
+      "title": "Somme de théologie — Nature des vertus",
+      "source_url": "https://www.newadvent.org/summa/2055.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2057",
+      "title": "Somme de théologie — Vertus intellectuelles",
+      "source_url": "https://www.newadvent.org/summa/2057.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2090",
+      "title": "Somme de théologie — Essence de la loi",
+      "source_url": "https://www.newadvent.org/summa/2090.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st2094",
+      "title": "Somme de théologie — Loi naturelle",
+      "source_url": "https://www.newadvent.org/summa/2094.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3040",
+      "title": "Somme de théologie — La guerre",
+      "source_url": "https://www.newadvent.org/summa/3040.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3047",
+      "title": "Somme de théologie — La prudence",
+      "source_url": "https://www.newadvent.org/summa/3047.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3058",
+      "title": "Somme de théologie — La justice",
+      "source_url": "https://www.newadvent.org/summa/3058.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3061",
+      "title": "Somme de théologie — Justice distributive et commutative",
+      "source_url": "https://www.newadvent.org/summa/3061.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3064",
+      "title": "Somme de théologie — L’homicide et la défense",
+      "source_url": "https://www.newadvent.org/summa/3064.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3066",
+      "title": "Somme de théologie — Propriété et vol",
+      "source_url": "https://www.newadvent.org/summa/3066.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3077",
+      "title": "Somme de théologie — Échange et fraude",
+      "source_url": "https://www.newadvent.org/summa/3077.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3078",
+      "title": "Somme de théologie — L’usure",
+      "source_url": "https://www.newadvent.org/summa/3078.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:st3110",
+      "title": "Somme de théologie — Le mensonge",
+      "source_url": "https://www.newadvent.org/summa/3110.htm",
+      "publisher": "New Advent ; traduction des Dominicains anglais"
+    },
+    {
+      "source_id": "urn:theophile:source:stein",
+      "title": "On the Problem of Empathy",
+      "source_url": "https://empathylessons.com/wp-content/uploads/2016/07/edithsteinon-the-problem-of-empathy-stein-st-edith_4199-copy.pdf",
+      "publisher": "empathylessons.com"
+    },
+    {
+      "source_id": "urn:theophile:source:teilhard_noosphere",
+      "title": "Le Phénomène humain, III, chapitre I",
+      "source_url": "https://fr.wikisource.org/wiki/Le_ph%C3%A9nom%C3%A8ne_humain_%28Teilhard_de_Chardin%29/3/01",
+      "publisher": "Wikisource — reproduction de l’édition Seuil 1955"
+    },
+    {
+      "source_id": "urn:theophile:source:teilhard_omega",
+      "title": "Le Phénomène humain, IV, chapitre II",
+      "source_url": "https://fr.wikisource.org/wiki/Le_ph%C3%A9nom%C3%A8ne_humain_%28Teilhard_de_Chardin%29/4/02",
+      "publisher": "Wikisource — reproduction de l’édition Seuil 1955"
+    },
+    {
+      "source_id": "urn:theophile:source:teilhard_warning",
+      "title": "Monitum de 1962 et communiqué de 1981 — reproduction",
+      "source_url": "https://www.christianculture.org/culture/library/view.cfm?id=3160",
+      "publisher": "Christian Culture — reproduction tierce"
+    },
+    {
+      "source_id": "urn:theophile:source:teresa",
+      "title": "Le Château intérieur — septièmes demeures, chapitre IV",
+      "source_url": "https://ccel.org/ccel/teresa/castle2/castle2.xi.iv.html",
+      "publisher": "Christian Classics Ethereal Library"
+    },
+    {
+      "source_id": "urn:theophile:source:th_conscience",
+      "title": "Somme théologique, I-II, question 19",
+      "source_url": "https://www.newadvent.org/summa/2019.htm",
+      "publisher": "New Advent"
+    },
+    {
+      "source_id": "urn:theophile:source:th_law",
+      "title": "Somme théologique, I-II, question 96",
+      "source_url": "https://www.newadvent.org/summa/2096.htm",
+      "publisher": "New Advent"
+    },
+    {
+      "source_id": "urn:theophile:source:th_mary",
+      "title": "Somme théologique, III, question 27",
+      "source_url": "https://www.newadvent.org/summa/4027.htm",
+      "publisher": "New Advent"
+    },
+    {
+      "source_id": "urn:theophile:source:vitoria",
+      "title": "De Indis — On the American Indians",
+      "source_url": "https://warwick.ac.uk/fac/arts/history/students/modules/archive/hi3f9/timetable/spanishinventionofrightsandinternationallaw/on-the-american-indians.pdf",
+      "publisher": "warwick.ac.uk"
+    },
+    {
+      "source_id": "urn:theophile:source:vs",
+      "title": "Veritatis splendor",
+      "source_url": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html",
+      "publisher": "Saint-Siège"
+    }
+  ],
+  "limitations": [
+    "La liste de saints dans le corpus historique est partielle.",
+    "Les enseignements sont des propositions éditoriales, non approuvées par l’autorité ecclésiastique.",
+    "Un pont documentaire n’est pas une identité sémantique inter-Kristal."
+  ]
+}

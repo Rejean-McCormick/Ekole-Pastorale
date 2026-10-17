@@ -1,0 +1,14 @@
+{
+  "format": "ecole-pastorale.repo-release/1",
+  "version_contenu": "0.3",
+  "version_depot": "0.3.1",
+  "moteur_attendu": "ekole.content-pack/0.1",
+  "framework": "11.0.0-draft.3",
+  "dossier_frere": "ecole-pastorale",
+  "source": "Pastorale_Kristal_v11_ARK20_ARK21_v03_complet.zip",
+  "cours": 32,
+  "parcours": 7,
+  "kristals_cours": 32,
+  "kristals_temoins": 1,
+  "statut": "non approuvé, non publié"
+}

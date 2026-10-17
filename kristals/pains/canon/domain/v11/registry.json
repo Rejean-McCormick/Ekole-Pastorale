@@ -1,0 +1,63 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_identity_registry",
+  "namespace_id": "pastorale.demo:pains",
+  "registry_id": "registry-pains",
+  "identities": [
+    {
+      "id": "KQ1001",
+      "kind": "entity",
+      "status": "provisional"
+    },
+    {
+      "id": "KQ1002",
+      "kind": "entity",
+      "status": "provisional"
+    },
+    {
+      "id": "KQ1003",
+      "kind": "entity",
+      "status": "provisional"
+    },
+    {
+      "id": "KQ1004",
+      "kind": "entity",
+      "status": "provisional"
+    },
+    {
+      "id": "KP2001",
+      "kind": "property",
+      "status": "provisional"
+    },
+    {
+      "id": "KP2002",
+      "kind": "property",
+      "status": "provisional"
+    },
+    {
+      "id": "KP2003",
+      "kind": "property",
+      "status": "provisional"
+    },
+    {
+      "id": "KA3001",
+      "kind": "assertion",
+      "status": "provisional"
+    },
+    {
+      "id": "KA3002",
+      "kind": "assertion",
+      "status": "provisional"
+    },
+    {
+      "id": "KA3003",
+      "kind": "assertion",
+      "status": "provisional"
+    },
+    {
+      "id": "KS4001",
+      "kind": "source",
+      "status": "provisional"
+    }
+  ]
+}

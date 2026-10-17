@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-partage-pauvres",
+  "namespace_id": "pastorale.demo:partage-pauvres",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-partage-pauvres",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "0b846b4a662024a50c9ef9c726e6350f530cb9015aea6d17f5e883f6a33b9eb9"
+        }
+      ]
+    }
+  ]
+}

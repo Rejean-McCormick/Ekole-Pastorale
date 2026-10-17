@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-resurrection",
+  "namespace_id": "pastorale.demo:resurrection",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-resurrection",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "80430f0d6b2670c2fb36d0ea295cb52280d1d95f8b05f70000ee6c2c23fb87e4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "format": "pastorale.ekole-derivation/1.1",
+  "published": false,
+  "release_approved": false,
+  "source_kristals": [
+    {
+      "course_id": "EPC-MSG-018",
+      "source_kristal": "accompagnement",
+      "state_ref": "urn:kristal:state:accompagnement",
+      "logical_state_commitment": "sha256:730a3fbe437ddbde1baddfb007d5c85c9184a8433c890fb1f90b43ba1faf3cd2",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "4174618b240e32cedc78d8d27de6c3100cb4a3f5c8f29856d1dc9b70faeabf99",
+        "canon/domain/v11/graph.json": "56aba656d42d87f255cbeb0769463dfee28cab401a40a7879ff12d932380abb4",
+        "canon/domain/v11/crosswalk.json": "f4e267828bdb5e7bafc50521179c1fd648a9ba55890973a01814d66066db304b",
+        "canon/domain/v11/dictionaries/catalog.json": "3c1d60d11d877e0d3f5e86f604b81d81cba368740b5263c99373fa1afb18354e",
+        "canon/domain/pedagogie/unite.json": "ddebd77a634ac181c2f657c3859a644dfc75248ef620cd57e44a390449962b7c"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-003",
+      "source_kristal": "amour-prochain",
+      "state_ref": "urn:kristal:state:amour-prochain",
+      "logical_state_commitment": "sha256:369e98727816b8e9dc990aa271336d36c00872f7fd5fc799a1cfde9874fd1845",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "fef87fd7719abb33622705ec3181ddb7e889d2145fd7a63bfa9db69d36974dd2",
+        "canon/domain/v11/graph.json": "e3e472032b4c3b98dcd85875b04d8dcb65a4ef78eaa1a3a9fdd38dfeaa186445",
+        "canon/domain/v11/crosswalk.json": "e9b19f8320d80f201189ac4953bb471b156ce16273ba3e9ab8642a60d320fd4f",
+        "canon/domain/v11/dictionaries/catalog.json": "15ac93b2bebe2e1b5989e923079855513d78f9cf7bceba852c2cab9aea83bdc7",
+        "canon/domain/pedagogie/unite.json": "eeb7c8a115417a075db04956b62079b3380b845c9cb4290b315d97f69c4458d2"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-008",
+      "source_kristal": "apparitions",
+      "state_ref": "urn:kristal:state:apparitions",
+      "logical_state_commitment": "sha256:86ca7fc648d9aec2e4ac1e1ec3d0a5d7a4eb21a356c08f717820de33c3804cc0",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "d4a2d4bb940145ae3ff57efce8369bcce8f3e90a963471cb38e9c8dcf87e1323",
+        "canon/domain/v11/graph.json": "469b946ebe13e1c19fc63500efdc55e80ef9db5cc0776c891108902dabb58ec8",
+        "canon/domain/v11/crosswalk.json": "eda37c0106725629eedd0100f8b98adeb22f149e3c8a085fd90f1602131d223a",
+        "canon/domain/v11/dictionaries/catalog.json": "62e6d7459121a2218889514bc2db8338dc8e0c5ddd25482f7a0df3b59faf67fc",
+        "canon/domain/pedagogie/unite.json": "1cffb6dbb009563e9acf5cda024f4d8ebe995618a1ed8b7eabefb99e83c9d268"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-009",
+      "source_kristal": "augustin",
+      "state_ref": "urn:kristal:state:augustin",
+      "logical_state_commitment": "sha256:f4433de254ca7b8d53a3fca6caeae50e5157bf66d0c0b3e1b856c1c0722cd763",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "782d045a624196258cf405ea966730f6c3d90a51a19480f7e75d3f717205108a",
+        "canon/domain/v11/graph.json": "ad6311ba071911023e614d3e89d459bf7581d8f700c18caf511b0026bfc07652",
+        "canon/domain/v11/crosswalk.json": "6212b3dc35ae29f7daf147bd70b3976918dc84c47f31f776d41c64ad5e6697c2",
+        "canon/domain/v11/dictionaries/catalog.json": "896b50d1f2f529ce2e89a251ee7d78c1f08129ef18612bf270d86aabbcf31750",
+        "canon/domain/pedagogie/unite.json": "ef009ae5fe48f6b474a5b06210ef385a62daa30f4dac7f8887758c96cf2d485c"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-001",
+      "source_kristal": "cana",
+      "state_ref": "urn:kristal:state:cana",
+      "logical_state_commitment": "sha256:2426fbb54d8b18234d6b808869f12b10be79e1d5926bba3c6c54faaaeaeecfda",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "f911867791d5e2eaccdf81298f087aedd9d2a80b41b62d31316dbd8245825151",
+        "canon/domain/v11/graph.json": "5c05292a87d5ad331a20840f7b524ccb4449bbe21c53b9a740e9d0245b36d655",
+        "canon/domain/v11/crosswalk.json": "70e4be9753a6beba86327c660b1491ca1478a19a590ad456c9e203e3f017d7fd",
+        "canon/domain/v11/dictionaries/catalog.json": "2f37192786dee4966b43ca6c4174f2c7e1f24b8020744580e05ad02367dbe2fd",
+        "canon/domain/pedagogie/unite.json": "26e7b49aa1fc9dde4f2f26df35d569adc954e9e7b2d4d03c44f232063c0166b3"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-013",
+      "source_kristal": "catherine-sienne",
+      "state_ref": "urn:kristal:state:catherine-sienne",
+      "logical_state_commitment": "sha256:37cfff63119eaf08c8213f380b65b6ac36ef4fe3f26a750ae979149503273430",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "f3ccaeb0fc2817056b7c1ce8fd5ce58cd6e2f98efa93220426a71ea8a89685ac",
+        "canon/domain/v11/graph.json": "f646da82f8b738f7d7e08b575ee0853e802daaf30622c8f43604d977d07a72cb",
+        "canon/domain/v11/crosswalk.json": "0ddf7f0f7166a38827580970c1fbc4d5c4fef19c0984860d1c8f431312f29b5f",
+        "canon/domain/v11/dictionaries/catalog.json": "80ab6d9de199075a8d9675d21423176e4485c818ef57da442b47fdcb28a39cb4",
+        "canon/domain/pedagogie/unite.json": "94ab94e60af130c0e4f508d6a1cc962d61be8c458aef668afe6cc532d9a89398"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-017",
+      "source_kristal": "doctrine-sociale",
+      "state_ref": "urn:kristal:state:doctrine-sociale",
+      "logical_state_commitment": "sha256:73e4c765345a70ff30861c39525321e4658d730afc5c70bc9ec8a562bf6ab829",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "045b046d120559f1cf23f1b8075ff314c4aed6f7247fd092c39e658af0f07bcc",
+        "canon/domain/v11/graph.json": "a562ed4b30263c61dc1d3cc866a74fca98c8cccd08ebc0edcd8b86b103db6065",
+        "canon/domain/v11/crosswalk.json": "c078ee3f19ff14d027175159ebfd6cc1ed4164448b7400823e38108902736f6e",
+        "canon/domain/v11/dictionaries/catalog.json": "ac88f7b51429b564eb8118b3d167537ad98f60f24f712faff357bbbc46813596",
+        "canon/domain/pedagogie/unite.json": "a3ab59569cb125495db5685c86140dc3f571d5472f1f3ec91eaefe2eb548e8e9"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-012",
+      "source_kristal": "francois-assise",
+      "state_ref": "urn:kristal:state:francois-assise",
+      "logical_state_commitment": "sha256:8adc323079da6ade1f2b54c8582b75be55c55c270d6c3918223ee7e5705836d2",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "4cad2537bd3e03cb03d91e6af672e25aa868d28dd48cb411c53b47de7c311805",
+        "canon/domain/v11/graph.json": "d1cc30fd75e5c51636c20f45b20f8ca78121110220dc9bca79fbd0787315ff64",
+        "canon/domain/v11/crosswalk.json": "b715892fda420cd3e4c41be2a42df392a3e6bfa8866898d0eaf1113d516d8a7b",
+        "canon/domain/v11/dictionaries/catalog.json": "0c4cd3603f5dca3d27cdb58b1dfcbea9686b002b6939fed51eb64e3ee85c2edc",
+        "canon/domain/pedagogie/unite.json": "75799d264c8020fd57f4c2d97338e9525bb874167f843b4a1bdc8c98329e6499"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-014",
+      "source_kristal": "francois-sales",
+      "state_ref": "urn:kristal:state:francois-sales",
+      "logical_state_commitment": "sha256:41570bb601505d2f5ac9c71ca7b08cdfa8191eaea74d3c25e0d9ca5cad2c4f42",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "52f49f3ab72473266dd74180f814454b620db94716726dbef7e3e1151a62c311",
+        "canon/domain/v11/graph.json": "1eed6f2b5f842f70c74951ecbcf29fd60681fd42da918bebd8be0eca6891ddbe",
+        "canon/domain/v11/crosswalk.json": "cec629b2d2fd8be1c141267d27f73d042d9b6f5cc8e2ae09e888ef68d3a6db96",
+        "canon/domain/v11/dictionaries/catalog.json": "6b1e96f2fefff6e4a699523d7b654707e6d51314a1a22f785d0624cf2e2ecb3f",
+        "canon/domain/pedagogie/unite.json": "798d4d17f35d8c3a77fb8881a87f4f81fea7687c83a3acccc875cfbb7966847a"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-004",
+      "source_kristal": "guerisons",
+      "state_ref": "urn:kristal:state:guerisons",
+      "logical_state_commitment": "sha256:cb06424efacb417fec2ede6f170eadb88d23c0eb9ab52a51b759be6123518055",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "9cfac269bace6f69733ee3cad3156a67d45c01a0ab4e87c644e0b41ddf7a0019",
+        "canon/domain/v11/graph.json": "396c220bee8273b868ecc32f60d5f7ddae8dbcbc5f9f938a83f0c41ca1075dca",
+        "canon/domain/v11/crosswalk.json": "b90ff39d59d686fc2f8f0a3489c215b36fa1d5b4b6c6042957b7a62e6829b19b",
+        "canon/domain/v11/dictionaries/catalog.json": "78b3b4522f01b7d3ae33a0b3f7a18ce60db10f4e5d81b89d7f5f795e5f66045c",
+        "canon/domain/pedagogie/unite.json": "3af439e01cf7ca4a5202636bbcc3c459d6c5e1f419aa9fae0a25ea4e1a5bc9cc"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-005",
+      "source_kristal": "lazare",
+      "state_ref": "urn:kristal:state:lazare",
+      "logical_state_commitment": "sha256:96a8e00241e1e261c71eb920031d5375dac893716c208aa94925507fe884746f",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "42efbd4a394bdca57e758bc61bf8a568c0ca335c23d65c2b428353a0c2d5536e",
+        "canon/domain/v11/graph.json": "4a686f477391f9076247b54476245bb65b2b60d8f1d1812653e9472e863c144c",
+        "canon/domain/v11/crosswalk.json": "c33a7acad5dc059252795239af1bda3b7c7800d1103f28c5e24d7cb5a3716d5f",
+        "canon/domain/v11/dictionaries/catalog.json": "16d2abe4cf2a3b6e072def0e315b63b7b77f645e60ffa6ebb9912868d4ea00bd",
+        "canon/domain/pedagogie/unite.json": "053bb24bfdec073500c40c1e3924f89eada86272f7c4c19540e3a22af78bdff6"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-001",
+      "source_kristal": "lire-bible",
+      "state_ref": "urn:kristal:state:lire-bible",
+      "logical_state_commitment": "sha256:5a1f7f718e0c4d2cfd3a1c6a7c5468858de736e3f43c5c390f7ce0f3fa17eb57",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "2285f33edcb2581c353a8de6ae060f62e3bded8a75a4c0fd573acbe1e82f6f01",
+        "canon/domain/v11/graph.json": "e3e39ed10507a5360e239f54fa840ff6ee97bf0764ca0a7e5181b7e182165386",
+        "canon/domain/v11/crosswalk.json": "568e4612b8cfa79c4a7cbffd26ef273c024b094f47764eb3e3341786a55c8334",
+        "canon/domain/v11/dictionaries/catalog.json": "bb649e4d585f9f4c6f3351126f753258225ef798f0f4bd3a619433f73278aec7",
+        "canon/domain/pedagogie/unite.json": "01fb87106fc29aa6b27594bab22350eedaf026b7bcd7d9d0de97196090f1c8c8"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-019",
+      "source_kristal": "liturgie-sacrements",
+      "state_ref": "urn:kristal:state:liturgie-sacrements",
+      "logical_state_commitment": "sha256:4c1c86039bae017a3bcf9f21f690cdddcfec3cd68e4460b07268f4dba5f11550",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "78d1ec150ecbad1c77155003605e900b28995c150000bb7f8a9af2aaa220993a",
+        "canon/domain/v11/graph.json": "fddb4ff2b3cfc6edaff2695ee59e4b572dc6d85c9ad6e24f3a48516d2aee05d2",
+        "canon/domain/v11/crosswalk.json": "e5a479b224507dd575f054c15ce14f5ebe0438b7a54a8b697e2c25070f3c3fbd",
+        "canon/domain/v11/dictionaries/catalog.json": "60f25fa2d5555d6774a0cddad152bf55c8934264daddcabb198121295993a8b9",
+        "canon/domain/pedagogie/unite.json": "3e375c0cfd9081a17565a012485ff68d203b7bc20c19ab32662235c87311dc7d"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-002",
+      "source_kristal": "marche-eau",
+      "state_ref": "urn:kristal:state:marche-eau",
+      "logical_state_commitment": "sha256:1a6e75f828d42c81704f89eb164eabb44278996de14251f9d5befc488ce0eec9",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "fe57240becf25a6f11e75e12df79921eded7f35aa1ed625313d0afbd8a6326c5",
+        "canon/domain/v11/graph.json": "37070eadbc14d51a8d1bd5e68667f286ba883fb9cdf942adf83410a1aa6a71c9",
+        "canon/domain/v11/crosswalk.json": "dfaf7174799dff209996a3abccae3834e3b1152d329ccbd2de844c640ab1b10e",
+        "canon/domain/v11/dictionaries/catalog.json": "a9149a6bdaaa90d4c94af92e0a2ed83d9917d46e1164fc2f2fa4f3d468868e7e",
+        "canon/domain/pedagogie/unite.json": "f617ce33101cb4c2d3ec6e2d89ee304736a00b8e27dbccbeb481a5f6fd43e757"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-016",
+      "source_kristal": "marie-incarnation",
+      "state_ref": "urn:kristal:state:marie-incarnation",
+      "logical_state_commitment": "sha256:49c04827c9ecd45a73189ae4c3799816f2ba83297cb1593b9c3d36e9d2818af4",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "691fdab11848c5479fdd29699b03bd06531126765f6ae0d32af6302d03deac2c",
+        "canon/domain/v11/graph.json": "d6acee990785c714da9c4fffd9acb0cf36a6c1f249a2f71e5a71af83acf4ce64",
+        "canon/domain/v11/crosswalk.json": "4bd66add8bd9d181c2aa51d00e79b635840cc9a917c695c33f0f991c2cb476d4",
+        "canon/domain/v11/dictionaries/catalog.json": "a34aa8cdae88706fa5ed7a11c9e4bee6455125008e1db2dd02bd85c384a1b7b6",
+        "canon/domain/pedagogie/unite.json": "b805a063573316f7ecbc2ca65398127065672510cdb69da15b46e6f9561118b3"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-010",
+      "source_kristal": "miracle-science",
+      "state_ref": "urn:kristal:state:miracle-science",
+      "logical_state_commitment": "sha256:8e6fc0b665acbe68152ad89316a7e912572fe4ccb43301589ffd0e6968ddf256",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "3275b5c44cab1081fbfc3b09a66d0327ee7da3df342d8cb51fb35ffe37ab3b30",
+        "canon/domain/v11/graph.json": "6aaba9584bb9d9cad5084d8869249e665d138b1a477dc9e5fea5b6130f0d647b",
+        "canon/domain/v11/crosswalk.json": "4ef91050b42b240372ffc1219ffebb87a3232443fd9bb5eaa8ab6d382a45a215",
+        "canon/domain/v11/dictionaries/catalog.json": "1a23ef678ce2ec52d172f28a185e789461b0966e1e0353aaa0bd595c0333cc97",
+        "canon/domain/pedagogie/unite.json": "77a6b4a6971a1e9a8e4a15c511e2e0877421877350153f2608074d890c2065a2"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-009",
+      "source_kristal": "miracles-saints",
+      "state_ref": "urn:kristal:state:miracles-saints",
+      "logical_state_commitment": "sha256:21fbc5c0104fe09c775af69dc59e019c35748d8434b359fb76e0c859571000f9",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "24def3c291f696ca03055e67c89be71c2bf2f9cdf8f77cc9aec377a93776851b",
+        "canon/domain/v11/graph.json": "8292b33996e8105421083c3159b1fff25cec9a2bacb1be42921d5d3e2814cc09",
+        "canon/domain/v11/crosswalk.json": "ac87a4cd53e0b606241694b66b0faf4f6559634dbd161cf68868d2eee3c1264f",
+        "canon/domain/v11/dictionaries/catalog.json": "9a4d4fb21b15715a9e3beca96dfd5c2f39e7aefc582a9e23fe9c033ab7704ae9",
+        "canon/domain/pedagogie/unite.json": "4503a869564cd55dfe451880fca9762ec000296846c2d695940a547d0e9614ae"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-006",
+      "source_kristal": "naissance-virginale",
+      "state_ref": "urn:kristal:state:naissance-virginale",
+      "logical_state_commitment": "sha256:b5fa325824a88f9b27587f8c37e9d32df8970ac94ea693373b1d22c3b3a240c9",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "2bc1722efa88fe1bca499bb3b4c759bbf6a57b4d6a2ca4fc4bdc00f576838189",
+        "canon/domain/v11/graph.json": "8c01ed9bbdcd6974179a8db1d888ab775245437bd6e7922bf96858353461c396",
+        "canon/domain/v11/crosswalk.json": "892225f7207311089adebb68d9cfc13c36dd8b28fd34c13c1674b05406aac04c",
+        "canon/domain/v11/dictionaries/catalog.json": "72979f3ba1f26878899205a9ab47d2a3a5304adaf49a22a0e12e8086d743a9fb",
+        "canon/domain/pedagogie/unite.json": "57836000e2aacb8ec38dfc6186efa4d998fbd5d8adf7487a01c09ca04ec92b26"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-003",
+      "source_kristal": "pains",
+      "state_ref": "urn:kristal:state:pains",
+      "logical_state_commitment": "sha256:a7b8333821bf1d27aac3fc9e48bf97353f283f08ca695ff947d846735ef7986c",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "8a38466a81673e0e49c0cf04a3f16f48c96e164e4980a2e3e0e1e5fdf6ca0fcb",
+        "canon/domain/v11/graph.json": "c4a6d1d3962faab0251bbe4674cdca45fa5ce4e2280cea9b1a030e8ca8a98bb5",
+        "canon/domain/v11/crosswalk.json": "3443e6ab0f8dce462ad179f11e8be20353658db711b15c60a0fbf0d8c7dc0cfc",
+        "canon/domain/v11/dictionaries/catalog.json": "1d65c09bb85fa090a3738965812315d087b36674195e5ca8a5809656d4bbecd6",
+        "canon/domain/pedagogie/unite.json": "ad8b5efb5195e36cdc739a99a13db20f4af80937a8f7a030350075b7072fe5e1"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-006",
+      "source_kristal": "paix-conflit",
+      "state_ref": "urn:kristal:state:paix-conflit",
+      "logical_state_commitment": "sha256:d0e47f0d4aff0a687132f84f61ffb062efdf0338083d8dea52c7369f17cb7a40",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "171ef8143c2b9e8ad0670cd577db81d8a51dc2e47c05421fed3708e08635ea72",
+        "canon/domain/v11/graph.json": "ecb7afeceeddb4937b7ff78e9c273dc258f64341cb6f6e2ce08cae10abbc5081",
+        "canon/domain/v11/crosswalk.json": "daba18a472fc0e7ea8dc44c0f0eca39ec252cf4d45cee572ae1e9a95cf0264b9",
+        "canon/domain/v11/dictionaries/catalog.json": "4ce8f64e138cc3a4656bd39e6f3c23de4d89b1b7d7b8ad4b68038779b6687371",
+        "canon/domain/pedagogie/unite.json": "de0f8aed701edc177a65fcb677b220597b8cacf06b2263c05006b0e88df1386b"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-002",
+      "source_kristal": "pardon",
+      "state_ref": "urn:kristal:state:pardon",
+      "logical_state_commitment": "sha256:82bef72023d10045b8fa267b124f69c1311dd4583197bb1aa8a2cce47d101b5d",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "ee17535b24763d63c01746296216156225ababe8d4f6881b65a4b13c787598a9",
+        "canon/domain/v11/graph.json": "3ca5d8ffcc7253beb3002ff25cf0a6c824abed4172c18cca2949e151fd42bcde",
+        "canon/domain/v11/crosswalk.json": "0a6ab57847099193f36cc477f193a532e6e715d77eb2f3d68d83cfb0a1d089cc",
+        "canon/domain/v11/dictionaries/catalog.json": "748e37626fadafa52037c4e22548d130dbd829c7190fbfbefcfcbfa82e6cacec",
+        "canon/domain/pedagogie/unite.json": "a3ecd3d89dbe18b491de96c5408e8e6d401961ec2e72b8220307cf60cbdbc9f7"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-004",
+      "source_kristal": "partage-pauvres",
+      "state_ref": "urn:kristal:state:partage-pauvres",
+      "logical_state_commitment": "sha256:b2cc5d66caa18998a09b6810e1c6cd0b76c96c2823afac343651071a02c739df",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "d8f238062d6ea4decc914316d2a12182ccbdb9742b03f890a579fea58d3874f0",
+        "canon/domain/v11/graph.json": "40bf59405c1edfc6e0ef102778b741eff29a27da8637ea635774f622cc4808f9",
+        "canon/domain/v11/crosswalk.json": "06c42acf01479e713979584d0edf3bebbdfdc7fb70532395453eeb8062adc937",
+        "canon/domain/v11/dictionaries/catalog.json": "9e10bcf97724a5f2c7f4dcb12c7089bccc67b448af0134dbfbbc3bb0190f93cf",
+        "canon/domain/pedagogie/unite.json": "da655391234e4daf8c2cfdba19b1054d6648866262ebb91e20725a5c31dce5c9"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-008",
+      "source_kristal": "paul-charite",
+      "state_ref": "urn:kristal:state:paul-charite",
+      "logical_state_commitment": "sha256:24702286fc260abfe17cdb1335e7e024328a24b42a3c26106e7cd3ce4fc07236",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "67b941cf87e72df13887fc32e4edf63461c486beb1c065c1ca544d030aca589f",
+        "canon/domain/v11/graph.json": "07dffae7a2488dc1eaf86790f187febf62d67301c57214a75298980a7f8e040e",
+        "canon/domain/v11/crosswalk.json": "6b681509e7aa5ed516e8e4860832c372245c387d187d255670d97a137ca10b1a",
+        "canon/domain/v11/dictionaries/catalog.json": "5c42dde30cc90faa97a266a814bbf8cf8c1f828be066427eb7d3aec0ee3cd5ca",
+        "canon/domain/pedagogie/unite.json": "d7f39b342d5b365fec4d96b48ae9562754a8d5cdba04ba9420cc5b4a0dfd180a"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-007",
+      "source_kristal": "priere-interiorite",
+      "state_ref": "urn:kristal:state:priere-interiorite",
+      "logical_state_commitment": "sha256:04d5ba018154a758c3aa82a50a9103c540ed67806dbaea3d9c02ececad19adb5",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "077080c03dba1ac0b2c1e9c3f0650c5074393006f9d9b2362dedebd84c1cd04a",
+        "canon/domain/v11/graph.json": "cf436d12b4340dbc61299245c43ed7f28b793c20251455830028360ec62f8444",
+        "canon/domain/v11/crosswalk.json": "4093956903434b4e237354d8ae9b7080d7ce20ee399e0439b32c4004a511d47b",
+        "canon/domain/v11/dictionaries/catalog.json": "d58b511ec3200624f1047b30a6e72b73f2a79e2c76d47797e160400f83fd113e",
+        "canon/domain/pedagogie/unite.json": "dfffba8ba6e11a82d4355d1e8d37e47b210db733f52bfded851c485747ae2f21"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-020",
+      "source_kristal": "projet-terrain",
+      "state_ref": "urn:kristal:state:projet-terrain",
+      "logical_state_commitment": "sha256:f8c92975d697fa0debada0489cd5a5459a724990a2a2c3a9413fe8329dc9d8c1",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "0232382cbbe2da52c93ca652506c2072d9188d0914918b276266bb4710a29efc",
+        "canon/domain/v11/graph.json": "c529d1fda1a1304123c908b7327368eae5ad281f43775ddb0dd16ef345da2ae2",
+        "canon/domain/v11/crosswalk.json": "1b1ec682955a0846bed7bd1beedf5344b8dac93d3062ff14136009654a293428",
+        "canon/domain/v11/dictionaries/catalog.json": "a1b1cf5824272674db74307d9890206fd5bb294b394ac53f3b2ed7cdfbccf188",
+        "canon/domain/pedagogie/unite.json": "48755c1bfb3ca9f156ca0f43fa4c7b81d3912d7380fb904ecba89989c76a580a"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-007",
+      "source_kristal": "resurrection",
+      "state_ref": "urn:kristal:state:resurrection",
+      "logical_state_commitment": "sha256:2e3104a008a4e859f863f6225236d3c2642d6246b5028d3574ec3c4b66182391",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "c97e45130764c0ecc6db04f58f2d6d2fbcc4cf1d216eee2d2c613b3f10446e26",
+        "canon/domain/v11/graph.json": "0bfa12d6ccabd58a7c40b02cd1b3d5cd12e4f2b4a49b8419ac7c1efe185ca7d1",
+        "canon/domain/v11/crosswalk.json": "e5f607ea21ea649b768095c090b3c2be6c66dcaaa97858ffb05a44e1e063b1b8",
+        "canon/domain/v11/dictionaries/catalog.json": "51bcde89a8153be421fe996c70991f61bcd47cd78cd9a5a84e947f962b83f8fa",
+        "canon/domain/pedagogie/unite.json": "0a5fec035597620ebdc8674717356845964a5ad55698ac34ba2532c11486b354"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-011",
+      "source_kristal": "revelations-privees",
+      "state_ref": "urn:kristal:state:revelations-privees",
+      "logical_state_commitment": "sha256:a9fd493e358e0ddfcd9a80cf51817024cd8801908c48a4f01f6e5b4b5e706273",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "fafbe36d7c7bbba005f03486b2d702b448f3f593c3972defaf1b8bbe77f911cd",
+        "canon/domain/v11/graph.json": "db58a234c85387f5aceaee5fe62450b03b0f7926f4bf67d50adb66144054e1c2",
+        "canon/domain/v11/crosswalk.json": "df1bf7a82d9507a2b9790bd2343ccef117ad6ae798a370086c51313f4bee3f37",
+        "canon/domain/v11/dictionaries/catalog.json": "a771552276ae685a1640e8eaa0641ec4c5e696cc1a4f39f59a08b58a84e3785e",
+        "canon/domain/pedagogie/unite.json": "84e7243fdae00052227ef8ef625b913ff7224888088d05e96f5c2a75c9e8ea9d"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-005",
+      "source_kristal": "richesse-conversion",
+      "state_ref": "urn:kristal:state:richesse-conversion",
+      "logical_state_commitment": "sha256:30123781ecc2ccbd9a6f94a897909ac5b90f306f8d725b4256761d49e298ceb7",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "663a93903e7b3003bc8303d540de9a85da6e1801ed5f30ebf08913354789fdfb",
+        "canon/domain/v11/graph.json": "e45ca6e8738ce8159825cb21903a2c4e9e68b314b5c7a60795b393d889440694",
+        "canon/domain/v11/crosswalk.json": "4d23f24e5a8d606599635149103b5c3a2630dbb38676cefc5503a45e8e8eca94",
+        "canon/domain/v11/dictionaries/catalog.json": "3b01a9f02a62878f4ccd68219969836577c3b3ac61e1bbe52843976d33dc885e",
+        "canon/domain/pedagogie/unite.json": "53c37db97963af40a94c325ea15ca64b86d46e88eac5ed83dda0f73a974bf84f"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-FOI-012",
+      "source_kristal": "sacrements-mystere",
+      "state_ref": "urn:kristal:state:sacrements-mystere",
+      "logical_state_commitment": "sha256:6afca7facde295f470ff02d6c390dcceed79de14ef4027c567ad48380a3f66a9",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "b73ef6fd79df12836903d0ccb742b4f449cc64e322b59cab38b03a986c796b0a",
+        "canon/domain/v11/graph.json": "688320d8bce7c7c128dfada7bb11e35b6f4b856620836c64e0eea3b6b3390d45",
+        "canon/domain/v11/crosswalk.json": "004a197e0c914996ec626698b6596d3b9f96ba41772b2e894a4b4d9dedb21b67",
+        "canon/domain/v11/dictionaries/catalog.json": "38286dd3fc4f364a13bbc5deb1d078d1b3e9fec9d56d0763ec4124ba04af64ef",
+        "canon/domain/pedagogie/unite.json": "3e8b5eaead3932320c58255023ccd55b7bba63b0d70d9fef23edacceed2b50cb"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-011",
+      "source_kristal": "therese-lisieux",
+      "state_ref": "urn:kristal:state:therese-lisieux",
+      "logical_state_commitment": "sha256:b4e35045d72a9e19148983bdbbf3ec453299a1348a9481cac25d9126476fa025",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "3cf03d39404fa4ff92de94aa68eb4c892d4562ccd0281a254654a69624bbd3d9",
+        "canon/domain/v11/graph.json": "c7fb7cf6a07feb8c094c75efdf1455d177fa25218dbf3592d7804e3bedf9ddac",
+        "canon/domain/v11/crosswalk.json": "25a78505fe4e23c452ec6d2aad4352dbcfc528768d917f65e2c0858272c113da",
+        "canon/domain/v11/dictionaries/catalog.json": "2d35e32063d4616c23af2c41151960ebcd2b1d7fd6b482caec8cbe0fce2f250c",
+        "canon/domain/pedagogie/unite.json": "da5a27884542e9f04eae00848add1f47770a5b7d75dbb0c855522386b0a30d2d"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-010",
+      "source_kristal": "thomas-charite",
+      "state_ref": "urn:kristal:state:thomas-charite",
+      "logical_state_commitment": "sha256:c1abc98b7b13e4621b9aa2db7249baae34bee14e8e9f88975f19ab71f93ffc0c",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "a8f2121f99493501062a4665cd825936c2a081107fea959dc2a18527c0424292",
+        "canon/domain/v11/graph.json": "9bfcdd3ff6894680affb91606a910b4a32c5ab67329e5fff3d1106f5974c22e3",
+        "canon/domain/v11/crosswalk.json": "3f807da690674132217b1d638e0f0314011b67cf17344829abf8b97ca9d8cb64",
+        "canon/domain/v11/dictionaries/catalog.json": "92eb8fba8bb97513eac3b57527e4f5e1e7f94198172cd30bc6edc91779322d23",
+        "canon/domain/pedagogie/unite.json": "8c32973dc745f9d610341395f224fa0772eb440e44d5596959d1f5c4870d3994"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    },
+    {
+      "course_id": "EPC-MSG-015",
+      "source_kristal": "vincent-de-paul",
+      "state_ref": "urn:kristal:state:vincent-de-paul",
+      "logical_state_commitment": "sha256:48ad35d61036791d778c0d49f06e351c1fe0d7e84d97c5ae868200b589ba849d",
+      "canonical_sha256": {
+        "canon/domain/v11/registry.json": "2c0a120591251783fe81b37e7e8d04fc90dbcd063b766cf423154921bd930657",
+        "canon/domain/v11/graph.json": "f8df724d8be24471544fed0ff525e09409101ae9ee0ad06b9ed647d22e57727c",
+        "canon/domain/v11/crosswalk.json": "63b3c879701ddc30c1d03402df6445a34dbd64c7e86c1a5ce51831579ee2244a",
+        "canon/domain/v11/dictionaries/catalog.json": "a927041f221ccf90310bcfaebb59de3dae7f6c9931e72885bad1cf7b5eca1070",
+        "canon/domain/pedagogie/unite.json": "3ef89e819064a732b5d856f7a54ef301e4fde8c7a9cd6b15204580e908f3b400"
+      },
+      "native_contract": "pastorale.unite-native/1.1-draft",
+      "approval_required": true
+    }
+  ],
+  "catho_legacy_pins": {
+    "people": {
+      "relative_path": "canon/domain/personnes-reconnaissances.json",
+      "sha256": "2358d00ce88140aa303c4dbe3e9a56e043157d9ca9442675928523d15668ccab",
+      "schema_version": "kristal.catho.personnes-reconnaissances/1.0"
+    },
+    "corpus": {
+      "relative_path": "knowledge-base/corpus/corpus-chretien.semantic.json",
+      "sha256": "58b3f6070e87f35f57fdfe6a28d9a389616ad4720ff01eaaacdfad1eb5be0729",
+      "state_id": "sha256:dd95ba31b53abf1b5a6abf088c256675ef1f1a5efc4034d21009851488fd7050"
+    }
+  },
+  "mise_en_garde": "Pont v8 documenté, pas de résolution sémantique v11. Aucune approbation ecclésiale; ne pas publier automatiquement."
+}

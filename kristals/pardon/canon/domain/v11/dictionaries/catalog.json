@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-pardon",
+  "namespace_id": "pastorale.demo:pardon",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-pardon",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "06ca540107482fc8add2aeb8b0793a5d926cde52bff08a3a55a678ff97c22203"
+        }
+      ]
+    }
+  ]
+}

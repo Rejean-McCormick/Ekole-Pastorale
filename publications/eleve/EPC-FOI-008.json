@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-008",
+  "titre": "Apparitions du Ressuscité et témoignages",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Comparer la reconnaissance à Emmaüs et l’épisode de Thomas, sans présumer que chaque détail reflète une même technique historique de reportage."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Traiter le thème du témoignage, du doute et de la confession de foi. La foi catholique repose sur le témoignage apostolique sans transformer le doute en disqualification humaine."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Quels mots utiliser lorsqu’une personne a besoin de temps pour comprendre le sens de « Heureux ceux qui croient sans avoir vu »?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Animer un dialogue entre deux positions avec des questions plutôt qu’un débat de victoire."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Quels mots utiliser lorsqu’une personne a besoin de temps pour comprendre le sens de « Heureux ceux qui croient sans avoir vu »?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

@@ -1,0 +1,357 @@
+{
+  "format": "pastorale.curriculum-index/1.1-draft",
+  "source_de_verite": "kristals/*/canon/domain/pedagogie/unite.json",
+  "indice": "dérivé de la conception et non canoniquement propriétaire des unités",
+  "cours": [
+    {
+      "id": "EPC-MSG-001",
+      "slug": "lire-bible",
+      "branche": "message",
+      "titre": "Lire la Bible dans son contexte",
+      "duree_minutes": 180,
+      "prerequis": [],
+      "source": "Dei Verbum 12; Luc 10, 25-37"
+    },
+    {
+      "id": "EPC-MSG-002",
+      "slug": "pardon",
+      "branche": "message",
+      "titre": "Le pardon sans effacer la justice",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Matthieu 18, 21-35; Luc 15"
+    },
+    {
+      "id": "EPC-MSG-003",
+      "slug": "amour-prochain",
+      "branche": "message",
+      "titre": "Aimer son prochain, y compris l’étranger",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Luc 10, 25-37; Jean 13, 34-35"
+    },
+    {
+      "id": "EPC-MSG-004",
+      "slug": "partage-pauvres",
+      "branche": "message",
+      "titre": "Le partage et le choix des pauvres",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Matthieu 25, 31-46; Luc 4, 16-21"
+    },
+    {
+      "id": "EPC-MSG-005",
+      "slug": "richesse-conversion",
+      "branche": "message",
+      "titre": "Richesse, conversion et liberté intérieure",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Marc 10, 17-31; Luc 19, 1-10"
+    },
+    {
+      "id": "EPC-MSG-006",
+      "slug": "paix-conflit",
+      "branche": "message",
+      "titre": "Jésus : artisans de paix et conflits de valeurs",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Matthieu 5, 9; Matthieu 10, 34-39"
+    },
+    {
+      "id": "EPC-MSG-007",
+      "slug": "priere-interiorite",
+      "branche": "message",
+      "titre": "Prière, silence et discernement",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Matthieu 6, 5-15; Luc 11, 1-13"
+    },
+    {
+      "id": "EPC-MSG-008",
+      "slug": "paul-charite",
+      "branche": "message",
+      "titre": "Paul : la charité comme critère",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "1 Corinthiens 13; Galates 5, 13-26"
+    },
+    {
+      "id": "EPC-MSG-009",
+      "slug": "augustin",
+      "branche": "message",
+      "titre": "Saint Augustin : liberté, grâce et amour",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Confessions, livre X; De la grâce et du libre arbitre"
+    },
+    {
+      "id": "EPC-MSG-010",
+      "slug": "thomas-charite",
+      "branche": "message",
+      "titre": "Thomas d’Aquin : vertu et bien commun",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Somme théologique II-II, q. 23-27"
+    },
+    {
+      "id": "EPC-MSG-011",
+      "slug": "therese-lisieux",
+      "branche": "message",
+      "titre": "Thérèse de Lisieux : la petite voie",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Histoire d’une âme, manuscrits autobiographiques"
+    },
+    {
+      "id": "EPC-MSG-012",
+      "slug": "francois-assise",
+      "branche": "message",
+      "titre": "François d’Assise : les vertus d’une vie",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "François d’Assise, Testament; Règle; Cantique des créatures"
+    },
+    {
+      "id": "EPC-MSG-013",
+      "slug": "catherine-sienne",
+      "branche": "message",
+      "titre": "Catherine de Sienne : vérité et courage",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Catherine de Sienne, Lettres; Dialogue"
+    },
+    {
+      "id": "EPC-MSG-014",
+      "slug": "francois-sales",
+      "branche": "message",
+      "titre": "François de Sales : douceur et accompagnement",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Introduction à la vie dévote"
+    },
+    {
+      "id": "EPC-MSG-015",
+      "slug": "vincent-de-paul",
+      "branche": "message",
+      "titre": "Vincent de Paul : servir sans dominer",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Vincent de Paul, Conférences et correspondance"
+    },
+    {
+      "id": "EPC-MSG-016",
+      "slug": "marie-incarnation",
+      "branche": "message",
+      "titre": "Marie de l’Incarnation : témoignage en Nouvelle-France",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Marie de l’Incarnation, correspondance et relations"
+    },
+    {
+      "id": "EPC-MSG-017",
+      "slug": "doctrine-sociale",
+      "branche": "message",
+      "titre": "Doctrine sociale : solidarité et subsidiarité",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Rerum novarum; Laudato si’; Fratelli tutti"
+    },
+    {
+      "id": "EPC-MSG-018",
+      "slug": "accompagnement",
+      "branche": "message",
+      "titre": "Accompagner sans pression ni emprise",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Luc 24, 13-35; principes de sauvegarde"
+    },
+    {
+      "id": "EPC-MSG-019",
+      "slug": "liturgie-sacrements",
+      "branche": "message",
+      "titre": "Liturgie et sacrements : gestes de l’Église",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-MSG-001"
+      ],
+      "source": "Sacrosanctum concilium; Catéchisme, partie II"
+    },
+    {
+      "id": "EPC-MSG-020",
+      "slug": "projet-terrain",
+      "branche": "message",
+      "titre": "Projet pastoral : écoute, service et évaluation",
+      "duree_minutes": 300,
+      "prerequis": [
+        "EPC-MSG-001",
+        "EPC-MSG-018",
+        "EPC-MSG-004"
+      ],
+      "source": "Matthieu 25; Evangelii gaudium"
+    },
+    {
+      "id": "EPC-FOI-001",
+      "slug": "cana",
+      "branche": "miracles",
+      "titre": "Cana : signe, fête et foi",
+      "duree_minutes": 180,
+      "prerequis": [],
+      "source": "Jean 2, 1-11"
+    },
+    {
+      "id": "EPC-FOI-002",
+      "slug": "marche-eau",
+      "branche": "miracles",
+      "titre": "Marcher sur l’eau et traverser la peur",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Matthieu 14, 22-33"
+    },
+    {
+      "id": "EPC-FOI-003",
+      "slug": "pains",
+      "branche": "miracles",
+      "titre": "Multiplication des pains : signe et partage",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Marc 6, 30-44; Jean 6"
+    },
+    {
+      "id": "EPC-FOI-004",
+      "slug": "guerisons",
+      "branche": "miracles",
+      "titre": "Guérisons et dignité des malades",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Marc 2, 1-12; Luc 17, 11-19"
+    },
+    {
+      "id": "EPC-FOI-005",
+      "slug": "lazare",
+      "branche": "miracles",
+      "titre": "Lazare : résurrection racontée et espérance",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Jean 11, 1-44"
+    },
+    {
+      "id": "EPC-FOI-006",
+      "slug": "naissance-virginale",
+      "branche": "miracles",
+      "titre": "Conception virginale : récit et doctrine",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Luc 1, 26-38; Matthieu 1, 18-25"
+    },
+    {
+      "id": "EPC-FOI-007",
+      "slug": "resurrection",
+      "branche": "miracles",
+      "titre": "Résurrection du Christ : centre de la foi",
+      "duree_minutes": 240,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "1 Corinthiens 15; Luc 24; Jean 20"
+    },
+    {
+      "id": "EPC-FOI-008",
+      "slug": "apparitions",
+      "branche": "miracles",
+      "titre": "Apparitions du Ressuscité et témoignages",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Luc 24, 13-35; Jean 20, 19-29"
+    },
+    {
+      "id": "EPC-FOI-009",
+      "slug": "miracles-saints",
+      "branche": "miracles",
+      "titre": "Récits miraculeux attribués aux saints",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Vie des saints; procédures ecclésiales de reconnaissance"
+    },
+    {
+      "id": "EPC-FOI-010",
+      "slug": "miracle-science",
+      "branche": "miracles",
+      "titre": "Miracles, sciences et limites des méthodes",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Dei Verbum 12; Catéchisme de l’Église catholique, nos 547-550"
+    },
+    {
+      "id": "EPC-FOI-011",
+      "slug": "revelations-privees",
+      "branche": "miracles",
+      "titre": "Révélations privées et discernement ecclésial",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "Catéchisme no 67; normes ecclésiales concernant les phénomènes présumés surnaturels"
+    },
+    {
+      "id": "EPC-FOI-012",
+      "slug": "sacrements-mystere",
+      "branche": "miracles",
+      "titre": "Sacramentel et surnaturel : signes de la grâce",
+      "duree_minutes": 180,
+      "prerequis": [
+        "EPC-FOI-001"
+      ],
+      "source": "1 Corinthiens 11, 23-26; Catéchisme, partie II"
+    }
+  ]
+}

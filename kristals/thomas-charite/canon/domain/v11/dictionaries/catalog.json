@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-thomas-charite",
+  "namespace_id": "pastorale.demo:thomas-charite",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-thomas-charite",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "4b3fb3bf6545f6bb4c889990f9217c107bc8052c32d53e88ad7417f65e8fd538"
+        }
+      ]
+    }
+  ]
+}

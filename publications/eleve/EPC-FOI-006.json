@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-006",
+  "titre": "Conception virginale : récit et doctrine",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Lire séparément les récits d’annonce et de naissance chez Luc et Matthieu, en distinguant leurs accents et leur langage scripturaire."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Présenter la conception virginale de Jésus comme enseignement de foi catholique concernant l’Incarnation, sans la confondre avec l’Immaculée Conception de Marie."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une personne dit confondre ces deux doctrines. Comment la corriger sans la ridiculiser?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Réaliser une carte conceptuelle avec quatre termes définis et leurs appuis bibliques ou doctrinaux."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une personne dit confondre ces deux doctrines. Comment la corriger sans la ridiculiser?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

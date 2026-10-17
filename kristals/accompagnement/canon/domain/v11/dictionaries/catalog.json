@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-accompagnement",
+  "namespace_id": "pastorale.demo:accompagnement",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-accompagnement",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "d17d85536cb72a35b39e63904a9481da3bea5e440e783746ea2edef652796efe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-015",
+  "titre": "Vincent de Paul : servir sans dominer",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Étudier l’organisation de l’aide aux malades et aux personnes démunies au XVIIe siècle en la situant dans son contexte historique."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "La charité organisée nécessite gestion, prudence et attention à la dignité. Ne pas copier les structures anciennes sans examiner les réalités modernes."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une aide est assortie de conditions religieuses implicites. Comment garantir une prestation indépendante de l’adhésion au culte?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Dessiner une gouvernance d’action caritative avec consultation des personnes concernées et mécanisme de plainte."
+    }
+  ],
+  "niveau": "application",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une aide est assortie de conditions religieuses implicites. Comment garantir une prestation indépendante de l’adhésion au culte?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

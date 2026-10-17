@@ -1,0 +1,69 @@
+{
+  "format": "kristal.authoring-state-index/2.0.0",
+  "canonical_artifacts": [
+    {
+      "artifact_id": "urn:pastorale:demo:miracles-saints:registry",
+      "path": "canon/domain/v11/registry.json",
+      "logical_contract": {
+        "id": "kristal.v11.identity-registry",
+        "version": "11.0"
+      },
+      "commitment": {
+        "mode": "compute-json-jcs",
+        "profile": "kristal.logical/jcs-sha256-v1"
+      }
+    },
+    {
+      "artifact_id": "urn:pastorale:demo:miracles-saints:graph",
+      "path": "canon/domain/v11/graph.json",
+      "logical_contract": {
+        "id": "kristal.v11.semantic-graph",
+        "version": "11.0"
+      },
+      "commitment": {
+        "mode": "compute-json-jcs",
+        "profile": "kristal.logical/jcs-sha256-v1"
+      }
+    },
+    {
+      "artifact_id": "urn:pastorale:demo:miracles-saints:crosswalk",
+      "path": "canon/domain/v11/crosswalk.json",
+      "logical_contract": {
+        "id": "kristal.v11.external-crosswalk",
+        "version": "11.0"
+      },
+      "commitment": {
+        "mode": "compute-json-jcs",
+        "profile": "kristal.logical/jcs-sha256-v1"
+      }
+    },
+    {
+      "artifact_id": "urn:pastorale:demo:miracles-saints:catalog",
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "logical_contract": {
+        "id": "kristal.v11.dictionary-catalog",
+        "version": "11.0"
+      },
+      "commitment": {
+        "mode": "compute-json-jcs",
+        "profile": "kristal.logical/jcs-sha256-v1"
+      }
+    },
+    {
+      "artifact_id": "urn:pastorale:demo:miracles-saints:native-unit",
+      "path": "canon/domain/pedagogie/unite.json",
+      "logical_contract": {
+        "id": "pastorale.unite-native",
+        "version": "1.0-draft"
+      },
+      "commitment": {
+        "mode": "compute-json-jcs",
+        "profile": "kristal.logical/jcs-sha256-v1"
+      },
+      "contract_version": "1.1-draft"
+    }
+  ],
+  "external_references": [],
+  "derived_artifacts": [],
+  "notes": "Register authoritative Logical Artifacts here. Physical materializations, indexes, caches and build outputs stay derived."
+}

@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-014",
+  "titre": "François de Sales : douceur et accompagnement",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Comprendre le public laïc de François de Sales et son souci de rendre la vie spirituelle praticable dans des conditions de vie ordinaires."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "La douceur n’est ni passivité ni complaisance. Étudier les limites de l’accompagnement individuel et la place de la liberté de conscience."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Un intervenant donne des consignes absolues à un adulte sans écouter sa situation. Comment reformuler l’entretien?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Écrire un échange d’accompagnement avec écoute, clarification, proposition et consentement."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Un intervenant donne des consignes absolues à un adulte sans écouter sa situation. Comment reformuler l’entretien?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

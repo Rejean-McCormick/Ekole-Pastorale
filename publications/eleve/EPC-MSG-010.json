@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-010",
+  "titre": "Thomas d’Aquin : vertu et bien commun",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Placer Thomas dans la scolastique médiévale et expliquer les distinctions : vertu théologale, bien, habitude et finalité de l’action."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Comparer la charité comme amitié avec Dieu et les gestes d’aide. Ne pas assimiler la théologie de Thomas à une morale exclusivement calculatoire."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Peut-on faire une bonne action pour être admiré? Comment distinguer intention, conséquence et responsabilité?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Concevoir une étude de cas mettant en tension motivation personnelle et bien commun."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Peut-on faire une bonne action pour être admiré? Comment distinguer intention, conséquence et responsabilité?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-amour-prochain",
+  "namespace_id": "pastorale.demo:amour-prochain",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-amour-prochain",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "df09c660203d7b179d51a3b76a0a69fe331cb4718790534dbd4fdf6bbde41054"
+        }
+      ]
+    }
+  ]
+}

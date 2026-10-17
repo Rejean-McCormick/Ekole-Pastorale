@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-018",
+  "titre": "Accompagner sans pression ni emprise",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Observer comment le récit d’Emmaüs donne place à la marche, aux questions et à l’explication; ne pas en déduire un protocole psychologique automatique."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Étudier consentement, confidentialité limitée, conflits d’intérêts, orientation, et distinction entre accompagnement spirituel, psychothérapie et direction sacramentelle."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Un bénévole reçoit une révélation de violence envers un mineur. Quelles règles de protection et de signalement locales doivent primer?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Simuler une orientation vers le responsable de sauvegarde et les organismes compétents selon les procédures du Québec."
+    }
+  ],
+  "niveau": "application",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Un bénévole reçoit une révélation de violence envers un mineur. Quelles règles de protection et de signalement locales doivent primer?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

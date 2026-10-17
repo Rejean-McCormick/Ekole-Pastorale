@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-francois-assise",
+  "namespace_id": "pastorale.demo:francois-assise",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-francois-assise",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "5107a5b3dd9d27c3fcf85cfa80aa85d6daff91f9879819cb56652a92cc6a45a5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-lazare",
+  "namespace_id": "pastorale.demo:lazare",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-lazare",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "a57695a63acff147932b9f41c9846e220ed721726e42ed9e33781d51aad07a63"
+        }
+      ]
+    }
+  ]
+}

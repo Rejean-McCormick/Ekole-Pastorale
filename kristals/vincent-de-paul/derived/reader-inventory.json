@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:vincent-de-paul",
+  "source_fingerprint": "sha256:54c70471d5b03c4bdd0dca53a38401a47232952d858aab46d24e286adb2b5783",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 29446,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10222,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-vincent-de-paul-catalog-a4c28e734c.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 988,
+      "sha256": "sha256:aa14a318f9bacf4c6bcd45668902818b82b6e2d0d3061c139a98e6d277609a2e"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-vincent-de-paul-crosswalk-18fec38f0d.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 573,
+      "sha256": "sha256:16f2776004bbf7934a07346efd1c5493af113f37076737a8f1c1c8942a487880"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-vincent-de-paul-graph-5707115f1f.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1524,
+      "sha256": "sha256:92bbf8dcd8d3e34939edd08244f99eb34a962e6a84533a5e5e47580ff10f8d0f"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-vincent-de-paul-native-unit-6205d7ed90.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10222,
+      "sha256": "sha256:b4533aff17a2b2cec3227d066ae92a0cb0c649345a92de98f0adb2ebc89040eb"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-vincent-de-paul-registry-4a2c4f8d1c.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1732,
+      "sha256": "sha256:ca68c9a575aab1169384897247c3a349cdb521dbd6ffc7514c07c9fff8b66c8c"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2221,
+      "sha256": "sha256:865d780f921556359f93f83800b49363e75b6bf44386d9588e3b16f241a4f576"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9317,
+      "sha256": "sha256:3ef89e819064a732b5d856f7a54ef301e4fde8c7a9cd6b15204580e908f3b400"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 145,
+      "sha256": "sha256:63b3c879701ddc30c1d03402df6445a34dbd64c7e86c1a5ce51831579ee2244a"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 532,
+      "sha256": "sha256:a927041f221ccf90310bcfaebb59de3dae7f6c9931e72885bad1cf7b5eca1070"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1000,
+      "sha256": "sha256:f8df724d8be24471544fed0ff525e09409101ae9ee0ad06b9ed647d22e57727c"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1192,
+      "sha256": "sha256:2c0a120591251783fe81b37e7e8d04fc90dbcd063b766cf423154921bd930657"
+    }
+  ],
+  "segments": []
+}

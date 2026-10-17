@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-miracles-saints",
+  "namespace_id": "pastorale.demo:miracles-saints",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-miracles-saints",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "0bcf83557ad5438931a84c68e91277a198d2d81d9cf68c59b7b13e5eeeda30e6"
+        }
+      ]
+    }
+  ]
+}

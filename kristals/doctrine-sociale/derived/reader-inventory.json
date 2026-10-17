@@ -1,0 +1,113 @@
+{
+  "format": "kristal.reader-inventory/1.0",
+  "state_ref": "urn:kristal:state:doctrine-sociale",
+  "source_fingerprint": "sha256:78416ebe0a181222ddc50bfe0bc568fae0ac96c309fef20e8371da3927bd843a",
+  "size_class": "tiny",
+  "measurement": {
+    "status": "measured_referenced_local_files",
+    "scope": "registered canonical sources, materialization descriptors/blobs, and built v9 payloads",
+    "external_or_unlocated_blob_count": 0,
+    "missing_local_blob_count": 0,
+    "not_measured": [
+      "unregistered workspace files",
+      "external payloads",
+      "JSON nesting depth",
+      "largest JSONL record"
+    ]
+  },
+  "storage": {
+    "tracked_local_bytes": 29561,
+    "tracked_file_count": 11,
+    "max_tracked_file_bytes": 10267,
+    "materialization_segment_count": 0,
+    "max_json_depth": null,
+    "max_record_bytes": null
+  },
+  "cardinality": {
+    "canonical_artifacts": 5,
+    "external_references": 0,
+    "entities": null,
+    "relations": null,
+    "sub_kristals": null
+  },
+  "files": [
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-doctrine-sociale-catalog-a6f014ea93.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 992,
+      "sha256": "sha256:08d8c2056a9f6ee51465b5ba1aaadff060729679bc341461b9391fc6f21c502e"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-doctrine-sociale-crosswalk-8bf10d0d74.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 575,
+      "sha256": "sha256:0d0837a1f072863a5cad5d21b1ed965872a4e33710f53b4724929b0a88dc2cab"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-doctrine-sociale-graph-c885992680.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1527,
+      "sha256": "sha256:861d235efb424b5631e8ef4d6eeb1a1cc2bf7601413494f4b68ba496fcfe71c7"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-doctrine-sociale-native-unit-4c9d033f55.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 10267,
+      "sha256": "sha256:2bc509d1f468babc37d268801b08dcb05625bdd32008821d3c9dc3f2166ad655"
+    },
+    {
+      "path": "build/v9/artifacts/urn-pastorale-demo-doctrine-sociale-registry-3832afd393.logical-artifact.json",
+      "role": "generated_logical_artifact",
+      "media_type": "application/json",
+      "size_bytes": 1735,
+      "sha256": "sha256:15871fd44204b86234b2bb41e358566ff9c6914f1f9820746c5f74215bbab27c"
+    },
+    {
+      "path": "build/v9/state-snapshot.json",
+      "role": "state_candidate",
+      "media_type": "application/json",
+      "size_bytes": 2227,
+      "sha256": "sha256:6eae5a0ce9bf8ecd5cf64a4b226bb6578a51c1f9ad76495d0f4a24e1150d2859"
+    },
+    {
+      "path": "canon/domain/pedagogie/unite.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 9361,
+      "sha256": "sha256:a3ab59569cb125495db5685c86140dc3f571d5472f1f3ec91eaefe2eb548e8e9"
+    },
+    {
+      "path": "canon/domain/v11/crosswalk.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 146,
+      "sha256": "sha256:c078ee3f19ff14d027175159ebfd6cc1ed4164448b7400823e38108902736f6e"
+    },
+    {
+      "path": "canon/domain/v11/dictionaries/catalog.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 535,
+      "sha256": "sha256:ac88f7b51429b564eb8118b3d167537ad98f60f24f712faff357bbbc46813596"
+    },
+    {
+      "path": "canon/domain/v11/graph.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1002,
+      "sha256": "sha256:a562ed4b30263c61dc1d3cc866a74fca98c8cccd08ebc0edcd8b86b103db6065"
+    },
+    {
+      "path": "canon/domain/v11/registry.json",
+      "role": "canonical_source",
+      "media_type": "application/json",
+      "size_bytes": 1194,
+      "sha256": "sha256:045b046d120559f1cf23f1b8075ff314c4aed6f7247fd092c39e658af0f07bcc"
+    }
+  ],
+  "segments": []
+}

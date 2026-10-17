@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-016",
+  "titre": "Marie de l’Incarnation : témoignage en Nouvelle-France",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Étudier ses écrits et l’histoire des Ursulines en Nouvelle-France en tenant compte des rencontres interculturelles et du système colonial."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Distinguer courage et engagement spirituel d’une personne de l’évaluation critique des institutions et rapports de pouvoir de son époque."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment parler de la mission coloniale sans idéalisation, négation des torts ni effacement des peuples autochtones?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Créer une séquence pédagogique à sources multiples incluant perspectives autochtones vérifiées et examen des lacunes archivistiques."
+    }
+  ],
+  "niveau": "application",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment parler de la mission coloniale sans idéalisation, négation des torts ni effacement des peuples autochtones?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

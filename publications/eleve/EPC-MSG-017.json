@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-017",
+  "titre": "Doctrine sociale : solidarité et subsidiarité",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Présenter le développement historique de l’enseignement social et ses principes : dignité, bien commun, solidarité, subsidiarité et destination universelle des biens."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Ne pas transformer la doctrine sociale en programme partisan unique. Distinguer principe, discernement prudentiel et politique publique concrète."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une paroisse débat du logement social et de la crise de l’itinérance. Comment comparer des solutions sans prétendre que l’Église approuve un parti?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Construire une matrice de solutions, effets et personnes consultées."
+    }
+  ],
+  "niveau": "application",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une paroisse débat du logement social et de la crise de l’itinérance. Comment comparer des solutions sans prétendre que l’Église approuve un parti?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

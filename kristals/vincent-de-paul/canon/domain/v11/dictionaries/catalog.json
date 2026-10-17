@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-vincent-de-paul",
+  "namespace_id": "pastorale.demo:vincent-de-paul",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-vincent-de-paul",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "17f4b85caea92ea6e26b4a413e26dfc103c70fb6976a5e0e06a60b0a9a148d91"
+        }
+      ]
+    }
+  ]
+}

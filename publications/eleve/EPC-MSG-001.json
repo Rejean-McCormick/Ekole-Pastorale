@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-001",
+  "titre": "Lire la Bible dans son contexte",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Identifier qui parle, à qui, dans quel genre littéraire et dans quelle situation. La Bible n’est pas un recueil uniforme de consignes modernes; ses récits, lois, poèmes et paraboles ne se lisent pas de manière identique."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Étudier la lecture ecclésiale : sens littéral, unité des Écritures, Tradition vivante et analogie de la foi. Comparer deux interprétations de la parabole du Samaritain sans confondre lecture personnelle et doctrine reçue."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Que faire lorsqu’un participant cite un verset isolé pour justifier une discrimination ou une violence? Reconstituer le passage complet et identifier les contresens."
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Par petits groupes, produire deux lectures argumentées de Luc 10, en indiquant les faits du texte, les inférences et les questions laissées ouvertes."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Que faire lorsqu’un participant cite un verset isolé pour justifier une discrimination ou une violence? Reconstituer le passage complet et identifier les contresens.",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

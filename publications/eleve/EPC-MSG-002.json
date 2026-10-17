@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-002",
+  "titre": "Le pardon sans effacer la justice",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Situer le pardon dans la parabole du débiteur impitoyable et la parabole du fils retrouvé. Observer la dette, la responsabilité, la conversion et la joie de l’accueil, sans gommer les ruptures réelles."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Distinguer pardon, excuse, absolution sacramentelle, réparation et réconciliation. Le pardon n’est ni l’effacement des faits ni une autorisation de recommencer."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une personne victime de violence souhaite parler au responsable pastoral. Pourquoi serait-il dangereux de lui demander de renouer immédiatement avec l’agresseur?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Concevoir une rencontre d’écoute respectant la parole de la victime, la sécurité et l’orientation vers les instances compétentes."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une personne victime de violence souhaite parler au responsable pastoral. Pourquoi serait-il dangereux de lui demander de renouer immédiatement avec l’agresseur?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

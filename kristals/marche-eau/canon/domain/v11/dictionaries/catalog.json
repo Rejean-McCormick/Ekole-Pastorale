@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-marche-eau",
+  "namespace_id": "pastorale.demo:marche-eau",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-marche-eau",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "322195757975746d067e8ac497aa39ed6f3ef526762b10b0c87c828a80ab60bd"
+        }
+      ]
+    }
+  ]
+}

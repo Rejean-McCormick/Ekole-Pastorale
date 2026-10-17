@@ -1,0 +1,36 @@
+{
+  "format": "arketype.structure-candidate/1.0-non-normatif",
+  "id_type": "ARK-20",
+  "forme": "unite-formation-federee",
+  "statut": "illustration-non-canonique",
+  "n_est_pas_un_artefact_enregistre": true,
+  "intention": "Décrire un objectif, une progression, une évaluation et des références à des Kristals extérieurs sans absorber leur savoir.",
+  "primitives_possibles": [
+    "unite",
+    "branche",
+    "objectif",
+    "prerequis",
+    "sequences",
+    "activites",
+    "evaluation",
+    "references_epistemiques",
+    "projections_ekole"
+  ],
+  "contraintes_a_preserver": [
+    "Source ≠ projection",
+    "KQ/KP/KА/KS locaux et séparés du lexique",
+    "Aucune relation externe non épinglée n’est présentée comme résolue",
+    "Publier exige validation humaine"
+  ],
+  "exemple_payload_vide": {
+    "unite": null,
+    "branche": null,
+    "objectifs": [],
+    "sequences": [],
+    "references": [],
+    "evaluations": [],
+    "projections": []
+  },
+  "contrat_logique": "pastorale.unite-native/1.0-draft (exemple) ; à adapter par l’éditeur",
+  "bibliotheque": "Arketype 1.5.0 + extension candidate"
+}

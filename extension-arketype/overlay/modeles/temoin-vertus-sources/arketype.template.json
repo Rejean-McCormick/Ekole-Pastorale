@@ -1,0 +1,8 @@
+{
+  "format": "arketype.template/1.0-non-normatif",
+  "archetype_id": "ARK-21",
+  "slug": "temoin-vertus-sources",
+  "status": "empty_starter_template",
+  "canonical_claims_in_template": false,
+  "authoring_kit": "4.0.0-draft.2"
+}

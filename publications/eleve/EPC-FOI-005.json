@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-005",
+  "titre": "Lazare : résurrection racontée et espérance",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Repérer le dialogue de Jésus avec Marthe, les larmes de Jésus et la conclusion narrative du signe. Le récit évoque le deuil autant que l’espérance."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Distinguer le retour à la vie de Lazare dans le récit et la résurrection glorieuse du Christ dans la proclamation apostolique."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une famille endeuillée réclame un miracle semblable. Comment accueillir cette souffrance sans promettre de ressusciter un proche?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Rédiger une réponse pastorale au deuil, comportant présence, silence et orientation au besoin."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une famille endeuillée réclame un miracle semblable. Comment accueillir cette souffrance sans promettre de ressusciter un proche?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

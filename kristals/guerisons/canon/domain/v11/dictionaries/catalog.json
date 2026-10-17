@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-guerisons",
+  "namespace_id": "pastorale.demo:guerisons",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-guerisons",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "74e938fd14da65573c11d69335334b694e79f349994d75f9dfec79865212e00e"
+        }
+      ]
+    }
+  ]
+}

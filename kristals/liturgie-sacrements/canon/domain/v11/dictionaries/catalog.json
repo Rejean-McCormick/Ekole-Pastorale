@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-liturgie-sacrements",
+  "namespace_id": "pastorale.demo:liturgie-sacrements",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-liturgie-sacrements",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "471758e7830ffe0325e2ea2c061c9348e3037ee295cab60cc0b6dbd58bb1d655"
+        }
+      ]
+    }
+  ]
+}

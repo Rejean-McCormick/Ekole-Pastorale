@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-MSG-005",
+  "titre": "Richesse, conversion et liberté intérieure",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Comparer l’homme riche qui repart triste et Zachée qui modifie son rapport à la richesse. Noter que les récits ne prescrivent pas la même réponse concrète."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Aborder le détachement spirituel, l’usage social des biens et les risques de culpabilisation des personnes pauvres. Les appels de Jésus questionnent les structures autant que les choix personnels."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment accompagner quelqu’un qui donne généreusement mais néglige sa famille et ses obligations financières?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Préparer un dialogue pastoral non moralisateur sur la générosité responsable."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment accompagner quelqu’un qui donne généreusement mais néglige sa famille et ses obligations financières?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

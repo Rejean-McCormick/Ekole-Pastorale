@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-projet-terrain",
+  "namespace_id": "pastorale.demo:projet-terrain",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-projet-terrain",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "4a005ed091ab49406980246ae59570049f215ca431d28abf7ef62604202b19c2"
+        }
+      ]
+    }
+  ]
+}

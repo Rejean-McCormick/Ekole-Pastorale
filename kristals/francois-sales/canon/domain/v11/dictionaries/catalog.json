@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-francois-sales",
+  "namespace_id": "pastorale.demo:francois-sales",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-francois-sales",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "69e7240c5e4cd97c83fd5c4a3eb7b7d003a2acdc26bbabbf88f884f84e361c03"
+        }
+      ]
+    }
+  ]
+}

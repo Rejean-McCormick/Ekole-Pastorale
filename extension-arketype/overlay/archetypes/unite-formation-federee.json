@@ -1,0 +1,68 @@
+{
+  "id": "ARK-20",
+  "slug": "unite-formation-federee",
+  "name": "Federated Learning Unit",
+  "family": "Composition",
+  "description": "One learning unit holds progression, activities and assessment while referring to separately owned knowledge. Projects to Ekole without replacing canonical Kristal state.",
+  "kit_profile": "open",
+  "native_kind_candidate": "unite_pedagogique_federee",
+  "responsibility_mode": "learning-unit-owner",
+  "structural_traits": [
+    "parcours",
+    "dependances",
+    "references_epinglees",
+    "projection_dérivée"
+  ],
+  "epistemic_modes": [
+    "didactique",
+    "référence",
+    "interprétation_attribuée"
+  ],
+  "deployment_options": [
+    "local",
+    "projete",
+    "federe"
+  ],
+  "primitive_candidates": [
+    "objectifs",
+    "sequences",
+    "activites",
+    "evaluation",
+    "identites_v11",
+    "sources",
+    "references_externes",
+    "projection_ekole"
+  ],
+  "reference_use_case": "Ekole-driven learning program backed by Framework v11 educational Kristals.",
+  "integrity_rule": "The learning unit never owns the referenced sources. Reading projection Ekole is always derived and is not a source of doctrinal truth.",
+  "antipattern": "Never convert a saint’s hagiography into factual proof, place textual labels as canonical graph IDs, or treat a generated lesson as the original Kristal.",
+  "design_question": "Which unit owns the pedagogical structure, which Kristals own the religious sources, and which pinned logical states does Ekole read?",
+  "template_path": "modeles/unite-formation-federee",
+  "kind": "open_archetype_not_standard",
+  "maturity": "candidate",
+  "canonical_claims_in_template": false,
+  "composition": "explicit_design_only",
+  "contract_status": "example_draft_not_normative",
+  "visual_pattern": "branching",
+  "secondary_patterns": [
+    "network",
+    "multilayer"
+  ],
+  "structure_label": "Unit with referenced knowledge and derived lesson",
+  "situational_schema": "Learning objective branches into source-linked activities and assessment; a separate publication projection targets Ekole.",
+  "canonical_use_cases": [
+    "educational unit",
+    "pastoral learning module",
+    "knowledge-federated course"
+  ],
+  "case_examples": [
+    "Catholic message and miracle paths in Ekole"
+  ],
+  "primitive_labels_en": [
+    "learning objective",
+    "activity sequence",
+    "assessment",
+    "pinned knowledge references",
+    "Ekole export"
+  ]
+}

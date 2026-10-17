@@ -1,0 +1,432 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:pastorale:unite-native:1.1-draft",
+  "title": "Unité pédagogique catholique fédérée, contrat éditorial expérimental (non normatif Framework)",
+  "type": "object",
+  "required": [
+    "format",
+    "namespace_id",
+    "unite_id",
+    "branche_id",
+    "predicat_appartenance_branche",
+    "branche_code",
+    "theme_id",
+    "reference_id",
+    "curriculum_id",
+    "langue",
+    "objectif",
+    "preuve",
+    "prerequis",
+    "modules",
+    "references",
+    "epistemologie",
+    "validation",
+    "publication_autorisee",
+    "niveau",
+    "duree_minutes",
+    "competences",
+    "questions_difficiles",
+    "activites",
+    "evaluation",
+    "sauvegarde",
+    "registres_documentaires",
+    "bibliographie_cible",
+    "diffusion",
+    "approbations",
+    "guide_enseignant"
+  ],
+  "properties": {
+    "format": {
+      "const": "pastorale.unite-native/1.1-draft"
+    },
+    "namespace_id": {
+      "type": "string",
+      "minLength": 3
+    },
+    "unite_id": {
+      "$ref": "#/$defs/KQ"
+    },
+    "branche_id": {
+      "$ref": "#/$defs/KQ"
+    },
+    "theme_id": {
+      "$ref": "#/$defs/KQ"
+    },
+    "reference_id": {
+      "$ref": "#/$defs/KQ"
+    },
+    "predicat_appartenance_branche": {
+      "$ref": "#/$defs/KP"
+    },
+    "branche_code": {
+      "enum": [
+        "message",
+        "miracles"
+      ]
+    },
+    "curriculum_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]{1,80}$"
+    },
+    "langue": {
+      "const": "fr-CA"
+    },
+    "statut": {
+      "type": "string"
+    },
+    "objectif": {
+      "type": "string",
+      "minLength": 20
+    },
+    "preuve": {
+      "type": "string",
+      "minLength": 20
+    },
+    "prerequis": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "niveau": {
+      "enum": [
+        "introduction",
+        "approfondissement",
+        "application"
+      ]
+    },
+    "duree_minutes": {
+      "type": "integer",
+      "minimum": 120,
+      "maximum": 1200
+    },
+    "modules": {
+      "type": "array",
+      "minItems": 4,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "titre",
+          "texte"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "titre": {
+            "type": "string"
+          },
+          "texte": {
+            "type": "string",
+            "minLength": 40
+          }
+        }
+      }
+    },
+    "competences": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "string",
+        "minLength": 8
+      }
+    },
+    "questions_difficiles": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "references": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "citation",
+          "verification"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/KS"
+          },
+          "citation": {
+            "type": "string"
+          },
+          "verification": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "activites": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "consigne",
+          "livrable",
+          "travail_terrain_requis"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "consigne": {
+            "type": "string"
+          },
+          "livrable": {
+            "type": "string"
+          },
+          "travail_terrain_requis": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "evaluation": {
+      "type": "object",
+      "required": [
+        "production",
+        "criteres",
+        "retroaction"
+      ],
+      "properties": {
+        "production": {
+          "type": "string"
+        },
+        "criteres": {
+          "type": "array",
+          "minItems": 3,
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "description",
+              "poids"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "poids": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 100
+              }
+            }
+          }
+        },
+        "retroaction": {
+          "type": "string"
+        }
+      }
+    },
+    "sauvegarde": {
+      "type": "object",
+      "required": [
+        "ne_pas_promettre_de_miracles",
+        "aucune_adhesion_forcee",
+        "respect_des_soins",
+        "signaler_selon_droit_applicable",
+        "ne_pas_imposer_reconciliation",
+        "directives"
+      ],
+      "properties": {
+        "ne_pas_promettre_de_miracles": {
+          "const": true
+        },
+        "aucune_adhesion_forcee": {
+          "const": true
+        },
+        "respect_des_soins": {
+          "const": true
+        },
+        "signaler_selon_droit_applicable": {
+          "const": true
+        },
+        "ne_pas_imposer_reconciliation": {
+          "const": true
+        },
+        "directives": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "bibliographie_cible": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "reference",
+          "nature",
+          "commentaire"
+        ],
+        "properties": {
+          "reference": {
+            "type": "string"
+          },
+          "nature": {
+            "type": "string"
+          },
+          "commentaire": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "registres_documentaires": {
+      "type": "array",
+      "minItems": 3,
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "diffusion": {
+      "type": "object"
+    },
+    "approbations": {
+      "type": "object",
+      "required": [
+        "exegese",
+        "doctrine",
+        "pedagogie",
+        "protection",
+        "licences",
+        "autorite_ecclesiale"
+      ],
+      "properties": {
+        "exegese": {
+          "type": "boolean"
+        },
+        "doctrine": {
+          "type": "boolean"
+        },
+        "pedagogie": {
+          "type": "boolean"
+        },
+        "protection": {
+          "type": "boolean"
+        },
+        "licences": {
+          "type": "boolean"
+        },
+        "autorite_ecclesiale": {
+          "type": "boolean"
+        }
+      }
+    },
+    "epistemologie": {
+      "type": "object",
+      "required": [
+        "registre",
+        "politique"
+      ],
+      "properties": {
+        "registre": {
+          "enum": [
+            "message",
+            "miracles"
+          ]
+        },
+        "politique": {
+          "type": "string"
+        }
+      }
+    },
+    "validation": {
+      "type": "object",
+      "required": [
+        "pedagogical",
+        "theological",
+        "safeguarding"
+      ],
+      "properties": {
+        "pedagogical": {
+          "type": "boolean"
+        },
+        "theological": {
+          "type": "boolean"
+        },
+        "safeguarding": {
+          "type": "boolean"
+        }
+      }
+    },
+    "publication_autorisee": {
+      "const": false
+    },
+    "guide_enseignant": {
+      "type": "object",
+      "required": [
+        "publics",
+        "plan_de_seances",
+        "discussion_pour_personne_sceptique",
+        "discussion_pour_personne_croyante",
+        "points_d_attention",
+        "traitement_des_sources"
+      ],
+      "properties": {
+        "plan_de_seances": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "minutes",
+              "sequence"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "minutes": {
+                "type": "integer",
+                "minimum": 30
+              },
+              "sequence": {
+                "type": "array",
+                "minItems": 3
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "KQ": {
+      "type": "string",
+      "pattern": "^KQ[1-9][0-9]*$"
+    },
+    "KP": {
+      "type": "string",
+      "pattern": "^KP[1-9][0-9]*$"
+    },
+    "KS": {
+      "type": "string",
+      "pattern": "^KS[1-9][0-9]*$"
+    }
+  }
+}

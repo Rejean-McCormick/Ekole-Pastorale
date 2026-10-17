@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-012",
+  "titre": "Sacramentel et surnaturel : signes de la grâce",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Identifier l’Institution eucharistique selon Paul et expliquer le langage liturgique des signes sensibles et de la grâce."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Différencier miracles narratifs, sacrements et dévotions. L’Eucharistie n’est pas simplement une métaphore du repas partagé dans l’enseignement catholique."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Une personne pense que la transsubstantiation se vérifie par une analyse de laboratoire. Comment clarifier les registres?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Concevoir une explication accessible des signes sacramentels qui ne force aucune adhésion préalable pour entrer en dialogue."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Une personne pense que la transsubstantiation se vérifie par une analyse de laboratoire. Comment clarifier les registres?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

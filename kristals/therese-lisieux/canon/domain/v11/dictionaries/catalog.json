@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-therese-lisieux",
+  "namespace_id": "pastorale.demo:therese-lisieux",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-therese-lisieux",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "2eed0b1bf13b73cf1ab0cf90e4749f41b63e7f750f17bb326c939f7ab718e22f"
+        }
+      ]
+    }
+  ]
+}

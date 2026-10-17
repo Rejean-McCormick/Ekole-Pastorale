@@ -1,0 +1,87 @@
+{
+  "format": "pastorale.verification/1.1",
+  "course_kristals": 32,
+  "witness_kristals": 1,
+  "local_framework_checks": 33,
+  "framework_check_ok": true,
+  "qualifications": [
+    {
+      "slug": "lire-bible",
+      "result": {
+        "catalog_sha256": "bb649e4d585f9f4c6f3351126f753258225ef798f0f4bd3a619433f73278aec7",
+        "framework_version": "11.0.0-draft.3",
+        "graph_id": "curriculum-lire-bible",
+        "graph_sha256": "e3e39ed10507a5360e239f54fa840ff6ee97bf0764ca0a7e5181b7e182165386",
+        "integration_pack": "coverage-and-check-matched",
+        "languages_tested": [
+          "fr-CA"
+        ],
+        "namespace_id": "pastorale.demo:lire-bible",
+        "profile": "kristal.authoring-framework-qualification/11.0-draft.3",
+        "read_only": true,
+        "reference_coverage_match": true,
+        "valid": true
+      }
+    },
+    {
+      "slug": "francois-assise",
+      "result": {
+        "catalog_sha256": "dab94a8bf208798317cbb974581cc5f278eb2ab74b60ae0b91da685cc88f6afb",
+        "framework_version": "11.0.0-draft.3",
+        "graph_id": "temoin-francois-assise",
+        "graph_sha256": "f3684cf77742d06dd6bbe56b8c4785e15752c482577d470acb031c6b5bbd8a3f",
+        "integration_pack": "coverage-and-check-matched",
+        "languages_tested": [
+          "fr-CA"
+        ],
+        "namespace_id": "pastorale.temoins:francois-assise",
+        "profile": "kristal.authoring-framework-qualification/11.0-draft.3",
+        "read_only": true,
+        "reference_coverage_match": true,
+        "valid": true
+      }
+    },
+    {
+      "slug": "resurrection",
+      "result": {
+        "catalog_sha256": "51bcde89a8153be421fe996c70991f61bcd47cd78cd9a5a84e947f962b83f8fa",
+        "framework_version": "11.0.0-draft.3",
+        "graph_id": "curriculum-resurrection",
+        "graph_sha256": "0bfa12d6ccabd58a7c40b02cd1b3d5cd12e4f2b4a49b8419ac7c1efe185ca7d1",
+        "integration_pack": "coverage-and-check-matched",
+        "languages_tested": [
+          "fr-CA"
+        ],
+        "namespace_id": "pastorale.demo:resurrection",
+        "profile": "kristal.authoring-framework-qualification/11.0-draft.3",
+        "read_only": true,
+        "reference_coverage_match": true,
+        "valid": true
+      }
+    },
+    {
+      "slug": "miracle-science",
+      "result": {
+        "catalog_sha256": "1a23ef678ce2ec52d172f28a185e789461b0966e1e0353aaa0bd595c0333cc97",
+        "framework_version": "11.0.0-draft.3",
+        "graph_id": "curriculum-miracle-science",
+        "graph_sha256": "6aaba9584bb9d9cad5084d8869249e665d138b1a477dc9e5fea5b6130f0d647b",
+        "integration_pack": "coverage-and-check-matched",
+        "languages_tested": [
+          "fr-CA"
+        ],
+        "namespace_id": "pastorale.demo:miracle-science",
+        "profile": "kristal.authoring-framework-qualification/11.0-draft.3",
+        "read_only": true,
+        "reference_coverage_match": true,
+        "valid": true
+      }
+    }
+  ],
+  "arketype_extension_20_21_dry_or_install": "installation + show + create réussis en copie temporaire",
+  "known_limits": [
+    "Global arketype validate fails on defects in baseline snapshot; not claimed resolved",
+    "The 32 courses are teaching drafts, not ecclesiastically approved",
+    "Historic Catho bridge is content-addressed, not a v11 identity migration"
+  ]
+}

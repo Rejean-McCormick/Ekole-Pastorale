@@ -1,0 +1,62 @@
+{
+  "format": "pastorale.temoin-native/0.1-draft",
+  "namespace_id": "pastorale.temoins:francois-assise",
+  "temoin_id": "KQ1001",
+  "statut": "candidat_non_publie",
+  "nom": "François d’Assise",
+  "sources_primaires_a_collationner": [
+    {
+      "id": "KS4001",
+      "titre": "Testament et Règle",
+      "type": "ecrit_attribue_au_saint",
+      "edition": "edition_critique_a_preciser",
+      "status": "repere_bibliographique_non_verifie"
+    },
+    {
+      "id": "KS4002",
+      "titre": "Cantique des créatures",
+      "type": "ecrit_attribue_au_saint",
+      "edition": "edition_critique_a_preciser",
+      "status": "repere_bibliographique_non_verifie"
+    }
+  ],
+  "vertus_et_actes": [
+    {
+      "id": "KQ1002",
+      "vertu": "pauvreté volontaire",
+      "precision": "Ne pas assimiler la pauvreté librement choisie à la privation imposée aux pauvres.",
+      "preuve": "a_documenter_dans_les_sources"
+    },
+    {
+      "id": "KQ1003",
+      "vertu": "fraternité",
+      "precision": "Lire les pratiques de relation dans leur contexte historique.",
+      "preuve": "a_documenter_dans_les_sources"
+    }
+  ],
+  "narrations_hagiographiques": {
+    "statut": "candidats_distincts",
+    "lignes": "Ne pas attribuer une anecdote sans préciser le témoin, la date et le genre."
+  },
+  "miracles_attribues": {
+    "statut": "hors_champ_du_dossier_des_vertus",
+    "route": "branche_miracles_avec_evaluation_des_sources"
+  },
+  "statut_ecclesial": {
+    "contexte": "figure vénérée de la tradition catholique",
+    "verification_documentaire": "a_preciser_sur_source_officielle"
+  },
+  "liens_vers_ekole": [
+    {
+      "cours_id": "EPC-MSG-012",
+      "type": "candidat_non_pinne"
+    }
+  ],
+  "publication_autorisee": false,
+  "validations": {
+    "historique": false,
+    "theologique": false,
+    "traductions": false,
+    "licences": false
+  }
+}

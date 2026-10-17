@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-003",
+  "titre": "Multiplication des pains : signe et partage",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Comparer les gestes du récit synoptique avec la lecture johannique du pain de vie. Ne pas fusionner les passages sans expliciter leur provenance."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Affirmer la dimension miraculeuse du récit dans la foi catholique tout en analysant son vocabulaire, la compassion, le repas et la foule."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Quelle différence entre réfléchir au partage et affirmer que le miracle se réduit uniquement au partage humain?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Construire deux cartes de lecture, théologique et sociale, avec mentions explicites de ce qu’elles ne démontrent pas."
+    }
+  ],
+  "niveau": "introduction",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Quelle différence entre réfléchir au partage et affirmer que le miracle se réduit uniquement au partage humain?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}

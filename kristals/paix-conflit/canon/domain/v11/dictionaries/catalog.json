@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-paix-conflit",
+  "namespace_id": "pastorale.demo:paix-conflit",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-paix-conflit",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "6c12112ff93da0006c463f7dd0e5e4dddea400aacabb6b801b0ee9707f48055a"
+        }
+      ]
+    }
+  ]
+}

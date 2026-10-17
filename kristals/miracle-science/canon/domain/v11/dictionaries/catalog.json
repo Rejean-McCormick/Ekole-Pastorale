@@ -1,0 +1,21 @@
+{
+  "schema_version": "11.0",
+  "artifact_type": "kristal_dictionary_catalog",
+  "catalog_id": "catalog-miracle-science",
+  "namespace_id": "pastorale.demo:miracle-science",
+  "languages": [
+    {
+      "tag": "fr-CA",
+      "fallbacks": [],
+      "layers": [
+        {
+          "layer_id": "curated-miracle-science",
+          "kind": "curated",
+          "priority": 100,
+          "path": "curated-fr-CA.json",
+          "sha256": "fa410393214abb4f0147bf924c25b5c4e7a09c1423d2f436124a3e1000a52f7f"
+        }
+      ]
+    }
+  ]
+}

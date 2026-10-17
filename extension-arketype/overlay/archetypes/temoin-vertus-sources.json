@@ -1,0 +1,69 @@
+{
+  "id": "ARK-21",
+  "slug": "temoin-vertus-sources",
+  "name": "Witness, Virtues and Source Attestations",
+  "family": "Référentiel",
+  "description": "Structured source-aware saint/witness dossier, distinguish deeds, written works, virtues, hagiography, miracles, ecclesial status.",
+  "kit_profile": "open",
+  "native_kind_candidate": "temoin_vertus_attestations",
+  "responsibility_mode": "witness-dossier-owner",
+  "structural_traits": [
+    "sources_primaires",
+    "vertus_attribuees",
+    "attestations",
+    "statut_epistemique",
+    "liaisons_education"
+  ],
+  "epistemic_modes": [
+    "critique_documentaire",
+    "theologie_spirituelle",
+    "hagiographie_attribuee"
+  ],
+  "deployment_options": [
+    "local",
+    "federe",
+    "projection"
+  ],
+  "primitive_candidates": [
+    "personne",
+    "oeuvre",
+    "vertu",
+    "fait_attribue",
+    "source",
+    "preuve",
+    "statut",
+    "projection"
+  ],
+  "reference_use_case": "French Canadian Catholic pastoral curriculum; saints teach through concrete lives without treating miracle accounts as proof.",
+  "integrity_rule": "Primary writings, attributed deeds, historical documentary evidence, ecclesial judgments and miracle stories must remain separately typed.",
+  "antipattern": "No automatic canonization or miracles based on AI storytelling.",
+  "design_question": "Which aspects of this person are directly attested and which belong to reception or devotional tradition?",
+  "template_path": "modeles/temoin-vertus-sources",
+  "kind": "open_archetype_not_standard",
+  "maturity": "candidate",
+  "canonical_claims_in_template": false,
+  "composition": "explicit_design_only",
+  "contract_status": "example_draft_not_normative",
+  "visual_pattern": "multilayer",
+  "secondary_patterns": [
+    "network",
+    "timeline"
+  ],
+  "structure_label": "Witness, source, virtue and reception",
+  "situational_schema": "Person linked to attributed virtues and independent source layers; miracles isolated as their own documentary class.",
+  "canonical_use_cases": [
+    "saint dossier",
+    "witness biography",
+    "virtue education"
+  ],
+  "case_examples": [
+    "Francis of Assisi primary writings versus hagiography"
+  ],
+  "primitive_labels_en": [
+    "witness",
+    "source",
+    "virtue",
+    "attestation",
+    "historical status"
+  ]
+}

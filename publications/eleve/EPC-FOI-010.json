@@ -1,0 +1,36 @@
+{
+  "format": "ekole.cours/0.1",
+  "id": "EPC-FOI-010",
+  "titre": "Miracles, sciences et limites des méthodes",
+  "modules": [
+    {
+      "id": "module-1",
+      "titre": "Textes et contexte",
+      "texte": "Distinguer question de mécanisme physique, interprétation théologique et type de preuve disponible. Ne pas demander à une discipline de trancher une question pour laquelle ses méthodes ne suffisent pas."
+    },
+    {
+      "id": "module-2",
+      "titre": "Tradition et distinctions",
+      "texte": "Présenter la place des signes dans la théologie catholique, avec une approche critique qui n’affirme ni incompatibilité de principe ni démonstration scientifique automatique de Dieu."
+    },
+    {
+      "id": "module-3",
+      "titre": "Question pastorale",
+      "texte": "Comment répondre à « Si la science n’explique pas une guérison, cela prouve-t-il le miracle? » sans conclure trop vite?"
+    },
+    {
+      "id": "module-4",
+      "titre": "Atelier et transfert",
+      "texte": "Faire une étude de cas avec plusieurs degrés d’incertitude et expliciter ce qui reste indéterminé."
+    }
+  ],
+  "niveau": "approfondissement",
+  "duree_minutes": 180,
+  "statut_publication": "MAQUETTE_LOCALE_NON_APPROUVEE",
+  "avertissement": "Étude locale en préparation, non approuvée pour diffusion publique.",
+  "questions_de_reflexion": [
+    "Comment répondre à « Si la science n’explique pas une guérison, cela prouve-t-il le miracle? » sans conclure trop vite?",
+    "Quelles sont les limites de nos sources et quelles questions restent ouvertes?"
+  ],
+  "publication_autorisee": false
+}
