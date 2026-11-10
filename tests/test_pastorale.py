@@ -4,7 +4,13 @@ import pathlib
 import sys
 import unittest
 
-sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+PASTORALE = pathlib.Path(__file__).resolve().parents[1]
+CORE = PASTORALE.parent / 'ekole'
+# Explicit real sibling engine (not the content repository) is needed for
+# load_pack; no packaged/duplicated Ekole implementation is introduced.
+if not (CORE / 'launcher.py').is_file():
+    raise unittest.SkipTest('Ekole Core sibling required to run this integration test')
+sys.path.insert(0, str(CORE))
 from launcher import ENGINE, load_pack
 
 
@@ -17,7 +23,7 @@ class PastoralTests(unittest.TestCase):
         # le rapport Windows du 2026-10-24), mais ne doivent pas disparaître.
         self.assertGreaterEqual(len(pack['cours']), 12)
         self.assertGreaterEqual(len(pack['parcours']), 3)
-        self.assertTrue(all(c['statut'] == 'brouillon_a_valider' for c in pack['cours']))
+        self.assertTrue(all(c['statut'] == 'maquette_non_approuvee' for c in pack['cours']))
         for c in pack['cours']:
             with self.subTest(cours=c['id']):
                 doc = json.loads((root / c['fichier']).read_text(encoding='utf-8'))

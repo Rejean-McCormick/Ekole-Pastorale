@@ -164,3 +164,6 @@ The English [Wiki Home](wiki/Home.md) links to installation, architecture, curri
 **Ekole Core + this content repository = Ekole Pastorale.**
 
 Ekole Core is a general-purpose learning platform and can also load other content packs (such as Ekole Québec). The Catholic curriculum, branch definitions, citations, and saints belong to this content repository and its Kristals, **not** to the Core engine. No Catholic-specific code must be introduced into Ekole Core to run this school.
+## Final-system integration reference (Branch 06)
+
+The [English education-boundary specification](docs/FINAL_SYSTEM_EDUCATION_ALIGNMENT.md) describes implemented safety checks, local test instructions, cross-owner responsibilities and still-unapproved interfaces. It does **not** assert a deployed Orgo/Moodle workflow.
