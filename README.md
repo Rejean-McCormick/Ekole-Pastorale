@@ -49,7 +49,7 @@ Before starting the servers, you can validate content loading:
 python3 demarrer_pastorale.py --verifier
 ```
 
-The default learner portal runs at **http://127.0.0.1:8775/**. The teacher/editor application uses port **8776**, and the launcher displays its private access URL in the terminal. Keep the terminal open while the servers run; use **Ctrl+C** to stop them.
+The default learner portal runs at **http://127.0.0.1:21153/**. The teacher/editor application uses port **21154**, and the launcher displays its private access URL in the terminal. Keep the terminal open while the servers run; use **Ctrl+C** to stop them.
 
 To launch without automatically opening a browser:
 

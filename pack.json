@@ -502,5 +502,58 @@
   "cours_a_decouvrir": [
     "EPC-MSG-001",
     "EPC-FOI-001"
-  ]
+  ],
+  "visuels_themes": {
+    "default": "aquarelle",
+    "styles": [
+      {
+        "id": "aquarelle",
+        "name": "Aquarelle sur papier coton"
+      },
+      {
+        "id": "vitrail",
+        "name": "Vitrail lumineux"
+      },
+      {
+        "id": "fusain",
+        "name": "Fusain et graphite"
+      },
+      {
+        "id": "neon-futuriste",
+        "name": "Néon futuriste"
+      },
+      {
+        "id": "enluminure",
+        "name": "Enluminure médiévale"
+      },
+      {
+        "id": "mosaique-byzantine",
+        "name": "Mosaïque byzantine"
+      },
+      {
+        "id": "gravure-bois",
+        "name": "Gravure sur bois"
+      },
+      {
+        "id": "papier-decoupe",
+        "name": "Papier découpé en relief"
+      },
+      {
+        "id": "pastel-sec",
+        "name": "Pastel sec poudré"
+      },
+      {
+        "id": "huile-toile",
+        "name": "Peinture à l’huile sur toile"
+      },
+      {
+        "id": "ceramique-emaillee",
+        "name": "Céramique émaillée"
+      },
+      {
+        "id": "diorama-isometrique",
+        "name": "Diorama isométrique"
+      }
+    ]
+  }
 }

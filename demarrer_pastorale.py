@@ -22,8 +22,8 @@ def main(argv=None) -> int:
     p.add_argument('--sans-navigateur', action='store_true', help='Ne pas ouvrir le navigateur')
     p.add_argument('--sans-editeur', action='store_true', help="Ne demarrer que le portail public")
     p.add_argument('--edition', action='store_true', help="Autoriser l'edition locale des cours")
-    p.add_argument('--port', type=int, default=8775, help='Port public (defaut : 8775)')
-    p.add_argument('--port-editeur', type=int, default=8776, help='Port enseignant (defaut : 8776)')
+    p.add_argument('--port', type=int, default=21153, help='Port public (defaut : 21153)')
+    p.add_argument('--port-editeur', type=int, default=21154, help='Port enseignant (defaut : 21154)')
     p.add_argument('--core', type=Path, help='Chemin explicite vers ekole/ (sinon dossier frere)')
     args = p.parse_args(argv)
 

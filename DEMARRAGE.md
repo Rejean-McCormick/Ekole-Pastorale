@@ -17,7 +17,7 @@ Dans `ecole-pastorale/`, double-cliquez sur **`LANCER_PASTORALE.bat`** (l'ancien
 
 - Le lanceur trouve `../ekole/launcher.py` automatiquement.
 - Il fait vérifier les 32 cours et les 7 parcours par Ekole Core.
-- Il démarre le portail sur **http://127.0.0.1:8775/** et l'éditeur enseignant privé sur le port **8776**.
+- Il démarre le portail sur **http://127.0.0.1:21153/** et l'éditeur enseignant privé sur le port **21154**.
 - Les pages sont ouvertes automatiquement dans le navigateur.
 - La fenêtre de terminal doit rester ouverte; **Ctrl+C** arrête les serveurs.
 
@@ -56,7 +56,7 @@ Vous pouvez aussi définir la variable d'environnement `EKOLE_CORE_PATH` vers le
 **Sans lanceur**, la commande équivalente est :
 
 ```bash
-python3 ../ekole/launcher.py --contenu . --port 8775 --port-editeur 8776 --ouvrir
+python3 ../ekole/launcher.py --contenu . --port 21153 --port-editeur 21154 --ouvrir
 ```
 
 ## 6. Ce qui reste inchangé
@@ -71,4 +71,4 @@ python3 ../ekole/launcher.py --contenu . --port 8775 --port-editeur 8776 --ouvri
 - **« Ekole Core introuvable »** : vérifier que les deux dossiers sont frères et orthographiés `ekole` et `ecole-pastorale`.
 - **« Port indisponible »** : arrêter une autre instance, ou spécifier deux autres ports.
 - **Un écran vide** : consulter la console pour le diagnostic et tester `--verifier`.
-- **Le navigateur ne s'ouvre pas** : ouvrir manuellement http://127.0.0.1:8775/ ; le serveur doit continuer à tourner dans le terminal.
+- **Le navigateur ne s'ouvre pas** : ouvrir manuellement http://127.0.0.1:21153/ ; le serveur doit continuer à tourner dans le terminal.
