@@ -14,12 +14,24 @@ class DepotFrereTests(unittest.TestCase):
         self.assertEqual(pack['format'],'ekole.content-pack/0.1')
         self.assertEqual(len(pack['cours']),32)
         self.assertEqual(len(pack['parcours']),7)
+        self.assertEqual(pack['visuels_themes'],pe.load_visual_themes(ROOT))
+        self.assertEqual(len(pack['visuels_themes']['styles']),12)
         for x in pack['cours']:
             cid=x['id']
             self.assertEqual(json.loads((ROOT/x['fichier']).read_text(encoding='utf-8'))['id'],cid)
             student=json.loads((ROOT/'publications/eleve'/f'{cid}.json').read_text(encoding='utf-8'))
             self.assertEqual(student['id'],cid)
             self.assertFalse(student['publication_autorisee'])
+    def test_invalid_visual_default_is_refused(self):
+        with tempfile.TemporaryDirectory() as d:
+            source=Path(d)/'curriculum'
+            source.mkdir()
+            source.joinpath('visuels-themes.json').write_text(
+                json.dumps({'default':'absent','styles':[{'id':'aquarelle','name':'Aquarelle'}]}),
+                encoding='utf-8')
+            with self.assertRaisesRegex(ValueError,'défaut absent'):
+                pe.load_visual_themes(Path(d))
+
     def test_pack_matches_sources(self):
         with tempfile.TemporaryDirectory() as d:
             fresh=pe.compile_pack(ROOT,Path(d),preflight=False)

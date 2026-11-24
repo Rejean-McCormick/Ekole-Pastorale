@@ -112,6 +112,24 @@ def build_paths(units):
  require(all(p['cours_ids'] and set(p['cours_ids'])<=set(by) for p in paths),'Parcours incomplet')
  return paths
 
+def load_visual_themes(root):
+ """Read the explicitly maintained visual-style source, never the generated pack."""
+ themes=read(root/'curriculum/visuels-themes.json')
+ require(isinstance(themes,dict),'Configuration des thèmes visuels invalide')
+ require(isinstance(themes.get('default'),str) and bool(themes['default']),'Thème visuel par défaut manquant')
+ styles=themes.get('styles')
+ require(isinstance(styles,list) and bool(styles),'Liste des thèmes visuels absente ou vide')
+ ids=[]
+ for style in styles:
+  require(isinstance(style,dict),'Définition de thème visuel invalide')
+  sid=style.get('id');name=style.get('name')
+  require(isinstance(sid,str) and SAFE.fullmatch(sid) is not None,'Identifiant de thème visuel invalide')
+  require(isinstance(name,str) and bool(name.strip()),'Nom de thème visuel manquant')
+  ids.append(sid)
+ require(len(ids)==len(set(ids)),'Identifiant de thème visuel dupliqué')
+ require(themes['default'] in ids,'Thème visuel par défaut absent des styles')
+ return themes
+
 def compile_pack(root,output,preflight=True):
  root=root.resolve();output=output.resolve()
  require(root==output or not root.is_relative_to(output),'Chemin de sortie interdit')
@@ -147,7 +165,8 @@ def compile_pack(root,output,preflight=True):
  pack={'format':'ekole.content-pack/0.1','id':'ecole-pastorale','nom':'École catholique pastorale — deux branches et témoins',
   'langue':'fr-CA','statut':'projet_non_publie','description':'Deux branches distinctes; docteurs, saints et action pastorale; curriculum v11 dérivé.',
   'politique_publication':'vues_separees','cours':sorted(items,key=lambda z:z['id']),'parcours':paths,
-  'parcours_mis_en_avant':'EPC-MESSAGE','cours_a_decouvrir':['EPC-MSG-001','EPC-FOI-001']}
+  'parcours_mis_en_avant':'EPC-MESSAGE','cours_a_decouvrir':['EPC-MSG-001','EPC-FOI-001'],
+  'visuels_themes':load_visual_themes(root)}
  put(output/'pack.json',pack)
  bridge=read(root/'federation/catho-legacy-bridge.json')
  put(output/'provenance-derivation.json',{'format':'pastorale.ekole-derivation/1.1','published':False,'release_approved':False,'source_kristals':prov,'catho_legacy_pins':bridge['artifacts'],

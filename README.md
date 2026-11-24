@@ -65,7 +65,7 @@ python3 demarrer_pastorale.py --core ../ekole --port 8875 --port-editeur 8876
 
 The launcher also accepts `--sans-editeur` (learner portal only), `--edition` (enable local editor changes), and the `EKOLE_CORE_PATH` environment variable. The editor is read-only by default.
 
-For full setup, Windows commands, and troubleshooting, see [Getting Started](wiki/Getting-Started.md).
+For full setup, Windows commands, and troubleshooting, see [Getting Started](docs/INSTALLATION_REPO_FRERE.md).
 
 ## Two independent learning branches, one Catholic identity
 
@@ -76,15 +76,16 @@ The curriculum deliberately distinguishes **what Jesus and the Catholic traditio
 
 The Resurrection is treated as central to Catholic faith; it is not presented as interchangeable with a later devotional miracle claim. Textual, historical, theological, and pastoral registers are kept distinguishable. Both branches permit thoughtful discussion and respect for learners who have questions or doubts.
 
-All 32 courses are currently structured **teaching drafts**, not a complete accredited curriculum. See the [Curriculum](wiki/Curriculum.md) and [Editorial Principles](wiki/Editorial-Principles.md).
+All 32 courses are currently structured **teaching drafts**, not a complete accredited curriculum. See the [Curriculum](docs/CURRICULUM.md) and [Editorial Principles](docs/GOUVERNANCE_ET_ETHIQUE.md).
 
 ## Repository layout
 
 ```text
 ecole-pastorale/
 ├── README.md                      # English repository overview
-├── wiki/                          # English, GitHub Wiki-ready source pages
+├── docs/                          # Local curriculum, governance, installation and architecture notes
 ├── pack.json                      # Ekole content-pack manifest (generated)
+├── curriculum/visuels-themes.json # Maintained source for 12 visual styles
 ├── cours/                         # 32 teacher-oriented course JSON files (generated)
 ├── publications/eleve/            # 32 learner views (generated, not approved)
 ├── kristals/                      # 32 canonical Kristal v11 course workspaces
@@ -105,18 +106,23 @@ ecole-pastorale/
 
 - **Canonical teaching content:** `kristals/<slug>/canon/domain/pedagogie/unite.json`, together with each Kristal's registered v11 semantic resources and its v9 state commitment.
 - **Witness content:** `kristals-temoins/francois-assise/`, maintained independently of the course on Saint Francis.
+- **Visual style source:** `curriculum/visuels-themes.json` defines the 12 visual styles and their default, separately from the canonical teaching material. The projector validates and includes this configuration in the generated `pack.json`.
 - **Generated Ekole projection:** root `pack.json`, `cours/`, `publications/eleve/`, and `provenance-derivation.json`. **Do not hand-edit these generated files.**
 - **Historical reference bridge:** `federation/catho-legacy-bridge.json` links exact legacy artifact hashes. It is not proof of v11 identity equivalence.
 
-For the design boundaries, see [Architecture](wiki/Architecture.md), [Kristal v11](wiki/Kristal-Framework-v11.md), and [Arketypes](wiki/Arketypes-ARK-20-and-ARK-21.md).
+For the design boundaries, see [Architecture](docs/DECISIONS_ARCHITECTURE.md), [Kristal v11](docs/MIGRATION_CATHO_V11.md), and [Arketypes](docs/MIGRATION_CATHO_V11.md).
 
 ## Validation and regeneration
 
-Run the repository tests:
+Rebuild the derived local v9 states first when working from a source snapshot (which can omit `build/v9/`), then run the tests:
 
 ```bash
+python3 outils/rebuild_local_candidates.py --build
+python3 outils/rebuild_local_candidates.py
 python3 -m unittest discover -s tests -v
 ```
+
+The sibling Ekole Core integration test is skipped when Core is unavailable; that skip is not evidence of integration success. Tests do not authorize publication. See [Testing and Validation](docs/TESTING_AND_VALIDATION.md).
 
 Check that the sibling Core can load the exported pack:
 
@@ -142,7 +148,7 @@ python3 demarrer_pastorale.py --verifier
 
 The projector is designed to reject changed canonical files that no longer match their pinned build state. Successful technical checks **do not** mean the material has been approved doctrinally or cleared for release.
 
-See [Authoring and Projection](wiki/Authoring-and-Projection.md) and [Testing and Validation](wiki/Testing-and-Validation.md).
+See [Authoring and Projection](docs/DECISIONS_ARCHITECTURE.md) and [Testing and Validation](docs/TESTING_AND_VALIDATION.md).
 
 ## Publication, safety, and limitations
 
@@ -153,11 +159,11 @@ See [Authoring and Projection](wiki/Authoring-and-Projection.md) and [Testing an
 - **Catho migration is incomplete:** the 38-Doctor/138-reference inventory is historical and hash-pinned, not an automatically trusted semantic crosswalk.
 - **Repository licensing:** no repository-level license was provided in this snapshot; do not assume permission to redistribute its contents.
 
-Read [Governance and Safeguarding](wiki/Governance-and-Safeguarding.md) before editing, teaching, or publishing.
+Read [Governance and Safeguarding](docs/GOUVERNANCE_ET_ETHIQUE.md) before editing, teaching, or publishing.
 
 ## Documentation
 
-The English [Wiki Home](wiki/Home.md) links to installation, architecture, curriculum, authoring, maintenance, and governance guides. The `wiki/` folder can also be published to GitHub's separate wiki repository; see [Publishing the GitHub Wiki](wiki/Publishing-the-GitHub-Wiki.md).
+The historical set of 11 local `wiki/*.md` pages is **not present in the 2026-11-23 code snapshot**. New [documentation home](docs/DOCUMENTATION_HOME.md), [testing guide](docs/TESTING_AND_VALIDATION.md), and [Wiki publication policy](docs/WIKI_PUBLICATION_POLICY.md) are maintained as local replacements for three missing topics—not recovered copies of the old Wiki. See [Wiki gaps and source guide](docs/WIKI_GAPS.md); an external GitHub Wiki has not been verified or published by this overlay.
 
 ## Relationship to Ekole
 

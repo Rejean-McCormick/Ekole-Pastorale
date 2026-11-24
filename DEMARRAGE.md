@@ -13,7 +13,7 @@ Ekole/
 
 ## 2. Double-cliquer pour démarrer (Windows)
 
-Dans `ecole-pastorale/`, double-cliquez sur **`LANCER_PASTORALE.bat`** (l'ancien `LANCER.bat` reste un alias).
+Dans `ecole-pastorale/`, double-cliquez sur **`LANCER_PASTORALE.bat`**. Le fichier `LANCER.bat` n'est pas fourni dans ce dépôt.
 
 - Le lanceur trouve `../ekole/launcher.py` automatiquement.
 - Il fait vérifier les 32 cours et les 7 parcours par Ekole Core.
